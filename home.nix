@@ -48,9 +48,13 @@
     #   org.gradle.console=verbose
     #   org.gradle.daemon.idletimeout=3600000
     # '';
-    ".config/nvim/init.lua".source = ./dotfiles/nvim/init.lua;
-    ".config/nvim/lua".source = ./dotfiles/nvim/lua;
-    ".config/nvim/ftplugin".source = ./dotfiles/nvim/ftplugin;
+    # ".config/nvim/init.lua".source = ./dotfiles/nvim/init.lua;
+    # ".config/nvim/lua".source = ./dotfiles/nvim/lua;
+    # ".config/nvim/ftplugin".source = ./dotfiles/nvim/ftplugin;
+    ".config/nvim" = {
+      source = inputs.nvim-config;
+      recursive = true;
+    };
 
     ".config/tmux".source = ./dotfiles/tmux;
     ".config/satty".source = ./dotfiles/satty;

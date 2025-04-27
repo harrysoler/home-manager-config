@@ -130,6 +130,22 @@
         "type": "github"
       }
     },
+    "nvim-config": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1745726582,
+        "narHash": "sha256-PTPKh/0PAaP8hymTV0yDz5ffVInE6NsPkF6p+hyD7fE=",
+        "owner": "harrysoler",
+        "repo": "nvim-config",
+        "rev": "ee2d4a589365376a73778538fff747394d90fb44",
+        "type": "github"
+      },
+      "original": {
+        "owner": "harrysoler",
+        "repo": "nvim-config",
+        "type": "github"
+      }
+    },
     "ny": {
       "flake": false,
       "locked": {
@@ -148,6 +164,7 @@
         "avizo-brillo": "avizo-brillo",
         "home-manager": "home-manager",
         "nixpkgs": "nixpkgs_3",
+        "nvim-config": "nvim-config",
         "zen-browser": "zen-browser"
       }
     },

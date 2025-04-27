@@ -16,6 +16,9 @@
 
     avizo-brillo.url = "github:harrysoler/avizo-brillo-support";
     avizo-brillo.flake = false;
+
+    nvim-config.url = "github:harrysoler/nvim-config";
+    nvim-config.flake = false;
   };
 
   outputs = { self, nixpkgs, home-manager, ... } @ inputs:
