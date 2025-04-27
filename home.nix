@@ -17,8 +17,6 @@ in
     inputs.apple-fonts.packages.${pkgs.system}.sf-mono-nerd
     pkgs.font-manager
 
-    inputs.zen-browser.packages.${pkgs.system}.beta
-
     pkgs.wl-clip-persist
     pkgs.wl-clipboard
     pkgs.clipse
@@ -28,16 +26,14 @@ in
     pkgs.satty
 
     pkgs.playerctl
-
     pkgs.brillo
     pkgs.hyprpicker
 
+    inputs.zen-browser.packages.${pkgs.system}.beta
+    pkgs.pcmanfm
+
     pkgs.keepassxc
     pkgs.openspades
-
-    pkgs.pnpm
-    pkgs.go
-    pkgs.deno
 
     pkgs.nwg-look
   ];
@@ -279,6 +275,10 @@ in
       name = "Adwaita Sans";
       package = pkgs-unstable.adwaita-fonts;
     };
+    iconTheme = {
+      name = "kora";
+      package = pkgs.kora-icon-theme;
+    };
   };
 
   programs.alacritty = {
@@ -290,10 +290,10 @@ in
       };
       font = {
         normal.family = "SFMono Nerd Font";
-	bold.family = "SFMono Nerd Font";
-	italic.family = "SFMono Nerd Font";
-	bold_italic.family = "SFMono Nerd Font";
-	size = 12;
+        bold.family = "SFMono Nerd Font";
+        italic.family = "SFMono Nerd Font";
+        bold_italic.family = "SFMono Nerd Font";
+        size = 12;
       };
       general = {
         live_config_reload = true;
