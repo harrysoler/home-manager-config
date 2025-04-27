@@ -2,6 +2,7 @@
 
 let
   adwaita-slim-dark-gtk-theme = import ./pkgs/adwaita-slim-dark-gtk-theme.nix { inherit pkgs; };
+  cursorTheme = "Bibata-Modern-Ice";
 in
 {
   home.username = "harry";
@@ -13,7 +14,6 @@ in
   # environment.
   home.packages = [
     (pkgs.nerdfonts.override { fonts = [ "SpaceMono" ]; })
-    pkgs-unstable.adwaita-fonts
     inputs.apple-fonts.packages.${pkgs.system}.sf-mono-nerd
     pkgs.font-manager
 
@@ -106,63 +106,62 @@ in
         "${pkgs.clipse}/bin/clipse -listen"
         "${pkgs.wl-clip-persist}/bin/wl-clip-persist --clipboard regular"
         "${pkgs.avizo}/bin/avizo-service"
+        "${pkgs.hyprland}/bin/hyprctl setcursor ${cursorTheme} 24"
       ];
       general = {
         gaps_in = 2;
-	gaps_out = 5;
-	border_size = 1;
-	"col.active_border" = "rgba(7AA2F7ff)";
-	"col.inactive_border" = "rgba(595959aa)";
-
-	layout = "master";
+        gaps_out = 5;
+        border_size = 1;
+        "col.active_border" = "rgba(7AA2F7ff)";
+        "col.inactive_border" = "rgba(595959aa)";
+        layout = "master";
       };
       decoration = {
         blur = {
-	  enabled = false;
-	  size = 6;
-	  passes = 1;
-	  new_optimizations = true;
-	};
-	rounding = 1;
-	shadow = {
-	  enabled = true;
-	  range = 4;
-	  render_power = 3;
-	  color = "rgba(1a1a1aee)";
-	};
+          enabled = false;
+          size = 6;
+          passes = 1;
+          new_optimizations = true;
+        };
+        rounding = 1;
+        shadow = {
+          enabled = true;
+          range = 4;
+          render_power = 3;
+          color = "rgba(1a1a1aee)";
+        };
       };
       animations = {
-      	enabled = true;
-	bezier = "myBezier, 0.05, 0.9, 0.1, 1";
-
-	animation = [
-	  "windows, 1, 4, myBezier"
-	  "windowsOut, 1, 7, default, popin 80%"
-	  "border, 1, 10, default"
-	  "borderangle, 1, 8, default"
-	  "fade, 1, 7, default"
-	  "workspaces, 1, 4, default"
-	];
+        enabled = true;
+        bezier = "myBezier, 0.05, 0.9, 0.1, 1";
+        animation = [
+          "windows, 1, 4, myBezier"
+          "windowsOut, 1, 7, default, popin 80%"
+	      "border, 1, 10, default"
+	      "borderangle, 1, 8, default"
+	      "fade, 1, 7, default"
+	      "workspaces, 1, 4, default"
+        ];
       };
       dwindle = {
         pseudotile = true;
-	preserve_split = true;
+        preserve_split = true;
       };
       master = {
       	new_on_top = true;
       };
       gestures = {
         workspace_swipe = true;
-	workspace_swipe_distance = 100;
+        workspace_swipe_distance = 100;
       };
       input = {
-	kb_layout = "latam";
-	repeat_delay = 300;
-	repeat_rate = 50;
+        kb_layout = "latam";
+        repeat_delay = 300;
+        repeat_rate = 50;
       };
       windowrulev2 = [
         "float, class:clipse"
-	"noborder, fullscreen:1"
+        "noborder, fullscreen:1"
       ];
       workspace = [
         "1, monitor:eDP-1"
@@ -178,74 +177,74 @@ in
       ];
       "$mainMod" = "ALT";
       bind = [
-      	"$mainMod, W, killactive,"
-	"$mainMod SHIFT, M, exit,"
-	"$mainMod, V, togglefloating,"
-	"$mainMod, F, fullscreen, 1"
-	"$mainMod SHIFT, F, fullscreen"
-	"$mainMod, A, layoutmsg, orientationnext"
-	"$mainMod, P, pseudo,"
-	"$mainMod SHIFT, J, togglesplit,"
+        "$mainMod, W, killactive,"
+        "$mainMod SHIFT, M, exit,"
+	    "$mainMod, V, togglefloating,"
+	    "$mainMod, F, fullscreen, 1"
+	    "$mainMod SHIFT, F, fullscreen"
+	    "$mainMod, A, layoutmsg, orientationnext"
+	    "$mainMod, P, pseudo,"
+	    "$mainMod SHIFT, J, togglesplit,"
 
-	"$mainMod, 1, workspace, 1"
-	"$mainMod, 2, workspace, 2"
-	"$mainMod, 3, workspace, 3"
-	"$mainMod, 4, workspace, 4"
-	"$mainMod, 5, workspace, 5"
-	"$mainMod, 6, workspace, 6"
-	"$mainMod, 7, workspace, 7"
-	"$mainMod, 8, workspace, 8"
-	"$mainMod, 9, workspace, 9"
-	"$mainMod, 0, workspace, 10"
+	    "$mainMod, 1, workspace, 1"
+	    "$mainMod, 2, workspace, 2"
+	    "$mainMod, 3, workspace, 3"
+	    "$mainMod, 4, workspace, 4"
+	    "$mainMod, 5, workspace, 5"
+	    "$mainMod, 6, workspace, 6"
+	    "$mainMod, 7, workspace, 7"
+	    "$mainMod, 8, workspace, 8"
+	    "$mainMod, 9, workspace, 9"
+	    "$mainMod, 0, workspace, 10"
 
-	"$mainMod Control_R, 1, workspace, 6"
-	"$mainMod Control_R, 2, workspace, 7"
-	"$mainMod Control_R, 3, workspace, 8"
-	"$mainMod Control_R, 4, workspace, 9"
-	"$mainMod Control_R, 5, workspace, 10"
+	    "$mainMod Control_R, 1, workspace, 6"
+	    "$mainMod Control_R, 2, workspace, 7"
+	    "$mainMod Control_R, 3, workspace, 8"
+	    "$mainMod Control_R, 4, workspace, 9"
+	    "$mainMod Control_R, 5, workspace, 10"
 
-	"$mainMod SHIFT, 1, movetoworkspace, 1"
-	"$mainMod SHIFT, 2, movetoworkspace, 2"
-	"$mainMod SHIFT, 3, movetoworkspace, 3"
-	"$mainMod SHIFT, 4, movetoworkspace, 4"
-	"$mainMod SHIFT, 5, movetoworkspace, 5"
-	"$mainMod SHIFT, 6, movetoworkspace, 6"
-	"$mainMod SHIFT, 7, movetoworkspace, 7"
-	"$mainMod SHIFT, 8, movetoworkspace, 8"
-	"$mainMod SHIFT, 9, movetoworkspace, 9"
-	"$mainMod SHIFT, 0, movetoworkspace, 10"
+	    "$mainMod SHIFT, 1, movetoworkspace, 1"
+	    "$mainMod SHIFT, 2, movetoworkspace, 2"
+	    "$mainMod SHIFT, 3, movetoworkspace, 3"
+	    "$mainMod SHIFT, 4, movetoworkspace, 4"
+	    "$mainMod SHIFT, 5, movetoworkspace, 5"
+	    "$mainMod SHIFT, 6, movetoworkspace, 6"
+	    "$mainMod SHIFT, 7, movetoworkspace, 7"
+	    "$mainMod SHIFT, 8, movetoworkspace, 8"
+	    "$mainMod SHIFT, 9, movetoworkspace, 9"
+	    "$mainMod SHIFT, 0, movetoworkspace, 10"
 
-	"$mainMod, mouse_down, workspace, e+1"
-	"$mainMod, mouse_up, workspace, e-1"
+	    "$mainMod, mouse_down, workspace, e+1"
+	    "$mainMod, mouse_up, workspace, e-1"
 
-	"$mainMod, h, movefocus, l"
-	"$mainMod, l, movefocus, r"
-	"$mainMod, k, movefocus, u"
-	"$mainMod, j, movefocus, d"
+	    "$mainMod, h, movefocus, l"
+	    "$mainMod, l, movefocus, r"
+	    "$mainMod, k, movefocus, u"
+	    "$mainMod, j, movefocus, d"
 
-	"$mainMod SHIFT, left, movewindow, l"
-	"$mainMod SHIFT, right, movewindow, r"
-	"$mainMod SHIFT, up, movewindow, u"
-	"$mainMod SHIFT, down, movewindow, d"
+	    "$mainMod SHIFT, left, movewindow, l"
+	    "$mainMod SHIFT, right, movewindow, r"
+	    "$mainMod SHIFT, up, movewindow, u"
+	    "$mainMod SHIFT, down, movewindow, d"
 
         "$mainMod, Q, exec, alacritty"
-	"$mainMod, R, exec, rofi -show combi"
-	"$mainMod, C, exec, hyprpicker -af hex"
-	"$mainMod, Z, exec, alacritty --class clipse -e clipse"
-	'', Print, exec, grim -g "$(slurp -o -r -c '##ff0000ff')" -t ppm - | satty --filename -''
+	    "$mainMod, R, exec, rofi -show combi"
+	    "$mainMod, C, exec, hyprpicker -af hex"
+	    "$mainMod, Z, exec, alacritty --class clipse -e clipse"
+	    '', Print, exec, grim -g "$(slurp -o -r -c '##ff0000ff')" -t ppm - | satty --filename -''
 
-	", XF86AudioRaiseVolume, exec, volumectl -u up"
-	", XF86AudioLowerVolume, exec, volumectl -u down"
-	", XF86AudioMute, exec, volumectl toggle-mute"
-	", XF86AudioMicMute, exec, volumectl -m toggle-mute"
+	    ", XF86AudioRaiseVolume, exec, volumectl -u up"
+	    ", XF86AudioLowerVolume, exec, volumectl -u down"
+	    ", XF86AudioMute, exec, volumectl toggle-mute"
+	    ", XF86AudioMicMute, exec, volumectl -m toggle-mute"
 
-	", XF86AudioPlay, exec, playerctl play-pause"
-	", XF86AudioStop, exec, playerctl stop"
-	", XF86AudioPrev, exec, playerctl previous"
-	", XF86AudioNext, exec, playerctl next"
+	    ", XF86AudioPlay, exec, playerctl play-pause"
+	    ", XF86AudioStop, exec, playerctl stop"
+	    ", XF86AudioPrev, exec, playerctl previous"
+	    ", XF86AudioNext, exec, playerctl next"
 
-	", XF86MonBrightnessUp, exec, lightctl up 5"
-	", XF86MonBrightnessDown, exec, lightctl down 5"
+	    ", XF86MonBrightnessUp, exec, lightctl up 5"
+	    ", XF86MonBrightnessDown, exec, lightctl down 5"
       ];
       bindm = [
         "$mainMod, mouse:272, movewindow"
@@ -271,6 +270,14 @@ in
     theme = {
       name = "Adwaita-Slim-Dark";
       package = adwaita-slim-dark-gtk-theme;
+    };
+    cursorTheme = {
+      name = cursorTheme;
+      package = pkgs.bibata-cursors;
+    };
+    font = {
+      name = "Adwaita Sans";
+      package = pkgs-unstable.adwaita-fonts;
     };
   };
 
