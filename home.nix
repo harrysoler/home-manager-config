@@ -1,4 +1,4 @@
-{ inputs, config, pkgs, ... }:
+{ inputs, config, pkgs, pkgs-unstable, ... }:
 
 {
   home.username = "harry";
@@ -10,7 +10,9 @@
   # environment.
   home.packages = [
     (pkgs.nerdfonts.override { fonts = [ "SpaceMono" ]; })
+    pkgs-unstable.adwaita-fonts
     inputs.apple-fonts.packages.${pkgs.system}.sf-mono-nerd
+    pkgs.font-manager
 
     inputs.zen-browser.packages.${pkgs.system}.beta
 

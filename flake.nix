@@ -3,6 +3,8 @@
   inputs = {
     # Specify the source of Home Manager and Nixpkgs.
     nixpkgs.url = "github:nixos/nixpkgs/nixos-24.11";
+    nixpkgs-unstable.url = "nixpkgs/nixos-unstable";
+
     home-manager = {
       url = "github:nix-community/home-manager/release-24.11";
     };
@@ -21,10 +23,11 @@
     nvim-config.flake = false;
   };
 
-  outputs = { self, nixpkgs, home-manager, ... } @ inputs:
+  outputs = { self, nixpkgs, nixpkgs-unstable, home-manager, ... } @ inputs:
     let
       system = "x86_64-linux";
       pkgs = nixpkgs.legacyPackages.${system};
+      pkgs-unstable = nixpkgs-unstable.legacyPackages.${system};
     in {
       homeConfigurations."harry" = home-manager.lib.homeManagerConfiguration {
         inherit pkgs;
@@ -36,7 +39,10 @@
 
         # Optionally use extraSpecialArgs
         # to pass through arguments to home.nix
-	extraSpecialArgs = {inherit inputs;};
+	    extraSpecialArgs = {
+          inherit inputs;
+          inherit pkgs-unstable;
+        };
       };
     };
 }
