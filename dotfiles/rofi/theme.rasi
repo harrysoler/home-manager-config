@@ -1,0 +1,198 @@
+// # vim: filetype=css
+
+/**
+ * ROFI Color theme
+ * User: Qball
+ * Copyright: Dave Davenport
+ */
+
+* {
+	background: #1f2335de;
+	errormessage: #7aa2f7de;
+
+	bluedark1: #1f2335;
+	bluedark2: #24283b;
+	bluedark3: #292e42;
+	bluedark4: #3b4261;
+	bluedark5: #414868;
+
+	blue1: #545c7e;
+	blue2: #565f89;
+	blue3: #394b70;
+	blue4: #3d59a1;
+
+	bluelight1: #737aa2;
+	bluelight2: #a9b1d6;
+	bluelight3: #c0caf5;
+	bluelight4: #7aa2f7;
+	bluelight5: #7dcfff;
+	bluelight6: #b4f9f8;
+
+	purplelight: #bb9af7;
+	purple: #9d7cd8;
+
+	orange: #ff9e64;
+	orangelight: #ffc777;
+
+	green: #c3e88d;
+
+	cyan: #4fd6be;
+	cyandark: #41a6b5;
+
+	redlight: #ff757f;
+	red: #c53b53;
+
+	magenta: #ff007c;
+
+	background-color:  transparent;
+	highlight:     underline bold #c0caf5;
+
+	transparent: rgba(0,0,0,0);
+	font: "SpaceMono Nerd Font 10";
+}
+window {
+	width: 500px;
+	location: center;
+	anchor:   center;
+	transparency: "real";
+	padding: 10px;
+	border:  0px;
+	border-radius: 10px;
+	background-color: @transparent;
+	spacing: 0;
+	children:  [mainbox];
+	orientation: horizontal;
+}
+
+mainbox {
+	children: [ inputbar, message, listview ];
+	spacing: 0;
+	background-color: @background;
+	border-radius: 25px;
+}
+
+message {
+	font: "SpaceMono Nerd Font 10";
+	padding: 5;
+
+	background-color: @background;
+	color: @bluelight3;
+}
+
+inputbar {
+	background-image: url("./background.jpg", width);
+	background-position: center;
+}
+
+entry {
+	margin: 12px;
+	padding: 7px 20px;
+
+	color: @bluelight3;
+
+	border: 1px;
+	border-radius: 15px;
+	border-color: @bluelight4;
+
+	placeholder: "Search Application";
+	placeholder-color: @bluelight1;
+}
+
+prompt, textbox-prompt-colon, case-indicator {
+	enabled: false;
+}
+
+entry, prompt, case-indicator {
+	text-font: inherit;
+	text-color: @bluelight3;
+}
+
+listview {
+	padding: 12px;
+	lines: 8;
+	// columns: 2;
+}
+
+element {
+	padding: 8px 12px;
+	vertical-align: 0.5;
+	border-radius: 10px;
+	background-color: transparent;
+	color: @bluelight3;
+	font: inherit;
+}
+
+element-text {
+	background-color: inherit;
+	text-color:       inherit;
+}
+
+element-icon {
+	size: 20px;
+	margin: 0 10px 0 0;
+	cursor: pointer;
+}
+
+element selected.normal {
+	background-color: @blue4;
+	color: @bluelight6;
+}
+
+element normal active {
+	color: @bluelight4;
+}
+
+element normal urgent {
+	color: @orangelight;
+}
+
+element selected active {
+	background-color: @blue4;
+	color: @bluelight6;
+}
+
+element selected urgent {
+	background-color: @blue4;
+	color: @orangelight;
+}
+
+element normal normal {
+}
+
+vertb {
+	expand: false;
+	children: [ dummy0, mode-switcher, dummy1  ];
+}
+
+dummy0,  dummy1 {
+	expand: true;
+}
+
+mode-switcher {
+	expand: false;
+	orientation: vertical;
+	spacing: 0px;
+	border: 0px 0px 0px 0px;
+}
+
+button {
+	font: "SpaceMono Nerd Font 10";
+	padding: 6px;
+	background-color: @transparent;
+	color: @bluelight3;
+	horizontal-align: 0.5;
+}
+
+button selected normal {
+	color: @bluelight3;
+	background-color: @blue4;
+}
+
+error-message {
+	expand: true;
+	background-color: @errormessage;
+	color: @bluelight3;
+	padding: 1em;
+
+	border-radius: 25px;
+}

@@ -1,0 +1,1535 @@
+Fri Apr 28 20:52:55 2023 ------ World Loaded ------
+Fri Apr 28 20:52:55 2023 Welcome to TactiCooLServer [battlebots]! This server is powered by PySnip.
+Fri Apr 28 20:52:56 2023 Game mode: Tug of War (tow)
+Fri Apr 28 20:52:58 2023 Map is urara by onigiri
+Fri Apr 28 20:53:01 2023 Based on ABBS made by yuyasato:  https://bit.ly/yuyasato
+Fri Apr 28 20:53:03 2023 Type /help and /rules for more info & commands
+Fri Apr 28 20:53:09 2023 Type /rpg for information of the RPG
+Fri Apr 28 20:53:09 2023 *************************************************************************
+Fri Apr 28 20:53:09 2023 In Tug of War, you capture your opponents' front CP to advance.
+Fri Apr 28 20:53:09 2023 Type /power for more information!
+Fri Apr 28 20:53:09 2023 You have no powers
+Fri Apr 28 20:53:09 2023 You have 1 medkit!
+Fri Apr 28 20:53:09 2023 Player BOT_Khvara has left
+Fri Apr 28 20:53:10 2023 [Global] BOT_Deuce7 (Pink): hola
+Fri Apr 28 20:53:10 2023 [Global] BOT_rock (Pink): hola
+Fri Apr 28 20:53:11 2023 BOT_Black Cat (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 20:53:11 2023 BOT_Deuce28 (Green) [Headshot] BOT_joker (Pink)
+Fri Apr 28 20:53:13 2023 BOT_Deuce28 (Green) [Grenade] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:53:13 2023 BOT_Deuce28 (Green) [Grenade] BOT_Qtaro- (Pink)
+Fri Apr 28 20:53:13 2023 BOT_Deuce28 IS ON A RAMPAGE!!
+Fri Apr 28 20:53:13 2023 BOT_Deuce28 (Green) [Grenade] BOT_Jugata (Pink)
+Fri Apr 28 20:53:13 2023 BOT_Deuce28 (Green) [Grenade] BOT_-Isthomus- (Pink)
+Fri Apr 28 20:53:13 2023 BOT_Deuce28 (Green) [Grenade] BOT_The Zero (Pink)
+Fri Apr 28 20:53:14 2023 BOT_Black Cat (Pink) [Headshot] BOT_golgo13 (Green)
+Fri Apr 28 20:53:14 2023 BOT_rock (Pink) [Rifle] BOT_kurwa (Green)
+Fri Apr 28 20:53:15 2023 BOT_inazuma11 (Green) [Headshot] BOT_2222 (Pink)
+Fri Apr 28 20:53:17 2023 BOT_fagg (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 20:53:19 2023 BOT_*kikumon* (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 20:53:20 2023 BOT_Saluchica (Green) [SMG] BOT_lucas (Pink)
+Fri Apr 28 20:53:20 2023 BOT_zone 20 (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:53:20 2023 BOT_JunKing (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 20:53:20 2023 BOT_fagg (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 20:53:25 2023 BOT_Deuce28 (Green) [Fall]
+Fri Apr 28 20:53:26 2023 BOT_XAHA (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 20:53:27 2023 BOT_Messi GOAT (Green) [Fall]
+Fri Apr 28 20:53:29 2023 BOT_bob (Green) [Headshot] BOT_rock (Pink)
+Fri Apr 28 20:53:30 2023 BOT_F ur mama (Green) [SMG] BOT_Jugata (Pink)
+Fri Apr 28 20:53:31 2023 BOT_F ur mama (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:53:31 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 20:53:32 2023 Harry (Green) [Headshot] BOT_2222 (Pink)
+Fri Apr 28 20:53:33 2023 BOT_xXHusleMan (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 20:53:34 2023 BOT_golgo13 (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 20:53:35 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:53:36 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 20:53:36 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 20:53:37 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:53:40 2023 BOT_Saluchica (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 20:53:41 2023 BOT_xXHusleMan (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 20:53:41 2023 Harry (Green) [Headshot] BOT_rock (Pink)
+Fri Apr 28 20:53:41 2023 BOT_Jugata (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 20:53:43 2023 BOT_golgo13 (Green) [Headshot] BOT_joker (Pink)
+Fri Apr 28 20:53:43 2023 BOT_The Zero (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 20:53:44 2023 BOT_Messi GOAT (Green) [Fall]
+Fri Apr 28 20:53:45 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:53:47 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 20:53:47 2023 BOT_JunKing (Pink) [Rifle] BOT_kurwa (Green)
+Fri Apr 28 20:53:48 2023 Harry (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 20:53:48 2023 BOT_golgo13 (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:53:49 2023 Harry (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 20:53:50 2023 BOT_rock (Pink) [Rifle] BOT_Saluchica (Green)
+Fri Apr 28 20:53:52 2023 Harry (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 20:53:52 2023 Harry (Green) [Headshot] BOT_2222 (Pink)
+Fri Apr 28 20:53:54 2023 BOT_Deuce28 (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 20:53:56 2023 BOT_-Isthomus- (Pink) [Headshot] BOT_golgo13 (Green)
+Fri Apr 28 20:54:00 2023 BOT_bob (Green) [SMG] BOT_-Isthomus- (Pink)
+Fri Apr 28 20:54:01 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 20:54:01 2023 BOT_Jugata (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 20:54:01 2023 Harry (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 20:54:02 2023 Type /power for more info on Intel Powers
+Fri Apr 28 20:54:02 2023 You were killed by BOT_xXHusleMan (100HP) who had no powers
+Fri Apr 28 20:54:02 2023 BOT_xXHusleMan (Pink) [Headshot] Harry (Green)
+Fri Apr 28 20:54:03 2023 BOT_Saluchica (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:54:05 2023 *************************************************************************
+Fri Apr 28 20:54:05 2023 In Tug of War, you capture your opponents' front CP to advance.
+Fri Apr 28 20:54:05 2023 Type /power for more information!
+Fri Apr 28 20:54:05 2023 You have no powers
+Fri Apr 28 20:54:05 2023 You have 1 medkit!
+Fri Apr 28 20:54:05 2023 BOT_+n00b (Green) [Rifle] BOT_lucas (Pink)
+Fri Apr 28 20:54:05 2023 BOT_joker (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 20:54:06 2023 BOT_xXHusleMan (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 20:54:08 2023 BOT_+n00b (Green) [Headshot] BOT_rock (Pink)
+Fri Apr 28 20:54:08 2023 BOT_Deuce28 (Green) [Headshot] BOT_joker (Pink)
+Fri Apr 28 20:54:09 2023 BOT_F3rN4nd0 (Pink) [Headshot] BOT_Deuce28 (Green)
+Fri Apr 28 20:54:09 2023 BOT_The Zero (Pink) [Fall]
+Fri Apr 28 20:54:11 2023 BOT_JunKing (Pink) [Rifle] BOT_+n00b (Green)
+Fri Apr 28 20:54:12 2023 Harry (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 20:54:12 2023 BOT_Saluchica (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 20:54:13 2023 William joined Green team
+Fri Apr 28 20:54:13 2023 Player BOT_Deuce28 has left
+Fri Apr 28 20:54:13 2023 [Global] BOT_inazuma11 (Green): hola
+Fri Apr 28 20:54:14 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 20:54:14 2023 [Global] BOT_fagg (Green): woah!
+Fri Apr 28 20:54:15 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 20:54:16 2023 BOT_JunKing (Pink) [Fall]
+Fri Apr 28 20:54:16 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 20:54:16 2023 Harry (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 20:54:17 2023 BOT_Messi GOAT (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 20:54:18 2023 BOT_2222 (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 20:54:18 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:54:19 2023 Green captured Pink's Territory
+Fri Apr 28 20:54:20 2023 BOT_Qtaro- (Pink) [Shotgun] BOT_Messi GOAT (Green)
+Fri Apr 28 20:54:20 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 20:54:25 2023 BOT_Saluchica (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:54:26 2023 BOT_The Zero (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 20:54:26 2023 BOT_rock (Pink) [Rifle] BOT_Messi GOAT (Green)
+Fri Apr 28 20:54:27 2023 Harry (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 20:54:29 2023 BOT_bob (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 20:54:29 2023 BOT_Saluchica (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:54:29 2023 William (Green) [Shotgun] BOT_joker (Pink)
+Fri Apr 28 20:54:30 2023 BOT_*kikumon* (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 20:54:31 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 20:54:31 2023 BOT_inazuma11 (Green) [SMG] BOT_JunKing (Pink)
+Fri Apr 28 20:54:33 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 20:54:34 2023 BOT_XAHA (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 20:54:35 2023 Harry (Green) [Headshot] BOT_2222 (Pink)
+Fri Apr 28 20:54:38 2023 BOT_aloco (Green) [Fall]
+Fri Apr 28 20:54:39 2023 William (Green) [Headshot] BOT_joker (Pink)
+Fri Apr 28 20:54:40 2023 BOT_XAHA (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 20:54:40 2023 BOT_kurwa (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 20:54:41 2023 William (Green) [Shotgun] BOT_XAHA (Pink)
+Fri Apr 28 20:54:42 2023 BOT_*kikumon* (Pink) [Rifle] BOT_kurwa (Green)
+Fri Apr 28 20:54:42 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 20:54:43 2023 Pink captured Green's Territory
+Fri Apr 28 20:54:45 2023 BOT_zone 20 (Green) [Headshot] BOT_rock (Pink)
+Fri Apr 28 20:54:46 2023 BOT_The Zero (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 20:54:48 2023 William (Green) [Shotgun] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:54:48 2023 BOT_+n00b (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 20:54:49 2023 BOT_2222 (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 20:54:49 2023 William (Green) [Shotgun] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:54:50 2023 BOT_Jugata (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 20:54:52 2023 BOT_aloco (Green) [Fall]
+Fri Apr 28 20:54:53 2023 BOT_golgo13 (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 20:54:54 2023 BOT_*kikumon* (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 20:54:57 2023 BOT_Qtaro- (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 20:54:58 2023 Harry (Green) [Headshot] BOT_rock (Pink)
+Fri Apr 28 20:54:59 2023 Green captured Pink's Territory
+Fri Apr 28 20:54:59 2023 BOT_golgo13 (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:54:59 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:55:00 2023 BOT_joker (Pink) [Headshot] BOT_+n00b (Green)
+Fri Apr 28 20:55:00 2023 BOT_xXHusleMan (Pink) [Headshot] BOT_golgo13 (Green)
+Fri Apr 28 20:55:00 2023 BOT_Messi GOAT (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 20:55:02 2023 BOT_Black Cat (Pink) [Rifle]
+Fri Apr 28 20:55:03 2023 BOT_JunKing (Pink) [Rifle] William (Green)
+Fri Apr 28 20:55:03 2023 Harry (Green) [Headshot] BOT_2222 (Pink)
+Fri Apr 28 20:55:04 2023 You have reached 15 kills, you get a power-up!
+Fri Apr 28 20:55:04 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 20:55:04 2023 Harry (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 20:55:05 2023 BOT_bob (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 20:55:07 2023 Harry (Green) [Rifle] BOT_JunKing (Pink)
+Fri Apr 28 20:55:09 2023 BOT_echo (Green) [Rifle]
+Fri Apr 28 20:55:10 2023 BOT_akkaMonsta (Green) [Shotgun] BOT_rock (Pink)
+Fri Apr 28 20:55:12 2023 BOT_joker (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 20:55:12 2023 BOT_Saluchica (Green) [Headshot] BOT_joker (Pink)
+Fri Apr 28 20:55:13 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:55:15 2023 BOT_golgo13 (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 20:55:17 2023 BOT_kurwa (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 20:55:17 2023 BOT_fagg (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:55:19 2023 BOT_rock (Pink) [Headshot] William (Green)
+Fri Apr 28 20:55:20 2023 BOT_echo (Green) [Headshot] BOT_2222 (Pink)
+Fri Apr 28 20:55:22 2023 Harry (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 20:55:22 2023 BOT_Deuce7 (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 20:55:23 2023 BOT_+n00b (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 20:55:23 2023 BOT_JunKing (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 20:55:23 2023 [*] Type /help and /rules for more info & commands
+Fri Apr 28 20:55:24 2023 Harry (Green) [Rifle] BOT_Deuce7 (Pink)
+Fri Apr 28 20:55:24 2023 BOT_-Isthomus- (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 20:55:24 2023 Abagail joined Pink team
+Fri Apr 28 20:55:24 2023 Player BOT_2222 has left
+Fri Apr 28 20:55:25 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 20:55:25 2023 BOT_F ur mama (Green) [Headshot] BOT_joker (Pink)
+Fri Apr 28 20:55:25 2023 [Global] BOT_fagg (Green): HI
+Fri Apr 28 20:55:26 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 20:55:26 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 20:55:26 2023 BOT_zone 20 (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:55:26 2023 BOT_JunKing (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 20:55:27 2023 Harry (Green) [Headshot] BOT_rock (Pink)
+Fri Apr 28 20:55:28 2023 hora_de_morir__ joined Pink team
+Fri Apr 28 20:55:28 2023 Player BOT_rock has left
+Fri Apr 28 20:55:28 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 20:55:29 2023 [Global] BOT_XAHA (Pink): siema
+Fri Apr 28 20:55:29 2023 [Global] BOT_aloco (Green): :D
+Fri Apr 28 20:55:29 2023 [Global] BOT_zone 20 (Green): hellow
+Fri Apr 28 20:55:30 2023 BOT_Saluchica (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 20:55:31 2023 William (Green) [Fall]
+Fri Apr 28 20:55:32 2023 Harry (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 20:55:33 2023 BOT_JunKing (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 20:55:36 2023 BOT_XAHA (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 20:55:36 2023 [Global] Harry (Green): hi
+Fri Apr 28 20:55:36 2023 Abagail (Pink) [Headshot] BOT_Saluchica (Green)
+Fri Apr 28 20:55:38 2023 BOT_Messi GOAT (Green) [SMG] BOT_Qtaro- (Pink)
+Fri Apr 28 20:55:39 2023 BOT_zone 20 (Green) [Fall]
+Fri Apr 28 20:55:40 2023 Harry (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 20:55:40 2023 BOT_+n00b (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:55:41 2023 BOT_Jugata (Pink) [SMG] BOT_aloco (Green)
+Fri Apr 28 20:55:41 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:55:43 2023 BOT_Messi GOAT (Green) [SMG] BOT_Jugata (Pink)
+Fri Apr 28 20:55:43 2023 [Global] hora_de_morir__ (Pink): quiten este mapa
+Fri Apr 28 20:55:44 2023 Harry (Green) [Headshot] BOT_joker (Pink)
+Fri Apr 28 20:55:44 2023 BOT_XAHA (Pink) [Headshot] BOT_echo (Green)
+Fri Apr 28 20:55:45 2023 BOT_lucas (Pink) [SMG]
+Fri Apr 28 20:55:46 2023 Abagail (Pink) [Headshot] BOT_golgo13 (Green)
+Fri Apr 28 20:55:46 2023 BOT_aloco (Green) [Fall]
+Fri Apr 28 20:55:46 2023 BOT_F3rN4nd0 (Pink) [SMG] BOT_Messi GOAT (Green)
+Fri Apr 28 20:55:46 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 20:55:46 2023 [Global] hora_de_morir__ (Pink): :V
+Fri Apr 28 20:55:49 2023 BOT_+n00b (Green) [Rifle] BOT_JunKing (Pink)
+Fri Apr 28 20:55:49 2023 William (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 20:55:50 2023 Abagail (Pink) [Headshot] BOT_Saluchica (Green)
+Fri Apr 28 20:55:52 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 20:55:53 2023 BOT_XAHA (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 20:55:54 2023 You have reached 30 kills, you get a power-up!
+Fri Apr 28 20:55:54 2023 You can use RPG now. 2 rockets left
+Fri Apr 28 20:55:54 2023 Hold  grenade and keep holding both left & right mouse buttons for 5 sec.
+Fri Apr 28 20:55:54 2023 [*] Harry is on a 30 killstreak and gets RPG ammo!
+Fri Apr 28 20:55:54 2023 Harry (Green) [Rifle] BOT_*kikumon* (Pink)
+Fri Apr 28 20:55:54 2023 BOT_+n00b (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:55:56 2023 BOT_bob (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:55:57 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:55:58 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 20:55:58 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 20:55:59 2023 BOT_The Zero (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 20:56:00 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 20:56:01 2023 BOT_XAHA (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 20:56:02 2023 Harry (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 20:56:04 2023 BOT_+n00b (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 20:56:04 2023 William (Green) [Shotgun] BOT_joker (Pink)
+Fri Apr 28 20:56:05 2023 BOT_Jugata (Pink) [Fall]
+Fri Apr 28 20:56:07 2023 BOT_zone 20 (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 20:56:12 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 20:56:13 2023 BOT_kurwa (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:56:14 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_F3rN4nd0!
+Fri Apr 28 20:56:14 2023 Harry (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:56:16 2023 BOT_xXHusleMan (Pink) [Rifle] BOT_bob (Green)
+Fri Apr 28 20:56:17 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_Jugata!
+Fri Apr 28 20:56:17 2023 Harry (Green) [Rifle] BOT_Jugata (Pink)
+Fri Apr 28 20:56:17 2023 BOT_joker (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 20:56:21 2023 BOT_JunKing (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 20:56:22 2023 BOT_bob (Green) [Fall]
+Fri Apr 28 20:56:25 2023 hora_de_morir__ (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 20:56:26 2023 BOT_Deuce7 (Pink) [Shotgun]
+Fri Apr 28 20:56:27 2023 [Global] Harry (Green): tendremos que ganar para que lo cambien
+Fri Apr 28 20:56:27 2023 BOT_Qtaro- (Pink) [Headshot] BOT_echo (Green)
+Fri Apr 28 20:56:27 2023 BOT_zone 20 (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 20:56:27 2023 BOT_aloco (Green) [SMG] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:56:28 2023 William (Green) [Headshot] BOT_joker (Pink)
+Fri Apr 28 20:56:28 2023 BOT_Qtaro- (Pink) [Shotgun] BOT_aloco (Green)
+Fri Apr 28 20:56:28 2023 BOT_F3rN4nd0 (Pink) [Headshot] BOT_golgo13 (Green)
+Fri Apr 28 20:56:31 2023 BOT_aloco (Green) [SMG] BOT_Qtaro- (Pink)
+Fri Apr 28 20:56:31 2023 Harry (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:56:32 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 20:56:33 2023 BOT_bob (Green) [Fall]
+Fri Apr 28 20:56:33 2023 William (Green) [Shotgun] Abagail (Pink)
+Fri Apr 28 20:56:34 2023 BOT_XAHA (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 20:56:35 2023 Harry (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 20:56:35 2023 hora_de_morir__ (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 20:56:36 2023 BOT_inazuma11 (Green) [Headshot] hora_de_morir__ (Pink)
+Fri Apr 28 20:56:38 2023 BOT_golgo13 (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:56:39 2023 BOT_aloco (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 20:56:41 2023 BOT_aloco (Green) [SMG] BOT_Jugata (Pink)
+Fri Apr 28 20:56:41 2023 BOT_XAHA (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 20:56:43 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:56:44 2023 Harry (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 20:56:46 2023 BOT_JunKing (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 20:56:51 2023 BOT_+n00b (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 20:56:52 2023 BOT_joker (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 20:56:54 2023 BOT_F ur mama (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 20:56:55 2023 BOT_echo (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 20:56:55 2023 BOT_kurwa (Green) [Fall]
+Fri Apr 28 20:56:57 2023 Green captured Pink's Territory
+Fri Apr 28 20:56:57 2023 Harry (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 20:56:57 2023 BOT_Black Cat (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 20:56:57 2023 BOT_joker (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 20:56:58 2023 BOT_F3rN4nd0 (Pink) [SMG] BOT_zone 20 (Green)
+Fri Apr 28 20:57:00 2023 William (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:57:00 2023 BOT_JunKing (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 20:57:00 2023 [*] hora_de_morir__ voted to load the next map, if you agree type /next
+Fri Apr 28 20:57:01 2023 BOT_+n00b (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:57:02 2023 BOT_Messi GOAT (Green) [SMG] BOT_joker (Pink)
+Fri Apr 28 20:57:04 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:57:04 2023 BOT_Black Cat (Pink) [Headshot] BOT_echo (Green)
+Fri Apr 28 20:57:06 2023 You have reached 45 kills, you get a power-up!
+Fri Apr 28 20:57:06 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 20:57:06 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 20:57:09 2023 BOT_fagg (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 20:57:09 2023 Abagail (Pink) [Rifle] BOT_+n00b (Green)
+Fri Apr 28 20:57:10 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 20:57:10 2023 Harry (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 20:57:11 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_*kikumon*!
+Fri Apr 28 20:57:11 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 20:57:11 2023 BOT_fagg (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 20:57:12 2023 BOT_akkaMonsta (Green) [Shotgun] Abagail (Pink)
+Fri Apr 28 20:57:13 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:57:13 2023 [Global] hora_de_morir__ (Pink): alguien sabe
+Fri Apr 28 20:57:18 2023 [Global] hora_de_morir__ (Pink): como puedo tener poderes?
+Fri Apr 28 20:57:20 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 20:57:22 2023 BOT_The Zero (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 20:57:22 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_The Zero!
+Fri Apr 28 20:57:22 2023 Harry (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 20:57:23 2023 BOT_lucas (Pink) [SMG]
+Fri Apr 28 20:57:23 2023 [Global] Abagail (Pink): f**k
+Fri Apr 28 20:57:24 2023 BOT_F ur mama (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:57:26 2023 BOT_joker (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 20:57:26 2023 BOT_kurwa (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:57:28 2023 BOT_lucas (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 20:57:29 2023 [*] 15 minutes remaining.
+Fri Apr 28 20:57:29 2023 BOT_Jugata (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 20:57:30 2023 William (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 20:57:30 2023 BOT_fagg (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:57:30 2023 Harry (Green) [Headshot] Abagail (Pink)
+Fri Apr 28 20:57:31 2023 BOT_fagg (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 20:57:32 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 20:57:32 2023 BOT_Deuce7 (Pink) [Shotgun] BOT_fagg (Green)
+Fri Apr 28 20:57:34 2023 [Global] hora_de_morir__ (Pink): dure un rato
+Fri Apr 28 20:57:34 2023 BOT_zone 20 (Green) [Rifle] BOT_Deuce7 (Pink)
+Fri Apr 28 20:57:37 2023 BOT_The Zero (Pink) [Rifle] BOT_echo (Green)
+Fri Apr 28 20:57:40 2023 BOT_bob (Green) [SMG]
+Fri Apr 28 20:57:40 2023 hora_de_morir__ (Pink) [SMG] BOT_F ur mama (Green)
+Fri Apr 28 20:57:40 2023 BOT_Messi GOAT (Green) [SMG]
+Fri Apr 28 20:57:41 2023 BOT_joker (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 20:57:43 2023 BOT_Messi GOAT (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 20:57:44 2023 BOT_bob (Green) [SMG] BOT_JunKing (Pink)
+Fri Apr 28 20:57:44 2023 hora_de_morir__ (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 20:57:47 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 20:57:48 2023 BOT_Qtaro- (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 20:57:49 2023 BOT_bob (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:57:49 2023 BOT_The Zero (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 20:57:49 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:57:49 2023 BOT_Messi GOAT (Green) [SMG] BOT_The Zero (Pink)
+Fri Apr 28 20:57:50 2023 William (Green) [Shotgun] BOT_Black Cat (Pink)
+Fri Apr 28 20:57:50 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 20:57:51 2023 BOT_joker (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 20:57:51 2023 BOT_F ur mama (Green) [Headshot] BOT_joker (Pink)
+Fri Apr 28 20:57:53 2023 Alea iacta est... You have rolled the dice of life and instakilled hora_de_morir__!
+Fri Apr 28 20:57:53 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 20:57:53 2023 Harry (Green) [Headshot] hora_de_morir__ (Pink)
+Fri Apr 28 20:57:53 2023 BOT_Qtaro- (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 20:57:54 2023 William (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:57:54 2023 BOT_F3rN4nd0 (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 20:57:55 2023 Abagail (Pink) [Rifle] BOT_golgo13 (Green)
+Fri Apr 28 20:57:55 2023 BOT_akkaMonsta (Green) [Shotgun] BOT_XAHA (Pink)
+Fri Apr 28 20:57:56 2023 Harry (Green) [Rifle] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:57:56 2023 William (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 20:57:59 2023 BOT_aloco (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 20:58:00 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_Deuce7!
+Fri Apr 28 20:58:00 2023 BOT_lucas (Pink) [SMG] BOT_aloco (Green)
+Fri Apr 28 20:58:00 2023 BOT_lucas (Pink) [Headshot] William (Green)
+Fri Apr 28 20:58:03 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 20:58:04 2023 BOT_Jugata (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 20:58:04 2023 BOT_zone 20 (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 20:58:05 2023 You have reached 60 kills, you get a power-up!
+Fri Apr 28 20:58:05 2023 You can use RPG now. 4 rockets left
+Fri Apr 28 20:58:05 2023 Hold  grenade and keep holding both left & right mouse buttons for 5 sec.
+Fri Apr 28 20:58:05 2023 [*] Harry is on a 60 killstreak and gets RPG ammo!
+Fri Apr 28 20:58:05 2023 Harry (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:58:07 2023 BOT_+n00b (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 20:58:09 2023 [Global] hora_de_morir__ (Pink): harry como tienes poderes?
+Fri Apr 28 20:58:09 2023 BOT_zone 20 (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 20:58:10 2023 BOT_lucas (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 20:58:10 2023 Harry (Green) [Headshot] hora_de_morir__ (Pink)
+Fri Apr 28 20:58:11 2023 BOT_xXHusleMan (Pink) [Headshot] BOT_echo (Green)
+Fri Apr 28 20:58:14 2023 BOT_+n00b (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:58:15 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_Black Cat!
+Fri Apr 28 20:58:15 2023 Harry (Green) [Rifle] BOT_Black Cat (Pink)
+Fri Apr 28 20:58:16 2023 BOT_F ur mama (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 20:58:17 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 20:58:17 2023 BOT_inazuma11 (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 20:58:19 2023 BOT_F3rN4nd0 (Pink) [Headshot] BOT_+n00b (Green)
+Fri Apr 28 20:58:19 2023 BOT_golgo13 (Green) [Headshot] BOT_joker (Pink)
+Fri Apr 28 20:58:19 2023 Abagail (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 20:58:20 2023 BOT_The Zero (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 20:58:21 2023 BOT_-Isthomus- (Pink) [SMG] BOT_F ur mama (Green)
+Fri Apr 28 20:58:22 2023 BOT_zone 20 (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 20:58:22 2023 BOT_Jugata (Pink) [SMG] BOT_inazuma11 (Green)
+Fri Apr 28 20:58:23 2023 BOT_aloco (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:58:24 2023 BOT_zone 20 (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 20:58:25 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_XAHA!
+Fri Apr 28 20:58:25 2023 Harry (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 20:58:26 2023 BOT_aloco (Green) [Headshot] Abagail (Pink)
+Fri Apr 28 20:58:26 2023 BOT_Jugata (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 20:58:26 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 20:58:28 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:58:31 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 20:58:31 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 20:58:31 2023 BOT_Jugata (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 20:58:31 2023 BOT_xXHusleMan (Pink) [Rifle] BOT_zone 20 (Green)
+Fri Apr 28 20:58:33 2023 BOT_joker (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 20:58:35 2023 Harry (Green) [Headshot] BOT_joker (Pink)
+Fri Apr 28 20:58:36 2023 BOT_Jugata (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 20:58:36 2023 BOT_golgo13 (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 20:58:37 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:58:39 2023 BOT_XAHA (Pink) [Rifle] BOT_inazuma11 (Green)
+Fri Apr 28 20:58:40 2023 BOT_echo (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 20:58:42 2023 BOT_F3rN4nd0 (Pink) [Headshot] BOT_Saluchica (Green)
+Fri Apr 28 20:58:42 2023 Harry (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 20:58:44 2023 BOT_fagg (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:58:44 2023 BOT_lucas (Pink) [Headshot] BOT_echo (Green)
+Fri Apr 28 20:58:45 2023 BOT_XAHA (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 20:58:45 2023 Harry (Green) [Headshot] BOT_joker (Pink)
+Fri Apr 28 20:58:46 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:58:47 2023 BOT_kurwa (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 20:58:48 2023 BOT_fagg (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:58:48 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 20:58:49 2023 BOT_JunKing (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 20:58:49 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 20:58:53 2023 BOT_Jugata (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 20:58:55 2023 BOT_-Isthomus- (Pink) [SMG] BOT_Messi GOAT (Green)
+Fri Apr 28 20:58:55 2023 William (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 20:58:56 2023 BOT_F3rN4nd0 (Pink) [Fall]
+Fri Apr 28 20:58:56 2023 You have reached 75 kills, you get a power-up!
+Fri Apr 28 20:58:56 2023 Harry (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 20:58:57 2023 BOT_joker (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 20:58:58 2023 BOT_*kikumon* (Pink) [Rifle] BOT_golgo13 (Green)
+Fri Apr 28 20:58:59 2023 Harry (Green) [Headshot] BOT_joker (Pink)
+Fri Apr 28 20:58:59 2023 BOT_zone 20 (Green) [Rifle] BOT_-Isthomus- (Pink)
+Fri Apr 28 20:58:59 2023 BOT_echo (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 20:59:01 2023 Harry (Green) [Rifle] BOT_JunKing (Pink)
+Fri Apr 28 20:59:02 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 20:59:02 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:59:03 2023 Harry (Green) [Headshot] BOT_joker (Pink)
+Fri Apr 28 20:59:05 2023 BOT_The Zero (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 20:59:07 2023 BOT_Jugata (Pink) [Headshot] BOT_Saluchica (Green)
+Fri Apr 28 20:59:07 2023 BOT_+n00b (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:59:08 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 20:59:09 2023 William (Green) [Shotgun] BOT_lucas (Pink)
+Fri Apr 28 20:59:09 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_Jugata!
+Fri Apr 28 20:59:09 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 20:59:09 2023 lopster joined Pink team
+Fri Apr 28 20:59:09 2023 Player BOT_joker has left
+Fri Apr 28 20:59:10 2023 [Global] BOT_The Zero (Pink): good to c u bro
+Fri Apr 28 20:59:10 2023 [Global] BOT_-Isthomus- (Pink): :)
+Fri Apr 28 20:59:10 2023 Harry (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 20:59:11 2023 [Global] BOT_akkaMonsta (Green): Hi
+Fri Apr 28 20:59:11 2023 Harry (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 20:59:12 2023 [Global] BOT_inazuma11 (Green): hello
+Fri Apr 28 20:59:12 2023 Harry (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 20:59:12 2023 BOT_bob (Green) [SMG]
+Fri Apr 28 20:59:12 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_Black Cat!
+Fri Apr 28 20:59:12 2023 Harry (Green) [Rifle] BOT_Black Cat (Pink)
+Fri Apr 28 20:59:14 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 20:59:14 2023 BOT_*kikumon* (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 20:59:16 2023 BOT_JunKing (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 20:59:18 2023 BOT_XAHA (Pink) [Headshot] BOT_Saluchica (Green)
+Fri Apr 28 20:59:19 2023 BOT_Messi GOAT (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 20:59:19 2023 Harry (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 20:59:21 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 20:59:21 2023 BOT_echo (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:59:22 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 20:59:23 2023 You have reached 90 kills, you get a power-up!
+Fri Apr 28 20:59:23 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 20:59:23 2023 You can use RPG now. 4 rockets left
+Fri Apr 28 20:59:23 2023 Hold  grenade and keep holding both left & right mouse buttons for 5 sec.
+Fri Apr 28 20:59:23 2023 [*] Harry is on a 90 killstreak and gets RPG ammo!
+Fri Apr 28 20:59:23 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:59:24 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 20:59:24 2023 BOT_JunKing (Pink) [Rifle] BOT_echo (Green)
+Fri Apr 28 20:59:26 2023 BOT_akkaMonsta (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:59:26 2023 BOT_kurwa (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 20:59:30 2023 lopster (Pink) [Headshot] BOT_+n00b (Green)
+Fri Apr 28 20:59:30 2023 BOT_Black Cat (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 20:59:30 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 20:59:31 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 20:59:31 2023 BOT_kurwa (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 20:59:31 2023 BOT_F ur mama (Green) [SMG] BOT_xXHusleMan (Pink)
+Fri Apr 28 20:59:34 2023 BOT_kurwa (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:59:35 2023 Green captured Pink's Territory
+Fri Apr 28 20:59:35 2023 BOT_F ur mama (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 20:59:36 2023 BOT_echo (Green) [Fall]
+Fri Apr 28 20:59:37 2023 lopster (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 20:59:38 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_Qtaro-!
+Fri Apr 28 20:59:38 2023 Harry (Green) [Rifle] BOT_Qtaro- (Pink)
+Fri Apr 28 20:59:40 2023 BOT_kurwa (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 20:59:41 2023 BOT_F ur mama (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 20:59:41 2023 BOT_fagg (Green) [Rifle]
+Fri Apr 28 20:59:42 2023 BOT_zone 20 (Green) [Headshot] hora_de_morir__ (Pink)
+Fri Apr 28 20:59:43 2023 lopster (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 20:59:45 2023 BOT_kurwa (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 20:59:46 2023 BOT_XAHA (Pink) [Headshot] William (Green)
+Fri Apr 28 20:59:47 2023 BOT_JunKing (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 20:59:48 2023 lopster (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 20:59:49 2023 BOT_Jugata (Pink) [SMG] BOT_inazuma11 (Green)
+Fri Apr 28 20:59:50 2023 Harry (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 20:59:51 2023 Type /power for more info on Intel Powers
+Fri Apr 28 20:59:51 2023 You were killed by BOT_The Zero (100HP) who had no powers
+Fri Apr 28 20:59:51 2023 BOT_The Zero (Pink) [Headshot] Harry (Green)
+Fri Apr 28 20:59:52 2023 BOT_-Isthomus- (Pink) [Headshot] BOT_golgo13 (Green)
+Fri Apr 28 20:59:52 2023 BOT_akkaMonsta (Green) [Shotgun] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 20:59:54 2023 BOT_Qtaro- (Pink) [Shotgun] BOT_F ur mama (Green)
+Fri Apr 28 20:59:55 2023 BOT_The Zero (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 20:59:56 2023 *************************************************************************
+Fri Apr 28 20:59:56 2023 In Tug of War, you capture your opponents' front CP to advance.
+Fri Apr 28 20:59:56 2023 Type /power for more information!
+Fri Apr 28 20:59:56 2023 You have powers: Deadly Dice level 3, Regeneration level 2, Poison Bullets level 1
+Fri Apr 28 20:59:56 2023 You have 1 medkit!
+Fri Apr 28 20:59:56 2023 BOT_Saluchica (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 20:59:56 2023 lopster (Pink) [Grenade] BOT_zone 20 (Green)
+Fri Apr 28 20:59:57 2023 lopster (Pink) [Grenade] BOT_+n00b (Green)
+Fri Apr 28 21:00:02 2023 lopster (Pink) [Headshot] BOT_echo (Green)
+Fri Apr 28 21:00:02 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:00:03 2023 BOT_kurwa (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:00:03 2023 BOT_Deuce7 (Pink) [Shotgun] BOT_bob (Green)
+Fri Apr 28 21:00:04 2023 BOT_fagg (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:00:08 2023 Abagail (Pink) [Headshot] BOT_Saluchica (Green)
+Fri Apr 28 21:00:10 2023 BOT_bob (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:00:12 2023 Abagail (Pink) [Headshot] BOT_echo (Green)
+Fri Apr 28 21:00:12 2023 BOT_Messi GOAT (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:00:13 2023 lopster (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 21:00:13 2023 BOT_*kikumon* (Pink) [Headshot] William (Green)
+Fri Apr 28 21:00:14 2023 BOT_fagg (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 21:00:14 2023 BOT_XAHA (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:00:16 2023 Abagail (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 21:00:17 2023 BOT_Saluchica (Green) [Fall]
+Fri Apr 28 21:00:17 2023 William (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:00:18 2023 BOT_XAHA (Pink) [Rifle] BOT_Messi GOAT (Green)
+Fri Apr 28 21:00:19 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:00:19 2023 Abagail (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 21:00:21 2023 BOT_bob (Green) [SMG] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:00:21 2023 lopster (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 21:00:22 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:00:22 2023 Abagail (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:00:22 2023 BOT_golgo13 (Green) [Rifle] BOT_XAHA (Pink)
+Fri Apr 28 21:00:24 2023 [*] Map sucks? Bots stuck? Type /next to start a vote to advance map!
+Fri Apr 28 21:00:24 2023 BOT_JunKing (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 21:00:25 2023 Abagail (Pink) [Headshot] BOT_echo (Green)
+Fri Apr 28 21:00:27 2023 BOT_F ur mama (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 21:00:29 2023 Abagail (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 21:00:29 2023 BOT_JunKing (Pink) [Rifle] BOT_inazuma11 (Green)
+Fri Apr 28 21:00:31 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_-Isthomus-!
+Fri Apr 28 21:00:31 2023 Harry (Green) [Rifle] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:00:31 2023 BOT_The Zero (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 21:00:32 2023 BOT_+n00b (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:00:33 2023 Harry (Green) [Rifle] BOT_JunKing (Pink)
+Fri Apr 28 21:00:35 2023 BOT_XAHA (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:00:37 2023 BOT_lucas (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:00:38 2023 BOT_echo (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:00:38 2023 William (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:00:38 2023 BOT_bob (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:00:39 2023 lopster (Pink) [Rifle] BOT_golgo13 (Green)
+Fri Apr 28 21:00:40 2023 Harry (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 21:00:42 2023 BOT_-Isthomus- (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 21:00:42 2023 William (Green) [Headshot] lopster (Pink)
+Fri Apr 28 21:00:43 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_xXHusleMan!
+Fri Apr 28 21:00:43 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:00:43 2023 BOT_-Isthomus- (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 21:00:44 2023 BOT_aloco (Green) [SMG]
+Fri Apr 28 21:00:45 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:00:45 2023 BOT_Jugata (Pink) [SMG] BOT_inazuma11 (Green)
+Fri Apr 28 21:00:46 2023 BOT_Black Cat (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 21:00:46 2023 BOT_Deuce7 (Pink) [Shotgun] BOT_echo (Green)
+Fri Apr 28 21:00:47 2023 [Global] hora_de_morir__ (Pink): pongan /nexxt
+Fri Apr 28 21:00:47 2023 William (Green) [Shotgun] BOT_Jugata (Pink)
+Fri Apr 28 21:00:48 2023 BOT_akkaMonsta (Green) [Shotgun] BOT_Deuce7 (Pink)
+Fri Apr 28 21:00:48 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 21:00:48 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 21:00:48 2023 BOT_F3rN4nd0 (Pink) [Headshot] William (Green)
+Fri Apr 28 21:00:52 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_F3rN4nd0!
+Fri Apr 28 21:00:52 2023 Harry (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:00:52 2023 Abagail (Pink) [Rifle] BOT_golgo13 (Green)
+Fri Apr 28 21:00:54 2023 BOT_akkaMonsta (Green) [Grenade] BOT_Black Cat (Pink)
+Fri Apr 28 21:00:54 2023 BOT_akkaMonsta (Green) [Grenade] hora_de_morir__ (Pink)
+Fri Apr 28 21:00:58 2023 [Global] hora_de_morir__ (Pink): pongan  /next
+Fri Apr 28 21:00:59 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_lucas!
+Fri Apr 28 21:00:59 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:00:59 2023 BOT_Messi GOAT (Green) [SMG] BOT_Jugata (Pink)
+Fri Apr 28 21:01:00 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_xXHusleMan!
+Fri Apr 28 21:01:00 2023 Harry (Green) [Rifle] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:01:03 2023 Harry (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 21:01:05 2023 BOT_bob (Green) [SMG] BOT_XAHA (Pink)
+Fri Apr 28 21:01:08 2023 BOT_golgo13 (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:01:08 2023 BOT_lucas (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 21:01:10 2023 BOT_Qtaro- (Pink) [Grenade] BOT_bob (Green)
+Fri Apr 28 21:01:10 2023 BOT_Deuce7 (Pink) [Shotgun] BOT_akkaMonsta (Green)
+Fri Apr 28 21:01:13 2023 BOT_zone 20 (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:01:17 2023 [*] William voted to load the next map, if you agree type /next
+Fri Apr 28 21:01:17 2023 BOT_F ur mama (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:01:19 2023 BOT_inazuma11 (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 21:01:19 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_lucas!
+Fri Apr 28 21:01:19 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:01:19 2023 BOT_kurwa (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:01:20 2023 BOT_Qtaro- (Pink) [Shotgun] BOT_kurwa (Green)
+Fri Apr 28 21:01:21 2023 BOT_F ur mama (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:01:23 2023 BOT_inazuma11 (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:01:23 2023 BOT_XAHA (Pink) [Grenade] BOT_inazuma11 (Green)
+Fri Apr 28 21:01:23 2023 BOT_XAHA (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 21:01:24 2023 BOT_Black Cat (Pink) [Headshot] William (Green)
+Fri Apr 28 21:01:26 2023 BOT_akkaMonsta (Green) [Shotgun] BOT_Black Cat (Pink)
+Fri Apr 28 21:01:28 2023 BOT_inazuma11 (Green) [Fall]
+Fri Apr 28 21:01:28 2023 BOT_lucas (Pink) [SMG] BOT_fagg (Green)
+Fri Apr 28 21:01:29 2023 BOT_Saluchica (Green) [SMG] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:01:34 2023 BOT_echo (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:01:34 2023 BOT_Qtaro- (Pink) [Shotgun] BOT_echo (Green)
+Fri Apr 28 21:01:37 2023 BOT_zone 20 (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:01:37 2023 BOT_Jugata (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:01:38 2023 [Global] hora_de_morir__ (Pink): pongan /next
+Fri Apr 28 21:01:38 2023 BOT_echo (Green) [Fall]
+Fri Apr 28 21:01:38 2023 You have reached 15 kills, you get a power-up!
+Fri Apr 28 21:01:38 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 21:01:39 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_Deuce7!
+Fri Apr 28 21:01:39 2023 Harry (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:01:40 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_xXHusleMan!
+Fri Apr 28 21:01:40 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:01:40 2023 BOT_Jugata (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 21:01:40 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 21:01:40 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:01:42 2023 BOT_F ur mama (Green) [SMG] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:01:43 2023 Harry (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 21:01:44 2023 BOT_Messi GOAT (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:01:45 2023 BOT_The Zero (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 21:01:46 2023 William (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 21:01:47 2023 [Global] hora_de_morir__ (Pink): este mapa quita fps
+Fri Apr 28 21:01:47 2023 lopster (Pink) [Headshot] William (Green)
+Fri Apr 28 21:01:47 2023 Harry (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:01:48 2023 BOT_Messi GOAT (Green) [SMG] BOT_The Zero (Pink)
+Fri Apr 28 21:01:48 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_*kikumon*!
+Fri Apr 28 21:01:48 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 21:01:49 2023 BOT_JunKing (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:01:50 2023 BOT_Messi GOAT (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:01:50 2023 lopster (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 21:01:54 2023 BOT_lucas (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 21:01:56 2023 BOT_Deuce7 (Pink) [Shotgun] BOT_fagg (Green)
+Fri Apr 28 21:01:56 2023 BOT_bob (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:01:59 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_xXHusleMan!
+Fri Apr 28 21:01:59 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:01:59 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:02:00 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_Qtaro-!
+Fri Apr 28 21:02:00 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:02:00 2023 BOT_JunKing (Pink) [Headshot] BOT_+n00b (Green)
+Fri Apr 28 21:02:02 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 21:02:02 2023 Harry (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:02:03 2023 BOT_Black Cat (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 21:02:03 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_Black Cat!
+Fri Apr 28 21:02:03 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:02:04 2023 hora_de_morir__ (Pink) [SMG] BOT_Saluchica (Green)
+Fri Apr 28 21:02:06 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_F3rN4nd0!
+Fri Apr 28 21:02:06 2023 Harry (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:02:06 2023 BOT_zone 20 (Green) [Rifle] hora_de_morir__ (Pink)
+Fri Apr 28 21:02:07 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_Jugata!
+Fri Apr 28 21:02:07 2023 Harry (Green) [Rifle] BOT_Jugata (Pink)
+Fri Apr 28 21:02:07 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:02:08 2023 BOT_aloco (Green) [SMG]
+Fri Apr 28 21:02:11 2023 You have reached 30 kills, you get a power-up!
+Fri Apr 28 21:02:11 2023 You can use RPG now. 2 rockets left
+Fri Apr 28 21:02:11 2023 Hold  grenade and keep holding both left & right mouse buttons for 5 sec.
+Fri Apr 28 21:02:11 2023 [*] Harry is on a 30 killstreak and gets RPG ammo!
+Fri Apr 28 21:02:11 2023 Harry (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 21:02:12 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 21:02:12 2023 BOT_Deuce7 (Pink) [Shotgun] BOT_akkaMonsta (Green)
+Fri Apr 28 21:02:15 2023 BOT_lucas (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:02:16 2023 BOT_lucas (Pink) [SMG] William (Green)
+Fri Apr 28 21:02:16 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_lucas!
+Fri Apr 28 21:02:16 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:02:16 2023 BOT_Jugata (Pink) [Headshot] BOT_echo (Green)
+Fri Apr 28 21:02:16 2023 BOT_zone 20 (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 21:02:18 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_-Isthomus-!
+Fri Apr 28 21:02:18 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:02:19 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:02:22 2023 Alea iacta est... You have rolled the dice of life and instakilled hora_de_morir__!
+Fri Apr 28 21:02:22 2023 Harry (Green) [Headshot] hora_de_morir__ (Pink)
+Fri Apr 28 21:02:24 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 21:02:24 2023 Harry (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:02:24 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:02:25 2023 BOT_zone 20 (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:02:25 2023 BOT_-Isthomus- (Pink) [SMG] BOT_Messi GOAT (Green)
+Fri Apr 28 21:02:27 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:02:29 2023 [*] 10 minutes remaining.
+Fri Apr 28 21:02:29 2023 BOT_*kikumon* (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 21:02:29 2023 BOT_aloco (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 21:02:32 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_Deuce7!
+Fri Apr 28 21:02:32 2023 Harry (Green) [Rifle] BOT_Deuce7 (Pink)
+Fri Apr 28 21:02:33 2023 lopster (Pink) [Rifle] BOT_aloco (Green)
+Fri Apr 28 21:02:34 2023 William (Green) [Fall]
+Fri Apr 28 21:02:34 2023 Abagail (Pink) [Headshot] BOT_Saluchica (Green)
+Fri Apr 28 21:02:35 2023 BOT_echo (Green) [Headshot] Abagail (Pink)
+Fri Apr 28 21:02:35 2023 BOT_lucas (Pink) [SMG] BOT_golgo13 (Green)
+Fri Apr 28 21:02:37 2023 BOT_F ur mama (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:02:38 2023 BOT_-Isthomus- (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 21:02:38 2023 lopster (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:02:39 2023 BOT_+n00b (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:02:40 2023 BOT_JunKing (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 21:02:42 2023 BOT_zone 20 (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:02:43 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:02:44 2023 BOT_xXHusleMan (Pink) [Headshot] BOT_+n00b (Green)
+Fri Apr 28 21:02:44 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:02:44 2023 BOT_Jugata (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 21:02:46 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 21:02:47 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 21:02:47 2023 Harry (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:02:47 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:02:48 2023 You have reached 45 kills, you get a power-up!
+Fri Apr 28 21:02:48 2023 Harry (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 21:02:50 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 21:02:51 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:02:52 2023 BOT_XAHA (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:02:53 2023 William (Green) [Shotgun] BOT_XAHA (Pink)
+Fri Apr 28 21:02:54 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 21:02:55 2023 BOT_aloco (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:02:57 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:03:00 2023 Type /power for more info on Intel Powers
+Fri Apr 28 21:03:00 2023 You were killed by lopster (100HP) who had no powers
+Fri Apr 28 21:03:00 2023 Harry's rampage was ended by lopster
+Fri Apr 28 21:03:00 2023 lopster (Pink) [Headshot] Harry (Green)
+Fri Apr 28 21:03:00 2023 William (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:03:01 2023 BOT_inazuma11 (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 21:03:03 2023 William (Green) [Shotgun] BOT_Qtaro- (Pink)
+Fri Apr 28 21:03:04 2023 lopster (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 21:03:05 2023 *************************************************************************
+Fri Apr 28 21:03:05 2023 In Tug of War, you capture your opponents' front CP to advance.
+Fri Apr 28 21:03:05 2023 Type /power for more information!
+Fri Apr 28 21:03:05 2023 You have powers: Armor level 2, Deadly Dice level 3, Regeneration level 3, Poison Bullets
+Fri Apr 28 21:03:05 2023 level 1
+Fri Apr 28 21:03:05 2023 You have 1 medkit!
+Fri Apr 28 21:03:06 2023 BOT_-Isthomus- (Pink) [SMG] BOT_aloco (Green)
+Fri Apr 28 21:03:08 2023 hora_de_morir__ (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 21:03:08 2023 BOT_lucas (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:03:09 2023 BOT_fagg (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:03:10 2023 BOT_lucas (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 21:03:11 2023 William (Green) [Shotgun] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:03:11 2023 BOT_echo (Green) [Headshot] hora_de_morir__ (Pink)
+Fri Apr 28 21:03:12 2023 lopster (Pink) [Headshot] BOT_echo (Green)
+Fri Apr 28 21:03:13 2023 BOT_F ur mama (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:03:13 2023 BOT_F ur mama (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 21:03:13 2023 BOT_+n00b (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:03:15 2023 lopster (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 21:03:17 2023 BOT_akkaMonsta (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:03:17 2023 BOT_+n00b (Green) [Rifle] BOT_Qtaro- (Pink)
+Fri Apr 28 21:03:18 2023 lopster (Pink) [Headshot] BOT_Saluchica (Green)
+Fri Apr 28 21:03:18 2023 BOT_Deuce7 (Pink) [Shotgun] BOT_akkaMonsta (Green)
+Fri Apr 28 21:03:20 2023 BOT_+n00b (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 21:03:23 2023 BOT_echo (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:03:25 2023 BOT_*kikumon* (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 21:03:26 2023 BOT_JunKing (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 21:03:28 2023 BOT_echo (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:03:28 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_The Zero!
+Fri Apr 28 21:03:28 2023 Harry (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:03:32 2023 BOT_*kikumon* (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 21:03:33 2023 BOT_F ur mama (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:03:33 2023 BOT_inazuma11 (Green) [Fall]
+Fri Apr 28 21:03:34 2023 BOT_Black Cat (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:03:35 2023 hora_de_morir__ (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:03:36 2023 BOT_Saluchica (Green) [SMG] BOT_Qtaro- (Pink)
+Fri Apr 28 21:03:38 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 21:03:42 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:03:42 2023 BOT_echo (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 21:03:42 2023 BOT_F3rN4nd0 (Pink) [SMG] BOT_F ur mama (Green)
+Fri Apr 28 21:03:45 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_The Zero!
+Fri Apr 28 21:03:45 2023 Harry (Green) [Rifle] BOT_The Zero (Pink)
+Fri Apr 28 21:03:46 2023 lopster (Pink) [Headshot] BOT_echo (Green)
+Fri Apr 28 21:03:46 2023 BOT_Messi GOAT (Green) [SMG] BOT_Deuce7 (Pink)
+Fri Apr 28 21:03:47 2023 BOT_zone 20 (Green) [Rifle] BOT_lucas (Pink)
+Fri Apr 28 21:03:49 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:03:49 2023 BOT_aloco (Green) [SMG]
+Fri Apr 28 21:03:50 2023 lopster (Pink) [Rifle] BOT_zone 20 (Green)
+Fri Apr 28 21:03:50 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 21:03:50 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 21:03:51 2023 Harry (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:03:52 2023 BOT_Qtaro- (Pink) [Shotgun] BOT_Messi GOAT (Green)
+Fri Apr 28 21:03:52 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:03:53 2023 hora_de_morir__ (Pink) [Headshot] BOT_+n00b (Green)
+Fri Apr 28 21:03:54 2023 William (Green) [Grenade] BOT_lucas (Pink)
+Fri Apr 28 21:03:56 2023 Alea iacta est... You have rolled the dice of life and instakilled hora_de_morir__!
+Fri Apr 28 21:03:56 2023 Harry (Green) [Headshot] hora_de_morir__ (Pink)
+Fri Apr 28 21:03:58 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:03:58 2023 BOT_aloco (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:04:01 2023 Harry (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:04:08 2023 BOT_zone 20 (Green) [Headshot] hora_de_morir__ (Pink)
+Fri Apr 28 21:04:09 2023 BOT_kurwa (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 21:04:09 2023 William (Green) [Headshot] Abagail (Pink)
+Fri Apr 28 21:04:10 2023 BOT_-Isthomus- (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:04:12 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 21:04:14 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:04:17 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:04:18 2023 lopster (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 21:04:19 2023 You have reached 15 kills, you get a power-up!
+Fri Apr 28 21:04:19 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 21:04:19 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 21:04:20 2023 lopster (Pink) [Headshot] BOT_echo (Green)
+Fri Apr 28 21:04:20 2023 BOT_JunKing (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:04:20 2023 BOT_xXHusleMan (Pink) [Rifle] BOT_bob (Green)
+Fri Apr 28 21:04:20 2023 BOT_Messi GOAT (Green) [SMG] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:04:21 2023 lopster (Pink) [Headshot] BOT_Saluchica (Green)
+Fri Apr 28 21:04:21 2023 BOT_Messi GOAT (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:04:21 2023 BOT_Black Cat (Pink) [Rifle] BOT_Messi GOAT (Green)
+Fri Apr 28 21:04:21 2023 BOT_*kikumon* (Pink) [Grenade] BOT_aloco (Green)
+Fri Apr 28 21:04:21 2023 BOT_*kikumon* (Pink) [Grenade] BOT_F ur mama (Green)
+Fri Apr 28 21:04:22 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:04:23 2023 BOT_inazuma11 (Green) [SMG]
+Fri Apr 28 21:04:23 2023 [Global] hora_de_morir__ (Pink): harry
+Fri Apr 28 21:04:25 2023 BOT_Deuce7 (Pink) [Grenade] BOT_golgo13 (Green)
+Fri Apr 28 21:04:27 2023 BOT_The Zero (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:04:30 2023 BOT_golgo13 (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:04:30 2023 BOT_+n00b (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:04:31 2023 BOT_fagg (Green) [Rifle]
+Fri Apr 28 21:04:31 2023 BOT_Saluchica (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:04:36 2023 BOT_bob (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:04:36 2023 BOT_golgo13 (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:04:37 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:04:40 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 21:04:40 2023 BOT_inazuma11 (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:04:41 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:04:42 2023 hora_de_morir__ (Pink) [SMG] BOT_kurwa (Green)
+Fri Apr 28 21:04:43 2023 hora_de_morir__ (Pink) [SMG] BOT_inazuma11 (Green)
+Fri Apr 28 21:04:43 2023 lopster (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 21:04:44 2023 BOT_Saluchica (Green) [Headshot] hora_de_morir__ (Pink)
+Fri Apr 28 21:04:44 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 21:04:44 2023 Harry (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:04:46 2023 William (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 21:04:47 2023 lopster (Pink) [Rifle] BOT_bob (Green)
+Fri Apr 28 21:04:51 2023 BOT_zone 20 (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:04:53 2023 BOT_JunKing (Pink) [Rifle]
+Fri Apr 28 21:04:56 2023 BOT_The Zero (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 21:04:57 2023 BOT_zone 20 (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:04:57 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_lucas!
+Fri Apr 28 21:04:57 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:04:59 2023 William (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:04:59 2023 BOT_+n00b (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:05:00 2023 lopster (Pink) [Headshot] BOT_echo (Green)
+Fri Apr 28 21:05:00 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:05:01 2023 lopster (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:05:02 2023 BOT_-Isthomus- (Pink) [SMG] BOT_aloco (Green)
+Fri Apr 28 21:05:03 2023 lopster (Pink) [Headshot] BOT_Saluchica (Green)
+Fri Apr 28 21:05:03 2023 Harry (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:05:04 2023 William (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 21:05:05 2023 BOT_akkaMonsta (Green) [Shotgun] BOT_Deuce7 (Pink)
+Fri Apr 28 21:05:05 2023 BOT_F ur mama (Green) [SMG]
+Fri Apr 28 21:05:07 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_-Isthomus-!
+Fri Apr 28 21:05:07 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:05:07 2023 BOT_Qtaro- (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:05:10 2023 William (Green) [Shotgun] BOT_XAHA (Pink)
+Fri Apr 28 21:05:11 2023 Abagail (Pink) [Headshot] William (Green)
+Fri Apr 28 21:05:11 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:05:15 2023 BOT_aloco (Green) [Fall]
+Fri Apr 28 21:05:15 2023 Harry (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 21:05:18 2023 Harry (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 21:05:18 2023 lopster (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 21:05:19 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 21:05:19 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:05:20 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 21:05:21 2023 BOT_xXHusleMan (Pink) [Headshot] BOT_echo (Green)
+Fri Apr 28 21:05:21 2023 You have reached 30 kills, you get a power-up!
+Fri Apr 28 21:05:21 2023 You can use RPG now. 2 rockets left
+Fri Apr 28 21:05:21 2023 Hold  grenade and keep holding both left & right mouse buttons for 5 sec.
+Fri Apr 28 21:05:21 2023 [*] Harry is on a 30 killstreak and gets RPG ammo!
+Fri Apr 28 21:05:21 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:05:22 2023 roger waters joined Green team
+Fri Apr 28 21:05:22 2023 Player BOT_echo has left
+Fri Apr 28 21:05:22 2023 BOT_-Isthomus- (Pink) [SMG] BOT_bob (Green)
+Fri Apr 28 21:05:23 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:05:23 2023 Harry (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:05:23 2023 [Global] BOT_Saluchica (Green): ahoj
+Fri Apr 28 21:05:23 2023 [*] <Streak Rewards> Rampage: 4 kills in 9 secs, Power-up: 15 kills, RPG: 30 kills
+Fri Apr 28 21:05:24 2023 [Global] BOT_Deuce7 (Pink): o/
+Fri Apr 28 21:05:24 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:05:24 2023 Harry (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:05:25 2023 BOT_kurwa (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:05:25 2023 BOT_Messi GOAT (Green) [SMG]
+Fri Apr 28 21:05:25 2023 lopster (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:05:26 2023 Abagail (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 21:05:28 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:05:28 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:05:29 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:05:29 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 21:05:30 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:05:30 2023 Harry (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 21:05:30 2023 BOT_F3rN4nd0 (Pink) [Fall]
+Fri Apr 28 21:05:31 2023 BOT_Black Cat (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 21:05:32 2023 BOT_inazuma11 (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:05:33 2023 Type /power for more info on Intel Powers
+Fri Apr 28 21:05:33 2023 You were killed by lopster (100HP) who had powers: Deadly Dice level 1
+Fri Apr 28 21:05:33 2023 Harry's rampage was ended by lopster
+Fri Apr 28 21:05:33 2023 lopster (Pink) [Headshot] Harry (Green)
+Fri Apr 28 21:05:36 2023 lopster (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:05:37 2023 BOT_The Zero (Pink) [Headshot] William (Green)
+Fri Apr 28 21:05:38 2023 BOT_*kikumon* (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 21:05:38 2023 *************************************************************************
+Fri Apr 28 21:05:38 2023 In Tug of War, you capture your opponents' front CP to advance.
+Fri Apr 28 21:05:38 2023 Type /power for more information!
+Fri Apr 28 21:05:38 2023 You have powers: Armor level 3, Deadly Dice level 3, Good Teammate level 1, Regeneration
+Fri Apr 28 21:05:38 2023 level 3, Poison Bullets level 1
+Fri Apr 28 21:05:38 2023 You have 1 medkit!
+Fri Apr 28 21:05:38 2023 lopster (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 21:05:40 2023 lopster IS ON A RAMPAGE!!
+Fri Apr 28 21:05:40 2023 lopster (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 21:05:40 2023 BOT_zone 20 (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:05:43 2023 roger waters (Green) [Shotgun] BOT_lucas (Pink)
+Fri Apr 28 21:05:44 2023 BOT_Black Cat (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 21:05:46 2023 roger waters (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:05:47 2023 Abagail (Pink) [Headshot] roger waters (Green)
+Fri Apr 28 21:05:48 2023 BOT_*kikumon* (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 21:05:49 2023 Type /current (#player_id) to see current powers
+Fri Apr 28 21:05:49 2023 Type /powerpref for info on setting prefered power
+Fri Apr 28 21:05:49 2023 2 - Good Teammate     5 - Nadesplosion     6 - Erector
+Fri Apr 28 21:05:49 2023 1 - Deadly Dice       4 - Poison Bullets
+Fri Apr 28 21:05:49 2023 0 - Armor             3 - Regeneration
+Fri Apr 28 21:05:49 2023 Type /power # to read about a power:
+Fri Apr 28 21:05:49 2023 Abagail (Pink) [Headshot] BOT_golgo13 (Green)
+Fri Apr 28 21:05:51 2023 Abagail (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 21:05:52 2023 hora_de_morir__ (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:05:52 2023 hora_de_morir__ (Pink) [SMG] BOT_+n00b (Green)
+Fri Apr 28 21:05:53 2023 BOT_aloco (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:05:54 2023 BOT_JunKing (Pink) [Headshot] BOT_Saluchica (Green)
+Fri Apr 28 21:05:54 2023 BOT_akkaMonsta (Green) [Shotgun] hora_de_morir__ (Pink)
+Fri Apr 28 21:05:54 2023 lopster (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:05:55 2023 BOT_fagg (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:05:55 2023 Level 3 - Take 1/8 damage from body-shots and grenades.
+Fri Apr 28 21:05:55 2023 Level 2 - Take 1/4 damage from body-shots and grenades.
+Fri Apr 28 21:05:55 2023 Level 1 - Take 1/2 damage from body-shots and grenades.
+Fri Apr 28 21:05:55 2023 The power of Armor:
+Fri Apr 28 21:05:58 2023 BOT_JunKing (Pink) [Grenade] BOT_aloco (Green)
+Fri Apr 28 21:05:58 2023 BOT_fagg (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 21:06:00 2023 BOT_bob (Green) [Fall]
+Fri Apr 28 21:06:00 2023 BOT_Jugata (Pink) [SMG] BOT_F ur mama (Green)
+Fri Apr 28 21:06:00 2023 BOT_-Isthomus- (Pink) [SMG] BOT_fagg (Green)
+Fri Apr 28 21:06:00 2023 BOT_Jugata (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:06:01 2023 BOT_+n00b (Green) [Rifle] BOT_The Zero (Pink)
+Fri Apr 28 21:06:01 2023 BOT_F3rN4nd0 (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 21:06:05 2023 BOT_Messi GOAT (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:06:06 2023 BOT_lucas (Pink) [SMG] BOT_akkaMonsta (Green)
+Fri Apr 28 21:06:07 2023 Type /current (#player_id) to see current powers
+Fri Apr 28 21:06:07 2023 Type /powerpref for info on setting prefered power
+Fri Apr 28 21:06:07 2023 2 - Good Teammate     5 - Nadesplosion     6 - Erector
+Fri Apr 28 21:06:07 2023 1 - Deadly Dice       4 - Poison Bullets
+Fri Apr 28 21:06:07 2023 0 - Armor             3 - Regeneration
+Fri Apr 28 21:06:07 2023 Type /power # to read about a power:
+Fri Apr 28 21:06:07 2023 BOT_xXHusleMan (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 21:06:07 2023 BOT_fagg (Green) [Rifle] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:06:11 2023 BOT_kurwa (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:06:11 2023 hora_de_morir__ (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 21:06:11 2023 BOT_bob (Green) [Fall]
+Fri Apr 28 21:06:12 2023 BOT_lucas (Pink) [Grenade] BOT_fagg (Green)
+Fri Apr 28 21:06:14 2023 BOT_The Zero (Pink) [Rifle] BOT_kurwa (Green)
+Fri Apr 28 21:06:15 2023 BOT_F ur mama (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:06:16 2023 BOT_+n00b (Green) [Rifle] BOT_Deuce7 (Pink)
+Fri Apr 28 21:06:16 2023 2 - Good Teammate     5 - Nadesplosion     6 - Erector
+Fri Apr 28 21:06:16 2023 1 - Deadly Dice       4 - Poison Bullets
+Fri Apr 28 21:06:16 2023 0 - Armor             3 - Regeneration
+Fri Apr 28 21:06:16 2023 Type /powerpref # to set a preference
+Fri Apr 28 21:06:16 2023 Preference is ignored on your first intel grab.
+Fri Apr 28 21:06:17 2023 BOT_lucas (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 21:06:19 2023 BOT_JunKing (Pink) [Headshot] William (Green)
+Fri Apr 28 21:06:20 2023 BOT_akkaMonsta (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:06:21 2023 BOT_The Zero (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 21:06:22 2023 Preference saved.
+Fri Apr 28 21:06:23 2023 BOT_zone 20 (Green) [Rifle] hora_de_morir__ (Pink)
+Fri Apr 28 21:06:24 2023 BOT_Messi GOAT (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:06:27 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:06:27 2023 Harry (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:06:29 2023 BOT_lucas (Pink) [Headshot] roger waters (Green)
+Fri Apr 28 21:06:29 2023 lopster (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 21:06:29 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_The Zero!
+Fri Apr 28 21:06:29 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:06:29 2023 Harry (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:06:31 2023 lopster (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 21:06:31 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:06:31 2023 Harry (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 21:06:31 2023 BOT_Deuce7 (Pink) [Fall]
+Fri Apr 28 21:06:32 2023 lopster (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 21:06:33 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:06:33 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 21:06:33 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 21:06:37 2023 BOT_zone 20 (Green) [Headshot] hora_de_morir__ (Pink)
+Fri Apr 28 21:06:39 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:06:39 2023 Harry (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:06:41 2023 BOT_lucas (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 21:06:41 2023 BOT_aloco (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:06:41 2023 BOT_The Zero (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 21:06:41 2023 BOT_lucas (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:06:42 2023 [*] lopster is on a 30 killstreak and gets RPG ammo!
+Fri Apr 28 21:06:42 2023 lopster (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 21:06:42 2023 BOT_kurwa (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:06:43 2023 BOT_Saluchica (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:06:44 2023 lopster (Pink) [Rifle] BOT_kurwa (Green)
+Fri Apr 28 21:06:44 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:06:44 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:06:46 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:06:46 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:06:47 2023 lopster (Pink) [Headshot] BOT_Saluchica (Green)
+Fri Apr 28 21:06:48 2023 BOT_bob (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:06:51 2023 BOT_F ur mama (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 21:06:52 2023 lopster (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 21:06:52 2023 BOT_Jugata (Pink) [SMG] BOT_inazuma11 (Green)
+Fri Apr 28 21:06:53 2023 lopster (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 21:06:54 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:06:54 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:06:55 2023 lopster IS ON A RAMPAGE!!
+Fri Apr 28 21:06:55 2023 lopster (Pink) [Rifle] BOT_Messi GOAT (Green)
+Fri Apr 28 21:06:55 2023 William (Green) [Shotgun] BOT_Deuce7 (Pink)
+Fri Apr 28 21:06:58 2023 BOT_Messi GOAT (Green) [Grenade] hora_de_morir__ (Pink)
+Fri Apr 28 21:06:59 2023 Type /power for more info on Intel Powers
+Fri Apr 28 21:06:59 2023 You were killed by lopster (100HP) who had powers: Deadly Dice level 2
+Fri Apr 28 21:06:59 2023 lopster (Pink) [Headshot] Harry (Green)
+Fri Apr 28 21:07:00 2023 BOT_akkaMonsta (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 21:07:00 2023 William (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:07:02 2023 BOT_Jugata (Pink) [Grenade] BOT_+n00b (Green)
+Fri Apr 28 21:07:02 2023 BOT_Jugata (Pink) [Grenade] BOT_golgo13 (Green)
+Fri Apr 28 21:07:03 2023 BOT_Jugata (Pink) [SMG] BOT_Saluchica (Green)
+Fri Apr 28 21:07:04 2023 BOT_akkaMonsta (Green) [Shotgun] BOT_Jugata (Pink)
+Fri Apr 28 21:07:06 2023 William (Green) [Shotgun] BOT_Qtaro- (Pink)
+Fri Apr 28 21:07:06 2023 Abagail (Pink) [Headshot] William (Green)
+Fri Apr 28 21:07:07 2023 BOT_zone 20 (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:07:08 2023 *************************************************************************
+Fri Apr 28 21:07:08 2023 In Tug of War, you capture your opponents' front CP to advance.
+Fri Apr 28 21:07:08 2023 Type /power for more information!
+Fri Apr 28 21:07:08 2023 You have powers: Armor level 3, Deadly Dice level 3, Good Teammate level 1, Regeneration
+Fri Apr 28 21:07:08 2023 level 3, Poison Bullets level 1
+Fri Apr 28 21:07:08 2023 You have 1 medkit!
+Fri Apr 28 21:07:08 2023 Type /current (#player_id) to see current powers
+Fri Apr 28 21:07:08 2023 Type /powerpref for info on setting prefered power
+Fri Apr 28 21:07:08 2023 2 - Good Teammate     5 - Nadesplosion     6 - Erector
+Fri Apr 28 21:07:08 2023 1 - Deadly Dice       4 - Poison Bullets
+Fri Apr 28 21:07:08 2023 0 - Armor             3 - Regeneration
+Fri Apr 28 21:07:08 2023 Type /power # to read about a power:
+Fri Apr 28 21:07:10 2023 BOT_Saluchica (Green) [SMG] BOT_lucas (Pink)
+Fri Apr 28 21:07:12 2023 BOT_Black Cat (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 21:07:14 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:07:14 2023 Harry (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:07:14 2023 William (Green) [Shotgun] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:07:15 2023 lopster (Pink) [Grenade] BOT_Saluchica (Green)
+Fri Apr 28 21:07:16 2023 BOT_The Zero (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 21:07:16 2023 BOT_inazuma11 (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:07:18 2023 BOT_F ur mama (Green) [SMG] BOT_Black Cat (Pink)
+Fri Apr 28 21:07:19 2023 BOT_-Isthomus- (Pink) [SMG] BOT_akkaMonsta (Green)
+Fri Apr 28 21:07:19 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_Jugata!
+Fri Apr 28 21:07:19 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:07:19 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 21:07:19 2023 BOT_F ur mama (Green) [SMG] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:07:19 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_-Isthomus-!
+Fri Apr 28 21:07:22 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_Qtaro-!
+Fri Apr 28 21:07:22 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:07:22 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:07:22 2023 lopster (Pink) [Grenade] BOT_+n00b (Green)
+Fri Apr 28 21:07:22 2023 lopster (Pink) [Grenade] BOT_Saluchica (Green)
+Fri Apr 28 21:07:22 2023 lopster IS ON A RAMPAGE!!
+Fri Apr 28 21:07:22 2023 lopster (Pink) [Grenade] William (Green)
+Fri Apr 28 21:07:22 2023 lopster (Pink) [Grenade] BOT_fagg (Green)
+Fri Apr 28 21:07:22 2023 lopster (Pink) [Grenade] BOT_aloco (Green)
+Fri Apr 28 21:07:22 2023 You have been instakilled by lopster !
+Fri Apr 28 21:07:22 2023 Type /power for more info on Intel Powers
+Fri Apr 28 21:07:22 2023 You were killed by lopster (100HP) who had powers: Deadly Dice level 2
+Fri Apr 28 21:07:22 2023 lopster (Pink) [Grenade] Harry (Green)
+Fri Apr 28 21:07:22 2023 lopster (Pink) [Grenade] BOT_zone 20 (Green)
+Fri Apr 28 21:07:23 2023 BOT_JunKing (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 21:07:26 2023 *************************************************************************
+Fri Apr 28 21:07:26 2023 In Tug of War, you capture your opponents' front CP to advance.
+Fri Apr 28 21:07:26 2023 Type /power for more information!
+Fri Apr 28 21:07:26 2023 You have powers: Armor level 3, Deadly Dice level 3, Good Teammate level 1, Regeneration
+Fri Apr 28 21:07:26 2023 level 3, Poison Bullets level 1
+Fri Apr 28 21:07:26 2023 You have 1 medkit!
+Fri Apr 28 21:07:26 2023 BOT_Messi GOAT (Green) [SMG] BOT_lucas (Pink)
+Fri Apr 28 21:07:27 2023 BOT_The Zero (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 21:07:28 2023 BOT_The Zero (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:07:29 2023 [*] 5 minutes remaining.
+Fri Apr 28 21:07:29 2023 BOT_aloco (Green) [SMG] BOT_The Zero (Pink)
+Fri Apr 28 21:07:30 2023 BOT_akkaMonsta (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 21:07:32 2023 BOT_golgo13 (Green) [Rifle] BOT_Deuce7 (Pink)
+Fri Apr 28 21:07:34 2023 lopster (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 21:07:34 2023 BOT_F ur mama (Green) [SMG] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:07:36 2023 lopster (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 21:07:37 2023 BOT_F ur mama (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:07:41 2023 BOT_kurwa (Green) [Headshot] hora_de_morir__ (Pink)
+Fri Apr 28 21:07:41 2023 BOT_aloco (Green) [SMG] BOT_Jugata (Pink)
+Fri Apr 28 21:07:41 2023 BOT_Black Cat (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 21:07:42 2023 BOT_fagg (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:07:43 2023 [Team] William (Green): COMO LANZARON UN MISIL¡¡¡¡¡¡¡¡¡
+Fri Apr 28 21:07:45 2023 BOT_akkaMonsta (Green) [Shotgun] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:07:46 2023 BOT_*kikumon* (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:07:46 2023 lopster (Pink) [Grenade] BOT_fagg (Green)
+Fri Apr 28 21:07:46 2023 lopster (Pink) [Grenade] BOT_kurwa (Green)
+Fri Apr 28 21:07:46 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:07:46 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:07:47 2023 lopster (Pink) [Grenade] BOT_F ur mama (Green)
+Fri Apr 28 21:07:47 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_*kikumon*!
+Fri Apr 28 21:07:47 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:07:47 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 21:07:53 2023 BOT_golgo13 (Green) [Rifle] BOT_Qtaro- (Pink)
+Fri Apr 28 21:07:53 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:07:53 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:07:54 2023 BOT_The Zero (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 21:07:55 2023 William (Green) [Grenade]
+Fri Apr 28 21:07:55 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:07:55 2023 Harry (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:07:56 2023 BOT_The Zero (Pink) [Headshot] roger waters (Green)
+Fri Apr 28 21:07:56 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:07:56 2023 Harry (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 21:07:56 2023 lopster (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 21:07:59 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:07:59 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 21:07:59 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:07:59 2023 Abagail (Pink) [Fall]
+Fri Apr 28 21:07:59 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:07:59 2023 Harry (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:08:00 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:08:00 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:08:04 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:08:04 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:08:05 2023 hora_de_morir__ (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 21:08:06 2023 hora_de_morir__ (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 21:08:06 2023 BOT_XAHA (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:08:07 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:08:07 2023 Harry (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:08:07 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:08:07 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 21:08:08 2023 lopster (Pink) [Headshot] BOT_Saluchica (Green)
+Fri Apr 28 21:08:10 2023 hora_de_morir__ (Pink) [SMG] BOT_inazuma11 (Green)
+Fri Apr 28 21:08:11 2023 BOT_kurwa (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 21:08:11 2023 BOT_zone 20 (Green) [Rifle]
+Fri Apr 28 21:08:14 2023 hora_de_morir__ IS ON A RAMPAGE!!
+Fri Apr 28 21:08:14 2023 hora_de_morir__ (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:08:14 2023 Harry (Green) [Rifle] BOT_lucas (Pink)
+Fri Apr 28 21:08:15 2023 hora_de_morir__ (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 21:08:16 2023 BOT_Messi GOAT (Green) [SMG]
+Fri Apr 28 21:08:17 2023 Harry (Green) [Rifle] BOT_Qtaro- (Pink)
+Fri Apr 28 21:08:19 2023 roger waters (Green) [Shotgun] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:08:20 2023 BOT_+n00b (Green) [Rifle] BOT_The Zero (Pink)
+Fri Apr 28 21:08:21 2023 BOT_Saluchica (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:08:23 2023 Type /power for more info on Intel Powers
+Fri Apr 28 21:08:23 2023 You were killed by lopster (100HP) who had powers: Deadly Dice level 3
+Fri Apr 28 21:08:23 2023 lopster (Pink) [Headshot] Harry (Green)
+Fri Apr 28 21:08:23 2023 BOT_-Isthomus- (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:08:24 2023 lopster (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 21:08:26 2023 BOT_Jugata (Pink) [SMG] BOT_bob (Green)
+Fri Apr 28 21:08:27 2023 BOT_Black Cat (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 21:08:27 2023 roger waters (Green) [Shotgun] BOT_JunKing (Pink)
+Fri Apr 28 21:08:29 2023 *************************************************************************
+Fri Apr 28 21:08:29 2023 In Tug of War, you capture your opponents' front CP to advance.
+Fri Apr 28 21:08:29 2023 Type /power for more information!
+Fri Apr 28 21:08:29 2023 You have powers: Armor level 3, Deadly Dice level 3, Good Teammate level 1, Regeneration
+Fri Apr 28 21:08:29 2023 level 3, Poison Bullets level 1
+Fri Apr 28 21:08:29 2023 You have 1 medkit!
+Fri Apr 28 21:08:29 2023 [*] 4 minutes remaining.
+Fri Apr 28 21:08:30 2023 William (Green) [Shotgun] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:08:30 2023 BOT_kurwa (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:08:31 2023 BOT_Jugata (Pink) [Headshot] roger waters (Green)
+Fri Apr 28 21:08:31 2023 BOT_aloco (Green) [SMG] BOT_Black Cat (Pink)
+Fri Apr 28 21:08:32 2023 BOT_Deuce7 (Pink) [Fall]
+Fri Apr 28 21:08:32 2023 William (Green) [Shotgun] BOT_Qtaro- (Pink)
+Fri Apr 28 21:08:34 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:08:34 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 21:08:34 2023 lopster (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 21:08:34 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:08:34 2023 Harry (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 21:08:36 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:08:36 2023 Harry (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:08:37 2023 hora_de_morir__ (Pink) [SMG] BOT_golgo13 (Green)
+Fri Apr 28 21:08:37 2023 BOT_F3rN4nd0 (Pink) [Headshot] BOT_+n00b (Green)
+Fri Apr 28 21:08:38 2023 BOT_JunKing (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 21:08:38 2023 BOT_*kikumon* (Pink) [Grenade] BOT_zone 20 (Green)
+Fri Apr 28 21:08:38 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:08:38 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 21:08:38 2023 Harry (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:08:39 2023 BOT_Saluchica (Green) [SMG] BOT_*kikumon* (Pink)
+Fri Apr 28 21:08:41 2023 BOT_kurwa (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 21:08:42 2023 hora_de_morir__ (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:08:43 2023 lopster (Pink) [Headshot] roger waters (Green)
+Fri Apr 28 21:08:44 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:08:44 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:08:46 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_-Isthomus-!
+Fri Apr 28 21:08:46 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:08:46 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:08:47 2023 hora_de_morir__ (Pink) [SMG] BOT_akkaMonsta (Green)
+Fri Apr 28 21:08:49 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:08:49 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:08:50 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_The Zero!
+Fri Apr 28 21:08:50 2023 Harry (Green) [Rifle] BOT_The Zero (Pink)
+Fri Apr 28 21:08:53 2023 BOT_lucas (Pink) [SMG] BOT_aloco (Green)
+Fri Apr 28 21:08:53 2023 William (Green) [Shotgun] BOT_Jugata (Pink)
+Fri Apr 28 21:08:55 2023 lopster (Pink) [Rifle] BOT_inazuma11 (Green)
+Fri Apr 28 21:08:56 2023 BOT_fagg (Green) [Rifle]
+Fri Apr 28 21:08:59 2023 BOT_+n00b (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:08:59 2023 lopster (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:08:59 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:08:59 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:09:00 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:09:00 2023 Harry (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:09:01 2023 Type /power for more info on Intel Powers
+Fri Apr 28 21:09:01 2023 You were killed by lopster (100HP) who had powers: Deadly Dice level 3
+Fri Apr 28 21:09:01 2023 lopster (Pink) [Headshot] Harry (Green)
+Fri Apr 28 21:09:01 2023 William (Green) [Shotgun] BOT_Qtaro- (Pink)
+Fri Apr 28 21:09:02 2023 lopster IS ON A RAMPAGE!!
+Fri Apr 28 21:09:02 2023 lopster (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 21:09:02 2023 BOT_Jugata (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 21:09:03 2023 BOT_inazuma11 (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:09:03 2023 roger waters (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:09:05 2023 hora_de_morir__ (Pink) [Headshot] BOT_golgo13 (Green)
+Fri Apr 28 21:09:05 2023 *************************************************************************
+Fri Apr 28 21:09:05 2023 In Tug of War, you capture your opponents' front CP to advance.
+Fri Apr 28 21:09:05 2023 Type /power for more information!
+Fri Apr 28 21:09:05 2023 You have powers: Armor level 3, Deadly Dice level 3, Good Teammate level 1, Regeneration
+Fri Apr 28 21:09:05 2023 level 3, Poison Bullets level 1
+Fri Apr 28 21:09:05 2023 You have 1 medkit!
+Fri Apr 28 21:09:07 2023 roger waters (Green) [Shotgun] BOT_Jugata (Pink)
+Fri Apr 28 21:09:08 2023 BOT_inazuma11 (Green) [SMG] hora_de_morir__ (Pink)
+Fri Apr 28 21:09:08 2023 William (Green) [Shotgun] BOT_Deuce7 (Pink)
+Fri Apr 28 21:09:08 2023 BOT_-Isthomus- (Pink) [SMG] William (Green)
+Fri Apr 28 21:09:15 2023 BOT_The Zero (Pink) [Rifle] BOT_aloco (Green)
+Fri Apr 28 21:09:15 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:09:15 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:09:15 2023 BOT_bob (Green) [SMG]
+Fri Apr 28 21:09:16 2023 roger waters (Green) [Shotgun] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:09:17 2023 [*] lopster is on a 60 killstreak and gets RPG ammo!
+Fri Apr 28 21:09:17 2023 lopster (Pink) [Headshot] roger waters (Green)
+Fri Apr 28 21:09:17 2023 Harry (Green) [Rifle] BOT_Black Cat (Pink)
+Fri Apr 28 21:09:19 2023 BOT_F ur mama (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:09:23 2023 lopster (Pink) [Grenade] BOT_zone 20 (Green)
+Fri Apr 28 21:09:23 2023 lopster (Pink) [Grenade] BOT_+n00b (Green)
+Fri Apr 28 21:09:23 2023 lopster (Pink) [Grenade] BOT_inazuma11 (Green)
+Fri Apr 28 21:09:23 2023 lopster IS ON A RAMPAGE!!
+Fri Apr 28 21:09:23 2023 lopster (Pink) [Grenade] BOT_kurwa (Green)
+Fri Apr 28 21:09:25 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_XAHA!
+Fri Apr 28 21:09:25 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:09:25 2023 Harry (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 21:09:25 2023 Type /power for more info on Intel Powers
+Fri Apr 28 21:09:25 2023 You were killed by BOT_xXHusleMan (39HP) who had no powers
+Fri Apr 28 21:09:25 2023 BOT_xXHusleMan (Pink) [Headshot] Harry (Green)
+Fri Apr 28 21:09:25 2023 BOT_*kikumon* (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 21:09:27 2023 BOT_Saluchica (Green) [Headshot] hora_de_morir__ (Pink)
+Fri Apr 28 21:09:28 2023 BOT_JunKing (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 21:09:29 2023 [*] 3 minutes remaining.
+Fri Apr 28 21:09:29 2023 lopster (Pink) [Grenade] roger waters (Green)
+Fri Apr 28 21:09:32 2023 *************************************************************************
+Fri Apr 28 21:09:32 2023 In Tug of War, you capture your opponents' front CP to advance.
+Fri Apr 28 21:09:32 2023 Type /power for more information!
+Fri Apr 28 21:09:32 2023 You have powers: Armor level 3, Deadly Dice level 3, Good Teammate level 1, Regeneration
+Fri Apr 28 21:09:32 2023 level 3, Poison Bullets level 1
+Fri Apr 28 21:09:32 2023 You have 1 medkit!
+Fri Apr 28 21:09:34 2023 BOT_The Zero (Pink) [Headshot] William (Green)
+Fri Apr 28 21:09:34 2023 BOT_Saluchica (Green) [SMG] BOT_Qtaro- (Pink)
+Fri Apr 28 21:09:34 2023 BOT_F3rN4nd0 (Pink) [Headshot] BOT_golgo13 (Green)
+Fri Apr 28 21:09:36 2023 BOT_The Zero (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 21:09:37 2023 BOT_Saluchica (Green) [SMG] BOT_lucas (Pink)
+Fri Apr 28 21:09:38 2023 BOT_*kikumon* (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 21:09:38 2023 BOT_inazuma11 (Green) [SMG] BOT_Jugata (Pink)
+Fri Apr 28 21:09:38 2023 BOT_xXHusleMan (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 21:09:43 2023 hora_de_morir__ (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:09:43 2023 roger waters (Green) [Grenade] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:09:43 2023 roger waters (Green) [Grenade] BOT_JunKing (Pink)
+Fri Apr 28 21:09:44 2023 BOT_The Zero (Pink) [Headshot] BOT_Saluchica (Green)
+Fri Apr 28 21:09:44 2023 William (Green) [Fall]
+Fri Apr 28 21:09:44 2023 BOT_bob (Green) [SMG] BOT_Black Cat (Pink)
+Fri Apr 28 21:09:46 2023 BOT_fagg (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:09:46 2023 BOT_F3rN4nd0 (Pink) [SMG] roger waters (Green)
+Fri Apr 28 21:09:49 2023 BOT_aloco (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:09:50 2023 BOT_inazuma11 (Green) [SMG] BOT_The Zero (Pink)
+Fri Apr 28 21:09:51 2023 BOT_Jugata (Pink) [SMG] BOT_kurwa (Green)
+Fri Apr 28 21:09:52 2023 BOT_zone 20 (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:09:53 2023 BOT_F3rN4nd0 (Pink) [Fall]
+Fri Apr 28 21:09:53 2023 BOT_Saluchica (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:09:55 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:09:55 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 21:09:56 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:09:56 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 21:09:57 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_lucas!
+Fri Apr 28 21:09:57 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:09:57 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:09:58 2023 hora_de_morir__ (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:10:00 2023 roger waters (Green) [Fall]
+Fri Apr 28 21:10:04 2023 BOT_XAHA (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 21:10:04 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:10:04 2023 Harry (Green) [Headshot] hora_de_morir__ (Pink)
+Fri Apr 28 21:10:04 2023 Player roger waters has left
+Fri Apr 28 21:10:07 2023 BOT_Messi GOAT (Green) [SMG] BOT_lucas (Pink)
+Fri Apr 28 21:10:08 2023 BOT_joker joined Green team
+Fri Apr 28 21:10:09 2023 BOT_XAHA (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 21:10:09 2023 BOT_Saluchica (Green) [SMG] BOT_Qtaro- (Pink)
+Fri Apr 28 21:10:10 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:10:10 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:10:10 2023 BOT_Messi GOAT (Green) [SMG] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:10:10 2023 William (Green) [Fall]
+Fri Apr 28 21:10:11 2023 BOT_xXHusleMan (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 21:10:13 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_xXHusleMan!
+Fri Apr 28 21:10:13 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:10:13 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:10:14 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:10:14 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:10:16 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:10:16 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 21:10:16 2023 Harry (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:10:17 2023 BOT_Deuce7 (Pink) [Shotgun] BOT_zone 20 (Green)
+Fri Apr 28 21:10:21 2023 BOT_F ur mama (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 21:10:22 2023 BOT_The Zero (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 21:10:23 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:10:23 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 21:10:23 2023 [*] Map sucks? Bots stuck? Type /next to start a vote to advance map!
+Fri Apr 28 21:10:25 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:10:25 2023 Harry (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:10:26 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:10:26 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:10:26 2023 BOT_aloco (Green) [SMG] BOT_Deuce7 (Pink)
+Fri Apr 28 21:10:27 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:10:27 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:10:28 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:10:28 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:10:29 2023 You have been instakilled by lopster !
+Fri Apr 28 21:10:29 2023 Type /power for more info on Intel Powers
+Fri Apr 28 21:10:29 2023 You were killed by lopster (99HP) who had powers: Deadly Dice level 3, Good Teammate
+Fri Apr 28 21:10:29 2023 level 1
+Fri Apr 28 21:10:29 2023 Harry's rampage was ended by lopster
+Fri Apr 28 21:10:29 2023 lopster (Pink) [Rifle] Harry (Green)
+Fri Apr 28 21:10:29 2023 [*] 2 minutes remaining.
+Fri Apr 28 21:10:29 2023 BOT_F3rN4nd0 (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:10:31 2023 BOT_aloco (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 21:10:31 2023 BOT_-Isthomus- (Pink) [SMG] BOT_akkaMonsta (Green)
+Fri Apr 28 21:10:32 2023 BOT_bob (Green) [SMG]
+Fri Apr 28 21:10:33 2023 BOT_Jugata (Pink) [SMG] BOT_aloco (Green)
+Fri Apr 28 21:10:35 2023 BOT_Messi GOAT (Green) [SMG] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:10:35 2023 *************************************************************************
+Fri Apr 28 21:10:35 2023 In Tug of War, you capture your opponents' front CP to advance.
+Fri Apr 28 21:10:35 2023 Type /power for more information!
+Fri Apr 28 21:10:35 2023 You have powers: Armor level 3, Deadly Dice level 3, Good Teammate level 1, Regeneration
+Fri Apr 28 21:10:35 2023 level 3, Poison Bullets level 1
+Fri Apr 28 21:10:35 2023 You have 1 medkit!
+Fri Apr 28 21:10:35 2023 BOT_Saluchica (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:10:36 2023 lopster (Pink) [Grenade] BOT_F ur mama (Green)
+Fri Apr 28 21:10:36 2023 lopster (Pink) [Grenade] BOT_bob (Green)
+Fri Apr 28 21:10:37 2023 BOT_akkaMonsta (Green) [Fall]
+Fri Apr 28 21:10:37 2023 BOT_lucas (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 21:10:37 2023 hora_de_morir__ (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 21:10:38 2023 BOT_*kikumon* (Pink) [Headshot] BOT_Saluchica (Green)
+Fri Apr 28 21:10:41 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:10:41 2023 Harry (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:10:42 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_Jugata!
+Fri Apr 28 21:10:42 2023 Harry (Green) [Rifle] BOT_Jugata (Pink)
+Fri Apr 28 21:10:42 2023 BOT_Black Cat (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 21:10:44 2023 BOT_lucas (Pink) [SMG] BOT_kurwa (Green)
+Fri Apr 28 21:10:46 2023 [Team] William (Green): 6
+Fri Apr 28 21:10:46 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_xXHusleMan!
+Fri Apr 28 21:10:46 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:10:46 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:10:48 2023 BOT_Messi GOAT (Green) [SMG] BOT_Qtaro- (Pink)
+Fri Apr 28 21:10:48 2023 BOT_joker (Green) [SMG]
+Fri Apr 28 21:10:50 2023 BOT_aloco (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 21:10:51 2023 BOT_-Isthomus- (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 21:10:51 2023 BOT_Messi GOAT (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:10:52 2023 Type /power for more info on Intel Powers
+Fri Apr 28 21:10:52 2023 You were killed by Abagail (100HP) who had no powers
+Fri Apr 28 21:10:52 2023 Abagail (Pink) [Headshot] Harry (Green)
+Fri Apr 28 21:10:52 2023 BOT_bob (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:10:53 2023 *************************************************************************
+Fri Apr 28 21:10:53 2023 In Tug of War, you capture your opponents' front CP to advance.
+Fri Apr 28 21:10:53 2023 Type /power for more information!
+Fri Apr 28 21:10:53 2023 You have powers: Armor level 3, Deadly Dice level 3, Good Teammate level 1, Regeneration
+Fri Apr 28 21:10:53 2023 level 3, Poison Bullets level 1
+Fri Apr 28 21:10:53 2023 You have 1 medkit!
+Fri Apr 28 21:10:54 2023 BOT_Black Cat (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:10:54 2023 BOT_Messi GOAT (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:10:58 2023 BOT_Messi GOAT (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:10:59 2023 BOT_The Zero (Pink) [Headshot] BOT_golgo13 (Green)
+Fri Apr 28 21:11:01 2023 BOT_fagg (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 21:11:01 2023 BOT_Deuce7 (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 21:11:02 2023 lopster (Pink) [Headshot] William (Green)
+Fri Apr 28 21:11:02 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:02 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:11:03 2023 lopster (Pink) [Headshot] BOT_Saluchica (Green)
+Fri Apr 28 21:11:04 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:04 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:11:04 2023 BOT_aloco (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:11:04 2023 Abagail (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 21:11:05 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:05 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:11:09 2023 BOT_*kikumon* (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 21:11:10 2023 BOT_The Zero (Pink) [Grenade] BOT_aloco (Green)
+Fri Apr 28 21:11:10 2023 BOT_The Zero (Pink) [Grenade] BOT_bob (Green)
+Fri Apr 28 21:11:10 2023 BOT_The Zero (Pink) [Grenade] BOT_Messi GOAT (Green)
+Fri Apr 28 21:11:13 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:13 2023 Harry (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 21:11:13 2023 BOT_F3rN4nd0 (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 21:11:14 2023 BOT_*kikumon* (Pink) [Rifle] BOT_akkaMonsta (Green)
+Fri Apr 28 21:11:14 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:14 2023 Harry (Green) [Headshot] hora_de_morir__ (Pink)
+Fri Apr 28 21:11:16 2023 BOT_JunKing (Pink) [Headshot] BOT_joker (Green)
+Fri Apr 28 21:11:16 2023 BOT_F3rN4nd0 (Pink) [SMG] BOT_fagg (Green)
+Fri Apr 28 21:11:17 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:17 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:11:18 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 21:11:18 2023 Harry (Green) [Rifle] BOT_Jugata (Pink)
+Fri Apr 28 21:11:18 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_JunKing!
+Fri Apr 28 21:11:18 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:18 2023 Harry (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 21:11:19 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_xXHusleMan!
+Fri Apr 28 21:11:19 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:19 2023 Harry (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:11:20 2023 BOT_inazuma11 (Green) [SMG] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:11:20 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:20 2023 Harry (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:11:21 2023 BOT_inazuma11 (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:11:22 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:22 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:11:22 2023 lopster (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 21:11:23 2023 BOT_akkaMonsta (Green) [Fall]
+Fri Apr 28 21:11:25 2023 BOT_zone 20 (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:11:25 2023 BOT_kurwa (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:11:26 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:26 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:11:27 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:27 2023 Harry (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 21:11:29 2023 [*] 60 seconds remaining.
+Fri Apr 28 21:11:29 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:29 2023 Harry (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 21:11:30 2023 BOT_inazuma11 (Green) [SMG] BOT_lucas (Pink)
+Fri Apr 28 21:11:32 2023 BOT_Jugata (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 21:11:32 2023 BOT_Messi GOAT (Green) [SMG] BOT_*kikumon* (Pink)
+Fri Apr 28 21:11:33 2023 Type /power for more info on Intel Powers
+Fri Apr 28 21:11:33 2023 You were killed by lopster (100HP) who had powers: Deadly Dice level 3, Good Teammate
+Fri Apr 28 21:11:33 2023 level 1
+Fri Apr 28 21:11:33 2023 lopster (Pink) [Headshot] Harry (Green)
+Fri Apr 28 21:11:35 2023 BOT_XAHA (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 21:11:38 2023 *************************************************************************
+Fri Apr 28 21:11:38 2023 In Tug of War, you capture your opponents' front CP to advance.
+Fri Apr 28 21:11:38 2023 Type /power for more information!
+Fri Apr 28 21:11:38 2023 You have powers: Armor level 3, Deadly Dice level 3, Good Teammate level 1, Regeneration
+Fri Apr 28 21:11:38 2023 level 3, Poison Bullets level 1
+Fri Apr 28 21:11:38 2023 You have 1 medkit!
+Fri Apr 28 21:11:39 2023 [*] 50 seconds remaining.
+Fri Apr 28 21:11:43 2023 lopster (Pink) [Headshot] BOT_golgo13 (Green)
+Fri Apr 28 21:11:44 2023 BOT_aloco (Green) [SMG] BOT_Deuce7 (Pink)
+Fri Apr 28 21:11:44 2023 BOT_-Isthomus- (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 21:11:46 2023 BOT_Saluchica (Green) [SMG]
+Fri Apr 28 21:11:46 2023 BOT_bob (Green) [SMG] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:11:47 2023 BOT_Jugata (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:11:48 2023 hora_de_morir__ (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 21:11:48 2023 BOT_Black Cat (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:11:49 2023 [*] 40 seconds remaining.
+Fri Apr 28 21:11:50 2023 BOT_Black Cat (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 21:11:50 2023 hora_de_morir__ (Pink) [Headshot] BOT_F ur mama (Green)
+Fri Apr 28 21:11:51 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:51 2023 Harry (Green) [Headshot] BOT_lucas (Pink)
+Fri Apr 28 21:11:52 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:52 2023 Harry (Green) [Headshot] BOT_Jugata (Pink)
+Fri Apr 28 21:11:53 2023 BOT_bob (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:11:54 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:54 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:11:54 2023 BOT_xXHusleMan (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 21:11:55 2023 BOT_The Zero (Pink) [Headshot] BOT_bob (Green)
+Fri Apr 28 21:11:55 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_The Zero!
+Fri Apr 28 21:11:55 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:55 2023 Harry IS ON A RAMPAGE!!
+Fri Apr 28 21:11:55 2023 Harry (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:11:55 2023 BOT_JunKing (Pink) [Headshot] BOT_+n00b (Green)
+Fri Apr 28 21:11:56 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_Deuce7!
+Fri Apr 28 21:11:56 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:56 2023 Harry (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:11:56 2023 BOT_Saluchica (Green) [SMG] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:11:57 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:11:57 2023 Harry (Green) [Headshot] BOT_JunKing (Pink)
+Fri Apr 28 21:11:59 2023 [*] 30 seconds remaining.
+Fri Apr 28 21:12:01 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:12:01 2023 Harry (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 21:12:02 2023 hora_de_morir__ (Pink) [Headshot] BOT_aloco (Green)
+Fri Apr 28 21:12:02 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_Jugata!
+Fri Apr 28 21:12:02 2023 Harry (Green) [Rifle] BOT_Jugata (Pink)
+Fri Apr 28 21:12:04 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:12:04 2023 Harry (Green) [Headshot] BOT_Black Cat (Pink)
+Fri Apr 28 21:12:05 2023 Alea iacta est... You have rolled the dice of life and instakilled BOT_-Isthomus-!
+Fri Apr 28 21:12:05 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:12:05 2023 Harry (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:12:05 2023 BOT_XAHA (Pink) [Headshot] BOT_Messi GOAT (Green)
+Fri Apr 28 21:12:09 2023 [*] 20 seconds remaining.
+Fri Apr 28 21:12:09 2023 BOT_bob (Green) [Headshot] BOT_The Zero (Pink)
+Fri Apr 28 21:12:10 2023 BOT_joker (Green) [SMG]
+Fri Apr 28 21:12:11 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:12:11 2023 Harry (Green) [Headshot] hora_de_morir__ (Pink)
+Fri Apr 28 21:12:12 2023 BOT_kurwa (Green) [Headshot] BOT_XAHA (Pink)
+Fri Apr 28 21:12:17 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:12:17 2023 Harry (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:12:18 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:12:18 2023 Harry (Green) [Headshot] BOT_Qtaro- (Pink)
+Fri Apr 28 21:12:18 2023 You have been instakilled by lopster !
+Fri Apr 28 21:12:18 2023 Type /power for more info on Intel Powers
+Fri Apr 28 21:12:18 2023 You were killed by lopster (100HP) who had powers: Deadly Dice level 3, Good Teammate
+Fri Apr 28 21:12:18 2023 level 1
+Fri Apr 28 21:12:18 2023 lopster (Pink) [Headshot] Harry (Green)
+Fri Apr 28 21:12:18 2023 William (Green) [Shotgun] BOT_JunKing (Pink)
+Fri Apr 28 21:12:19 2023 [*] 10...
+Fri Apr 28 21:12:20 2023 [*] 9...
+Fri Apr 28 21:12:20 2023 William (Green) [Shotgun] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:12:21 2023 BOT_bob (Green) [Headshot] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:12:21 2023 BOT_inazuma11 (Green) [SMG] BOT_Jugata (Pink)
+Fri Apr 28 21:12:21 2023 [*] 8...
+Fri Apr 28 21:12:22 2023 [*] 7...
+Fri Apr 28 21:12:22 2023 BOT_*kikumon* (Pink) [Headshot] BOT_inazuma11 (Green)
+Fri Apr 28 21:12:23 2023 *************************************************************************
+Fri Apr 28 21:12:23 2023 In Tug of War, you capture your opponents' front CP to advance.
+Fri Apr 28 21:12:23 2023 Type /power for more information!
+Fri Apr 28 21:12:23 2023 You have powers: Armor level 3, Deadly Dice level 3, Good Teammate level 1, Regeneration
+Fri Apr 28 21:12:23 2023 level 3, Poison Bullets level 1
+Fri Apr 28 21:12:23 2023 You have 1 medkit!
+Fri Apr 28 21:12:23 2023 [*] 6...
+Fri Apr 28 21:12:24 2023 BOT_bob (Green) [SMG] BOT_lucas (Pink)
+Fri Apr 28 21:12:24 2023 [*] 5...
+Fri Apr 28 21:12:25 2023 [*] 4...
+Fri Apr 28 21:12:26 2023 [*] 3...
+Fri Apr 28 21:12:26 2023 BOT_-Isthomus- (Pink) [Headshot] BOT_fagg (Green)
+Fri Apr 28 21:12:27 2023 [*] 2...
+Fri Apr 28 21:12:27 2023 BOT_aloco (Green) [SMG] BOT_Qtaro- (Pink)
+Fri Apr 28 21:12:28 2023 lopster (Pink) [Rifle] BOT_+n00b (Green)
+Fri Apr 28 21:12:28 2023 [*] 1...
+Fri Apr 28 21:12:29 2023 [*] Time up! Next map: marketgarden.
+Fri Apr 28 21:12:31 2023 BOT_*kikumon* (Pink) [Headshot] BOT_akkaMonsta (Green)
+Fri Apr 28 21:12:33 2023 BOT_aloco (Green) [Headshot] BOT_-Isthomus- (Pink)
+Fri Apr 28 21:12:33 2023 BOT_Deuce7 (Pink) [Shotgun] BOT_aloco (Green)
+Fri Apr 28 21:12:33 2023 BOT_golgo13 (Green) [Headshot] BOT_F3rN4nd0 (Pink)
+Fri Apr 28 21:12:34 2023 William (Green) [Shotgun] BOT_xXHusleMan (Pink)
+Fri Apr 28 21:12:35 2023 BOT_kurwa (Green) [Headshot] BOT_*kikumon* (Pink)
+Fri Apr 28 21:12:35 2023 BOT_akkaMonsta (Green) [Fall]
+Fri Apr 28 21:12:35 2023 hora_de_morir__ (Pink) [Grenade]
+Fri Apr 28 21:12:35 2023 Your kill has healed you and your teammates!
+Fri Apr 28 21:12:35 2023 Harry (Green) [Headshot] lopster (Pink)
+Fri Apr 28 21:12:37 2023 BOT_lucas (Pink) [Headshot] BOT_kurwa (Green)
+Fri Apr 28 21:12:38 2023 BOT_JunKing (Pink) [Headshot] BOT_zone 20 (Green)
+Fri Apr 28 21:12:38 2023 BOT_Messi GOAT (Green) [Headshot] BOT_Deuce7 (Pink)
+Fri Apr 28 21:12:41 2023 Player BOT_*kikumon* has left
+Fri Apr 28 21:12:41 2023 Player BOT_Saluchica has left
+Fri Apr 28 21:12:41 2023 Player BOT_zone 20 has left
+Fri Apr 28 21:12:41 2023 Player BOT_aloco has left
+Fri Apr 28 21:12:41 2023 Player BOT_golgo13 has left
+Fri Apr 28 21:12:41 2023 Player BOT_Jugata has left
+Fri Apr 28 21:12:41 2023 Player BOT_inazuma11 has left
+Fri Apr 28 21:12:41 2023 Player BOT_JunKing has left
+Fri Apr 28 21:12:41 2023 Player BOT_kurwa has left
+Fri Apr 28 21:12:41 2023 Player BOT_-Isthomus- has left
+Fri Apr 28 21:12:41 2023 Player BOT_Qtaro- has left
+Fri Apr 28 21:12:41 2023 Player BOT_F3rN4nd0 has left
+Fri Apr 28 21:12:41 2023 Player BOT_F ur mama has left
+Fri Apr 28 21:12:41 2023 Player BOT_The Zero has left
+Fri Apr 28 21:12:41 2023 Player BOT_+n00b has left
+Fri Apr 28 21:12:41 2023 Player BOT_Black Cat has left
+Fri Apr 28 21:12:41 2023 Player BOT_Messi GOAT has left
+Fri Apr 28 21:12:41 2023 Player BOT_akkaMonsta has left
+Fri Apr 28 21:12:41 2023 Player BOT_fagg has left
+Fri Apr 28 21:12:41 2023 Player BOT_xXHusleMan has left
+Fri Apr 28 21:12:41 2023 Player BOT_lucas has left
+Fri Apr 28 21:12:41 2023 Player BOT_bob has left
+Fri Apr 28 21:12:41 2023 Player BOT_Deuce7 has left
+Fri Apr 28 21:12:41 2023 Player BOT_XAHA has left
+Fri Apr 28 21:12:41 2023 Player BOT_joker has left
+Fri Apr 28 21:12:41 2023 ------ World Unloaded ------
+Fri Apr 28 21:13:06 2023 Disconnecting

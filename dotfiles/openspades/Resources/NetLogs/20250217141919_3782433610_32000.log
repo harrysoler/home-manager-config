@@ -1,0 +1,52 @@
+Mon Feb 17 14:19:22 2025 ------ World Loaded ------
+Mon Feb 17 14:19:22 2025 Welcome to aloha.pk tower of babel
+Mon Feb 17 14:19:23 2025 Deuce (Blue) [Headshot] ICE-Messi (Red)
+Mon Feb 17 14:19:24 2025 Map: DividedThrone by Qult---(Atelsa)
+Mon Feb 17 14:19:26 2025 Game mode: babel
+Mon Feb 17 14:19:28 2025 Build a tower to get the enemy's intel. Take it to your team's tent to win!
+Mon Feb 17 14:19:30 2025 Visit our community forum at https://aloha.pk/
+Mon Feb 17 14:19:32 2025 Come chat with us at https://discord.aloha.pk/
+Mon Feb 17 14:19:34 2025 Deuce1 (Red) [SMG] Misi (Blue)
+Mon Feb 17 14:19:37 2025 FREEDUROV (Blue) [Headshot] Deuce1 (Red)
+Mon Feb 17 14:19:41 2025 aksel joined Red team
+Mon Feb 17 14:19:41 2025 Deuce (Blue) [Rifle] Cornballs (Red)
+Mon Feb 17 14:19:42 2025 Harry (Red) [Headshot] FREEDUROV (Blue)
+Mon Feb 17 14:19:45 2025 Player FREEDUROV has left
+Mon Feb 17 14:19:46 2025 Deuce (Blue) [Headshot] Harry (Red)
+Mon Feb 17 14:19:48 2025 Deuce (Blue) [Headshot] aksel (Red)
+Mon Feb 17 14:19:52 2025 aaron exia (Red) [Headshot] Deuce7 (Blue)
+Mon Feb 17 14:20:01 2025 Mikos joined Blue team
+Mon Feb 17 14:20:01 2025 Deuce (Blue) [Headshot] Harry (Red)
+Mon Feb 17 14:20:01 2025 Deuce1 (Red) [SMG] Deuce (Blue)
+Mon Feb 17 14:20:01 2025 You must be closer to the enemy's base to grenade blocks!
+Mon Feb 17 14:20:01 2025 [Global] Deuce1 (Red): rez
+Mon Feb 17 14:20:01 2025 [Global] Deuce1 (Red): ez
+Mon Feb 17 14:20:01 2025 Player aksel has left
+Mon Feb 17 14:20:09 2025 ICE-Messi (Red) [Headshot] B-18 [LV.17] (Blue)
+Mon Feb 17 14:20:10 2025  Come chat with us at https://discord.aloha.pk/
+Mon Feb 17 14:20:11 2025 elbow (Blue) [Headshot] Cornballs (Red)
+Mon Feb 17 14:20:12 2025 Qult--- joined Red team
+Mon Feb 17 14:20:14 2025 ICE-Messi (Red) [Headshot] B-18 [LV.17] (Blue)
+Mon Feb 17 14:20:16 2025 elbow (Blue) [Headshot] aaron exia (Red)
+Mon Feb 17 14:20:16 2025 Player Qult--- has left
+Mon Feb 17 14:20:20 2025 aksel joined Red team
+Mon Feb 17 14:20:25 2025 Deuce (Blue) [Rifle] ICE-Messi (Red)
+Mon Feb 17 14:20:33 2025 Qult--- joined Red team
+Mon Feb 17 14:20:38 2025 Deuce1 (Red) [SMG] Misi (Blue)
+Mon Feb 17 14:20:38 2025 Deuce1 (Red) [Headshot] laws of physics (Blue)
+Mon Feb 17 14:20:44 2025 elbow (Blue) [Headshot] aaron exia (Red)
+Mon Feb 17 14:20:44 2025 ICE-Messi (Red) [Headshot] elbow (Blue)
+Mon Feb 17 14:20:44 2025 [Global] laws of physics (Blue): hey qult
+Mon Feb 17 14:21:14 2025 ------ World Unloaded ------
+Mon Feb 17 14:21:14 2025 Disconnected because of error:
+Disconnected: Unknown Reason
+at /tmp/openspades-1902958381911645150/openspades/src/openspades-0.1.3/Sources/Client/NetClient.cpp:498
+void spades::client::NetClient::DoEvents(int) at NetClient.cpp:477
+virtual void spades::client::Client::RunFrame(float) at Client.cpp:380
+virtual void spades::gui::MainScreen::RunFrame(float) at MainScreen.cpp:232
+void spades::gui::SDLRunner::Run(int, int) at SDLRunner.cpp:427
+void spades::gui::Runner::Run() at Runner.cpp:70
+void spades::gui::Runner::RunProtected() at Runner.cpp:42
+int main(int, char**) at Main.cpp:312
+
+Mon Feb 17 14:21:14 2025 Disconnecting

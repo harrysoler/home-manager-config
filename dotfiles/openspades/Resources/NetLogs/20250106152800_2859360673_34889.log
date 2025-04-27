@@ -1,0 +1,193 @@
+Mon Jan  6 15:28:07 2025 ------ World Loaded ------
+Mon Jan  6 15:28:07 2025 Use /free to find unclaimed sector to build, and teleport there with /gt
+Mon Jan  6 15:28:07 2025 Player Grimston has left
+Mon Jan  6 15:28:08 2025 Welcome to BUILD EMPIRE
+Mon Jan  6 15:28:09 2025 You logged in as player
+Mon Jan  6 15:28:10 2025 Player Gato has left
+Mon Jan  6 15:28:16 2025  Harry teleported to F1
+Mon Jan  6 15:28:16 2025  Get yourself a role with /role to enable custom greeting message
+Mon Jan  6 15:29:54 2025 /time Tell you the current time limit
+Mon Jan  6 15:29:56 2025 /streak Tell your current kill streak
+Mon Jan  6 15:29:58 2025 /ping Tell your current ping (time for your actions to be received by the server)
+Mon Jan  6 15:30:00 2025 /rules Show you the server rules
+Mon Jan  6 15:30:02 2025 /commands Print all available commands
+Mon Jan  6 15:30:04 2025 /help Gives description and usage info for a command
+Mon Jan  6 15:30:06 2025 /mapname Tell you what's the name of the current map
+Mon Jan  6 15:30:08 2025 /showrotation Tell you the current map rotation
+Mon Jan  6 15:30:10 2025 /client Tell you information about your client or the client of a given player
+Mon Jan  6 15:30:12 2025 /weapon Tell you what weapon a given player is using
+Mon Jan  6 15:30:14 2025 /intel Inform you of who has the enemy intel
+Mon Jan  6 15:30:16 2025 /kill Kill yourself or a given player
+Mon Jan  6 15:30:18 2025 /deaf Make you or a given player no longer receive chat messages
+Mon Jan  6 15:30:20 2025 /server Tell you the name of this server and its aos:// URI
+Mon Jan  6 15:30:22 2025 /version Tell you this server's piqueserver version
+Mon Jan  6 15:30:24 2025 /scripts Tell you which scripts are enabled on this server currently
+Mon Jan  6 15:30:26 2025 /login Log in if you're registered on the server
+Mon Jan  6 15:30:28 2025 /pm Send a private message to a given player
+Mon Jan  6 15:30:30 2025 /admin Send a message to all admins currently online
+Mon Jan  6 15:30:32 2025 /s Select area
+Mon Jan  6 15:30:34 2025 /unsel Remove selection
+Mon Jan  6 15:30:36 2025 /expand Expand selection in given direction or in the direction player is looking at
+Mon Jan  6 15:30:38 2025 /contract Contract selection in given direction or in the direction player is looking at
+Mon Jan  6 15:30:40 2025 /set Fill selection with blocks
+Mon Jan  6 15:30:42 2025 /re Replace player-held color in selection
+Mon Jan  6 15:30:44 2025 /fill Replace empty space in selection
+Mon Jan  6 15:30:46 2025 /repaint Replace all solid (non-empty) blocks in selection
+Mon Jan  6 15:30:46 2025 Selection started. Select two points by clicking on corner blocks
+Mon Jan  6 15:30:48 2025 /hue /hue <value>
+Mon Jan  6 15:30:50 2025 /hueshift /hueshift <value>
+Mon Jan  6 15:30:52 2025 /brightness /brightness <value>
+Mon Jan  6 15:30:53 2025 First corner has been selected
+Mon Jan  6 15:30:54 2025 /lighten /lighten <value>
+Mon Jan  6 15:30:56 2025 /darken /darken <value>
+Mon Jan  6 15:30:58 2025 /saturation /saturation <value>
+Mon Jan  6 15:31:00 2025 Selection created
+Mon Jan  6 15:31:00 2025 250 block(s) have been changed
+Mon Jan  6 15:31:00 2025 /saturate /saturate <value>
+Mon Jan  6 15:31:02 2025 /desaturate /desaturate <value>
+Mon Jan  6 15:31:04 2025 /crossprocess /crossprocess <value>
+Mon Jan  6 15:31:06 2025 /noise /noise <value> <pattern> - possible patterns: noise, brick, check, check2x
+Mon Jan  6 15:31:08 2025 /shift Move blocks in selection in given direction or in the direction player is looking
+Mon Jan  6 15:31:08 2025 at
+Mon Jan  6 15:31:10 2025 /stack Repeat selection in given direction or in the direction player is looking at
+Mon Jan  6 15:31:12 2025 /copy Save selection to clipboard
+Mon Jan  6 15:31:14 2025 /cut Save selection to clipboard and remove selected blocks
+Mon Jan  6 15:31:16 2025 /paste Build blocks saved to clipboard
+Mon Jan  6 15:31:16 2025  This is a place where you can unleash your creativity and build wondrous things
+Mon Jan  6 15:31:18 2025 /rotate Rotate selection n times per axis
+Mon Jan  6 15:31:20 2025 /flip Mirror selection across the plane
+Mon Jan  6 15:31:22 2025 /brush Toggle brush mode
+Mon Jan  6 15:31:24 2025 /center Mark center of selection with blocks
+Mon Jan  6 15:31:26 2025 You're now painting
+Mon Jan  6 15:31:26 2025 /randomrepeat /randomrepeat <colors> <emptiness> <randomness> <dither>
+Mon Jan  6 15:31:28 2025 /forestgen /forestgen
+Mon Jan  6 15:31:30 2025 /undo Undo previous commands
+Mon Jan  6 15:31:32 2025 /redo Redo previously undone commands
+Mon Jan  6 15:31:34 2025 /role
+Mon Jan  6 15:31:36 2025 /a Send message to all admins currently online
+Mon Jan  6 15:31:38 2025 /check_countdown
+Mon Jan  6 15:31:39 2025 Brush enabled
+Mon Jan  6 15:31:40 2025 /countdown
+Mon Jan  6 15:31:42 2025 /dither Toggle color dithering
+Mon Jan  6 15:31:44 2025 /eshelp
+Mon Jan  6 15:31:46 2025 /ruhelp
+Mon Jan  6 15:31:48 2025 /slavhelp
+Mon Jan  6 15:31:50 2025 /forcefield Toggle a "forcefield" that pushes away other players if they get to close to
+Mon Jan  6 15:31:50 2025 you
+Mon Jan  6 15:31:52 2025 /ignore Ignore messages from a player and publicly announce it
+Mon Jan  6 15:31:52 2025 Brush disabled
+Mon Jan  6 15:31:54 2025 /history Check block history with left-click. Right-click to check space directly above
+Mon Jan  6 15:31:54 2025 the block. Follow up clicks show older records
+Mon Jan  6 15:31:56 2025 /blocks Total amount of blocks placed by player
+Mon Jan  6 15:31:58 2025 /sculpt
+Mon Jan  6 15:32:00 2025 /launchercommands
+Mon Jan  6 15:32:02 2025 /omfg
+Mon Jan  6 15:32:04 2025 /dtime
+Mon Jan  6 15:32:06 2025 /nspeed
+Mon Jan  6 15:32:08 2025 /ns
+Mon Jan  6 15:32:10 2025 /nw
+Mon Jan  6 15:32:12 2025 /tn
+Mon Jan  6 15:32:14 2025 /bn
+Mon Jan  6 15:32:16 2025 /kz
+Mon Jan  6 15:32:18 2025 /ntime
+Mon Jan  6 15:32:20 2025 /mbreg Register your starting blocks (required before /mb)
+Mon Jan  6 15:32:22 2025 /mb Start multibuilding
+Mon Jan  6 15:32:23 2025 27 block(s) have been changed
+Mon Jan  6 15:32:24 2025 /mbmirror Mirror build (mind your orientation during /mbreg)
+Mon Jan  6 15:32:26 2025 /mbshape Load a prefab shape instead of using /mbreg
+Mon Jan  6 15:32:28 2025 /mbground Don't build or destroy on ground level during /mb
+Mon Jan  6 15:32:29 2025 27 block(s) have been changed
+Mon Jan  6 15:32:30 2025 /mbhelp List all multibuild commands
+Mon Jan  6 15:32:32 2025 /highscore Show the top scores
+Mon Jan  6 15:32:34 2025 /challenge Start the timer (use command again to abort)
+Mon Jan  6 15:32:36 2025 /reversegc
+Mon Jan  6 15:32:38 2025 /setspawn
+Mon Jan  6 15:32:40 2025 /wall
+Mon Jan  6 15:32:42 2025 /box
+Mon Jan  6 15:32:44 2025 /paint
+Mon Jan  6 15:32:46 2025 /dw
+Mon Jan  6 15:32:48 2025 You are now in *Box* mode. Place first corner block.
+Mon Jan  6 15:32:48 2025 /gradient
+Mon Jan  6 15:32:50 2025 /gradientfrom
+Mon Jan  6 15:32:52 2025 /gradientto
+Mon Jan  6 15:32:54 2025 /db
+Mon Jan  6 15:32:54 2025 Now place opposite corner block.
+Mon Jan  6 15:32:56 2025 /floor
+Mon Jan  6 15:32:58 2025 Creating box!
+Mon Jan  6 15:32:58 2025 /df
+Mon Jan  6 15:33:00 2025 /register Register on the server
+Mon Jan  6 15:33:02 2025 /status Show player's authorization status
+Mon Jan  6 15:33:04 2025 /logout Log out
+Mon Jan  6 15:33:06 2025 /claim Claim a sector
+Mon Jan  6 15:33:08 2025 /sector Get sector info
+Mon Jan  6 15:33:10 2025 /title Add a name to sector that will be displayed as greeting message. Leave empty to
+Mon Jan  6 15:33:10 2025 remove the name
+Mon Jan  6 15:33:11 2025 You are now in *Box* mode. Place first corner block.
+Mon Jan  6 15:33:12 2025 /sign Add a message to the block you're looking at that'll be displayed when another
+Mon Jan  6 15:33:12 2025 player looks at this block. Leave empty to remove the message
+Mon Jan  6 15:33:13 2025 Now place opposite corner block.
+Mon Jan  6 15:33:14 2025 /claimed List owned sectors
+Mon Jan  6 15:33:15 2025 Creating box!
+Mon Jan  6 15:33:16 2025 /my List sectors you claim or which were shared with you
+Mon Jan  6 15:33:18 2025 /unclaimed List unclaimed and public sectors
+Mon Jan  6 15:33:20 2025 /unclaim Unclaim a sector and revert it back to public domain
+Mon Jan  6 15:33:22 2025 /share Let other players build in a sector
+Mon Jan  6 15:33:24 2025 /unshare Remove access to a sector for a player
+Mon Jan  6 15:33:26 2025 /public Toggle free building (for everyone) in a sector
+Mon Jan  6 15:33:28 2025 /quest Toggle "adventure" mode (no building and no commands) in a sector
+Mon Jan  6 15:33:28 2025 You are now in *Box* mode. Place first corner block.
+Mon Jan  6 15:33:29 2025 Now place opposite corner block.
+Mon Jan  6 15:33:30 2025 /setfog Set fog color in a sector
+Mon Jan  6 15:33:32 2025 /gt Teleport to a sector
+Mon Jan  6 15:33:33 2025 Creating box!
+Mon Jan  6 15:33:34 2025 /gtop Teleport to a sector (always overground)
+Mon Jan  6 15:33:36 2025 /j Teleport to where you're looking at
+Mon Jan  6 15:33:38 2025 /f Enable flight
+Mon Jan  6 15:33:40 2025 /info Display coordinates and color of the block that you're looking at
+Mon Jan  6 15:33:42 2025 /pingmon Monitor latency
+Mon Jan  6 15:33:44 2025 /autofly Toggle auto-fly on join
+Mon Jan  6 15:33:46 2025 /pay Send money to another player
+Mon Jan  6 15:33:48 2025 /balance Check player's balance
+Mon Jan  6 15:33:50 2025 /balancetop Show the richest players
+Mon Jan  6 15:33:52 2025 /transactions Show latest transactions
+Mon Jan  6 15:33:54 2025 You are now in *Box* mode. Place first corner block.
+Mon Jan  6 15:33:54 2025 /seen Shows the most recent date the player with that name joined
+Mon Jan  6 15:33:56 2025 /clr Set current block color
+Mon Jan  6 15:33:57 2025 Now place opposite corner block.
+Mon Jan  6 15:34:01 2025 Creating box!
+Mon Jan  6 15:34:16 2025  Blue team is for PVP, Red team is for builders
+Mon Jan  6 15:34:29 2025 You are now in *Box* mode. Place first corner block.
+Mon Jan  6 15:34:30 2025 Now place opposite corner block.
+Mon Jan  6 15:34:33 2025 Creating box!
+Mon Jan  6 15:34:54 2025 You are now in *Box* mode. Place first corner block.
+Mon Jan  6 15:34:55 2025 Now place opposite corner block.
+Mon Jan  6 15:34:57 2025 Creating box!
+Mon Jan  6 15:35:03 2025 You are now in *Box* mode. Place first corner block.
+Mon Jan  6 15:35:05 2025 Now place opposite corner block.
+Mon Jan  6 15:35:07 2025 Creating box!
+Mon Jan  6 15:35:08 2025 You are now in *Box* mode. Place first corner block.
+Mon Jan  6 15:35:09 2025 Now place opposite corner block.
+Mon Jan  6 15:35:11 2025 Creating box!
+Mon Jan  6 15:35:19 2025 You are now in *Box* mode. Place first corner block.
+Mon Jan  6 15:35:20 2025 Now place opposite corner block.
+Mon Jan  6 15:35:21 2025 Creating box!
+Mon Jan  6 15:35:39 2025 You are now in *Box* mode. Place first corner block.
+Mon Jan  6 15:35:40 2025 Now place opposite corner block.
+Mon Jan  6 15:35:42 2025 Creating box!
+Mon Jan  6 15:35:54 2025 You are now in *Box* mode. Place first corner block.
+Mon Jan  6 15:35:55 2025 Now place opposite corner block.
+Mon Jan  6 15:35:57 2025 Creating box!
+Mon Jan  6 15:36:00 2025 You are now in *Box* mode. Place first corner block.
+Mon Jan  6 15:36:01 2025 Now place opposite corner block.
+Mon Jan  6 15:36:04 2025 Creating box!
+Mon Jan  6 15:36:11 2025 You are now in *Box* mode. Place first corner block.
+Mon Jan  6 15:36:12 2025 Now place opposite corner block.
+Mon Jan  6 15:36:14 2025 Creating box!
+Mon Jan  6 15:36:18 2025 You are now in *Box* mode. Place first corner block.
+Mon Jan  6 15:36:18 2025 Now place opposite corner block.
+Mon Jan  6 15:36:19 2025 Creating box!
+Mon Jan  6 15:36:23 2025 You are now in *Box* mode. Place first corner block.
+Mon Jan  6 15:36:24 2025 Now place opposite corner block.
+Mon Jan  6 15:36:25 2025 Creating box!
+Mon Jan  6 15:37:16 2025  You are playing ctf on BUILD EMPIRE. Just kidding, this is not ctf!
+Mon Jan  6 15:37:18 2025 Disconnecting

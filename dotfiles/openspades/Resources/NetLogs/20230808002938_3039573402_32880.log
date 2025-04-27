@@ -1,0 +1,12 @@
+Tue Aug  8 00:29:39 2023 Disconnected because of error:
+Disconnected: Unknown Reason
+at /tmp/openspades-1902958381911645150/openspades/src/openspades-0.1.3/Sources/Client/NetClient.cpp:498
+void spades::client::NetClient::DoEvents(int) at NetClient.cpp:477
+virtual void spades::client::Client::RunFrame(float) at Client.cpp:380
+virtual void spades::gui::MainScreen::RunFrame(float) at MainScreen.cpp:232
+void spades::gui::SDLRunner::Run(int, int) at SDLRunner.cpp:427
+void spades::gui::Runner::Run() at Runner.cpp:70
+void spades::gui::Runner::RunProtected() at Runner.cpp:42
+int main(int, char**) at Main.cpp:312
+
+Tue Aug  8 00:29:39 2023 Disconnecting
