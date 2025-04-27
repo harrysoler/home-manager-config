@@ -1,5 +1,8 @@
 { inputs, config, pkgs, pkgs-unstable, ... }:
 
+let
+  adwaita-slim-dark-gtk-theme = import ./pkgs/adwaita-slim-dark-gtk-theme.nix { inherit pkgs; };
+in
 {
   home.username = "harry";
   home.homeDirectory = "/home/harry";
@@ -35,6 +38,8 @@
     pkgs.pnpm
     pkgs.go
     pkgs.deno
+
+    pkgs.nwg-look
   ];
 
   # Home Manager is pretty good at managing dotfiles. The primary way to manage
@@ -98,9 +103,9 @@
     settings = {
       exec-once = [
         "${pkgs.hyprpaper}/bin/hyprpaper"
-	"${pkgs.clipse}/bin/clipse -listen"
-	"${pkgs.wl-clip-persist}/bin/wl-clip-persist --clipboard regular"
-	"${pkgs.avizo}/bin/avizo-service"
+        "${pkgs.clipse}/bin/clipse -listen"
+        "${pkgs.wl-clip-persist}/bin/wl-clip-persist --clipboard regular"
+        "${pkgs.avizo}/bin/avizo-service"
       ];
       general = {
         gaps_in = 2;
@@ -258,6 +263,14 @@
       wallpaper = [
         ", ${config.xdg.configHome}/hypr/wallpaper.png"
       ];
+    };
+  };
+
+  gtk = {
+    enable = true;
+    theme = {
+      name = "Adwaita-Slim-Dark";
+      package = adwaita-slim-dark-gtk-theme;
     };
   };
 
