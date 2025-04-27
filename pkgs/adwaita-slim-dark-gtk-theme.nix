@@ -13,8 +13,12 @@ pkgs.stdenvNoCC.mkDerivation {
     sha256 = "sha256-GpGr6HHliWAYt/1hII1S3jvpGzxA9fzHtZhjxQB4Fyg=";
   };
 
+  dontBuild = true;
+
   installPhase = ''
-    mkdir -p $out/share/themes/${name}
-    cp -R ./* $out/share/themes/${name}/
+    runHook preInstall
+    mkdir -p $out/share/themes/${name}/gtk-3.0
+    cp -rv $src/* $out/share/themes/${name}/gtk-3.0/
+    runHook postInstall
   '';
 }
