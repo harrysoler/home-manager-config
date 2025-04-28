@@ -3,6 +3,7 @@
 let
   adwaita-slim-dark-gtk-theme = import ./pkgs/adwaita-slim-dark-gtk-theme.nix { inherit pkgs; };
   cursorTheme = "Bibata-Modern-Ice";
+  cursorSize = 20;
 in
 {
   home.username = "harry";
@@ -81,7 +82,8 @@ in
 
   home.sessionVariables = {
     HISTCONTROL = "erasedups";
-    # HISTSIZE = 10000;
+    HYPRCURSOR_THEME = cursorTheme;
+    HYPRCURSOR_SIZE = cursorSize;
   };
 
   # Let Home Manager install and manage itself.
@@ -102,7 +104,6 @@ in
         "${pkgs.clipse}/bin/clipse -listen"
         "${pkgs.wl-clip-persist}/bin/wl-clip-persist --clipboard regular"
         "${pkgs.avizo}/bin/avizo-service"
-        "${pkgs.hyprland}/bin/hyprctl setcursor ${cursorTheme} 24"
         # For hyprshade scheduling
         "dbus-update-activation-environment --systemd HYPRLAND_INSTANCE_SIGNATURE"
         "${pkgs.hyprshade}/bin/hyprshade auto"
@@ -268,6 +269,7 @@ in
     gtk.enable = true;
     name = cursorTheme;
     package = pkgs.bibata-cursors;
+    size = cursorSize;
   };
 
   gtk = {
@@ -279,6 +281,7 @@ in
     cursorTheme = {
       name = cursorTheme;
       package = pkgs.bibata-cursors;
+      size = cursorSize;
     };
     font = {
       name = "Adwaita Sans";
