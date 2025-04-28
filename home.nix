@@ -328,12 +328,13 @@ in
     enable = true;
     defaultEditor = true;
     extraPackages = with pkgs; [
-      pnpm
+      go
       gotools
       deno
       dotnet-sdk
       unzip
       nodejs_23
+      nodePackages_latest.live-server
     ];
   };
 
