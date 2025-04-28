@@ -37,6 +37,7 @@ in
     pkgs.pcmanfm
     pkgs.zathura
     pkgs.libreoffice-still
+    pkgs.xournalpp
 
     pkgs.keepassxc
     pkgs.nwg-look
