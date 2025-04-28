@@ -28,6 +28,7 @@ in
     pkgs.playerctl
     pkgs.brillo
     pkgs.hyprpicker
+    pkgs.fzf
 
     inputs.zen-browser.packages.${pkgs.system}.beta
     pkgs.pcmanfm
@@ -41,19 +42,6 @@ in
   # Home Manager is pretty good at managing dotfiles. The primary way to manage
   # plain files is through 'home.file'.
   home.file = {
-    # # Building this configuration will create a copy of 'dotfiles/screenrc' in
-    # # the Nix store. Activating the configuration will then make '~/.screenrc' a
-    # # symlink to the Nix store copy.
-    # ".screenrc".source = dotfiles/screenrc;
-
-    # # You can also set the file content immediately.
-    # ".gradle/gradle.properties".text = ''
-    #   org.gradle.console=verbose
-    #   org.gradle.daemon.idletimeout=3600000
-    # '';
-    # ".config/nvim/init.lua".source = ./dotfiles/nvim/init.lua;
-    # ".config/nvim/lua".source = ./dotfiles/nvim/lua;
-    # ".config/nvim/ftplugin".source = ./dotfiles/nvim/ftplugin;
     ".config/nvim" = {
       source = inputs.nvim-config;
       recursive = true;
@@ -69,24 +57,26 @@ in
     ".local/share/openspades".source = ./dotfiles/openspades;
   };
 
-  # Home Manager can also manage your environment variables through
-  # 'home.sessionVariables'. These will be explicitly sourced when using a
-  # shell provided by Home Manager. If you don't want to manage your shell
-  # through Home Manager then you have to manually source 'hm-session-vars.sh'
-  # located at either
-  #
-  #  ~/.nix-profile/etc/profile.d/hm-session-vars.sh
-  #
-  # or
-  #
-  #  ~/.local/state/nix/profiles/profile/etc/profile.d/hm-session-vars.sh
-  #
-  # or
-  #
-  #  /etc/profiles/per-user/harry/etc/profile.d/hm-session-vars.sh
-  #
+  programs.bash = {
+    enable = true;
+    shellAliases = {
+      hms = "home-manager switch";
+    };
+    bashrcExtra = ''
+      shopt -s histappend # When you exit a shell, the history from that session is appended
+      eval "$(fzf --bash)" # fzf Ctrl+R
+
+      # If not running interactively, don't do anything
+      [[ $- != *i* ]] && return
+
+      PS1=' \W\[\e[0;38;5;12m\] > \[\e[0m\]'
+    '';
+    historySize = 10000;
+  };
+
   home.sessionVariables = {
-    # EDITOR = "emacs";
+    HISTCONTROL = "erasedups";
+    # HISTSIZE = 10000;
   };
 
   # Let Home Manager install and manage itself.
