@@ -347,6 +347,8 @@ in
     };
   };
 
+  programs.tmux.enable = true;
+
   programs.neovim = {
     enable = true;
     defaultEditor = true;
@@ -361,7 +363,10 @@ in
     ];
   };
 
-  programs.tmux.enable = true;
+  programs.direnv = {
+    enable = true;
+    nix-direnv.enable = true;
+  };
 
   services.avizo = {
     enable = true;
