@@ -34,9 +34,11 @@ in
     pkgs.pcmanfm
 
     pkgs.keepassxc
-    pkgs.openspades
-
     pkgs.nwg-look
+
+    pkgs.openspades
+    pkgs.doomrunner
+    pkgs.gzdoom
   ];
 
   # Home Manager is pretty good at managing dotfiles. The primary way to manage
