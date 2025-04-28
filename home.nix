@@ -36,6 +36,7 @@ in
     inputs.zen-browser.packages.${pkgs.system}.beta
     pkgs.pcmanfm
     pkgs.zathura
+    pkgs.libreoffice-still
 
     pkgs.keepassxc
     pkgs.nwg-look
