@@ -166,6 +166,8 @@ in
       windowrulev2 = [
         "float, class:clipse"
         "noborder, fullscreen:1"
+        "fullscreen, class:openspades"
+        "maximize, class:openspades"
       ];
       workspace = [
         "1, monitor:eDP-1"
