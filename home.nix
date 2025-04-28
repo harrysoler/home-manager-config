@@ -35,6 +35,7 @@ in
 
     inputs.zen-browser.packages.${pkgs.system}.beta
     pkgs.pcmanfm
+    pkgs.zathura
 
     pkgs.keepassxc
     pkgs.nwg-look
@@ -366,6 +367,13 @@ in
   programs.direnv = {
     enable = true;
     nix-direnv.enable = true;
+  };
+
+  xdg.mimeApps = {
+    enable = true;
+    defaultApplications = {
+      "application/pdf" = "zathura.desktop";
+    };
   };
 
   services.avizo = {
