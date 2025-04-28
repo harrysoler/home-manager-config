@@ -28,6 +28,7 @@ in
     pkgs.playerctl
     pkgs.brillo
     pkgs.hyprpicker
+    pkgs.hyprshade
     pkgs.fzf
 
     inputs.zen-browser.packages.${pkgs.system}.beta
@@ -48,6 +49,8 @@ in
       source = inputs.nvim-config;
       recursive = true;
     };
+
+    ".config/hyprshade".source = ./dotfiles/hyprshade;
 
     ".config/tmux".source = ./dotfiles/tmux;
     ".config/satty".source = ./dotfiles/satty;
@@ -97,6 +100,9 @@ in
         "${pkgs.wl-clip-persist}/bin/wl-clip-persist --clipboard regular"
         "${pkgs.avizo}/bin/avizo-service"
         "${pkgs.hyprland}/bin/hyprctl setcursor ${cursorTheme} 24"
+        # For hyprshade scheduling
+        "dbus-update-activation-environment --systemd HYPRLAND_INSTANCE_SIGNATURE"
+        "${pkgs.hyprshade}/bin/hyprshade auto"
       ];
       general = {
         gaps_in = 2;
