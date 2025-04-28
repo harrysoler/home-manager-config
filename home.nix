@@ -261,6 +261,12 @@ in
     };
   };
 
+  home.pointerCursor = {
+    gtk.enable = true;
+    name = cursorTheme;
+    package = pkgs.bibata-cursors;
+  };
+
   gtk = {
     enable = true;
     theme = {
