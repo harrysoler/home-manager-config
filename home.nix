@@ -2,6 +2,7 @@
 
 let
   adwaita-slim-dark-gtk-theme = import ./pkgs/adwaita-slim-dark-gtk-theme.nix { inherit pkgs; };
+
   cursorTheme = "Bibata-Modern-Ice";
   cursorSize = 20;
 in
@@ -291,6 +292,11 @@ in
       name = "kora";
       package = pkgs.kora-icon-theme;
     };
+  };
+
+  qt = {
+    enable = true;
+    platformTheme.name = "qtct";
   };
 
   programs.alacritty = {
