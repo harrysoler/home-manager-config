@@ -75,6 +75,7 @@ in
     enable = true;
     shellAliases = {
       hms = "home-manager switch";
+      cdd = "cd /media/data/";
     };
     bashrcExtra = ''
       shopt -s histappend # When you exit a shell, the history from that session is appended
