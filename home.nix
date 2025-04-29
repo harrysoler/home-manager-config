@@ -7,6 +7,7 @@ let
   cursorSize = 20;
 in
 {
+  nixpkgs.config.allowUnfree = true;
   home.username = "harry";
   home.homeDirectory = "/home/harry";
 
@@ -40,6 +41,7 @@ in
     pkgs.xournalpp
     pkgs.localsend
     pkgs-unstable.gimp3
+    pkgs.drawio
 
     pkgs.keepassxc
     pkgs.nwg-look
