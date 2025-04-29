@@ -38,6 +38,7 @@ in
     pkgs.zathura
     pkgs.libreoffice-still
     pkgs.xournalpp
+    pkgs.localsend
 
     pkgs.keepassxc
     pkgs.nwg-look
