@@ -39,6 +39,7 @@ in
     pkgs.libreoffice-still
     pkgs.xournalpp
     pkgs.localsend
+    pkgs-unstable.gimp3
 
     pkgs.keepassxc
     pkgs.nwg-look
