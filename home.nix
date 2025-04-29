@@ -245,7 +245,7 @@ in
 	    "$mainMod, R, exec, rofi -show combi"
 	    "$mainMod, C, exec, hyprpicker -af hex"
 	    "$mainMod, Z, exec, alacritty --class clipse -e clipse"
-	    '', Print, exec, grim -g "$(slurp -o -r -c '##ff0000ff')" -t ppm - | satty --filename -''
+	    '', Print, exec, grim -g "$(slurp -o -r)" -t ppm - | satty --filename -''
 
 	    ", XF86AudioRaiseVolume, exec, volumectl -u up"
 	    ", XF86AudioLowerVolume, exec, volumectl -u down"
