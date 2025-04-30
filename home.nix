@@ -42,9 +42,11 @@ in
     pkgs.localsend
     pkgs-unstable.gimp3
     pkgs.drawio
-
     pkgs.keepassxc
     pkgs.nwg-look
+    pkgs.rnote
+
+    pkgs-unstable.yaak
 
     pkgs.openspades
     pkgs.doomrunner
