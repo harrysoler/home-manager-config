@@ -47,6 +47,7 @@ in
     pkgs.rnote
 
     pkgs-unstable.yaak
+    pkgs-unstable.ibmcloud-cli
 
     pkgs.openspades
     pkgs.doomrunner
