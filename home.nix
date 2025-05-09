@@ -48,6 +48,7 @@ in
 
     pkgs-unstable.yaak
     pkgs-unstable.ibmcloud-cli
+    pkgs-unstable.dbgate
 
     pkgs.openspades
     pkgs.doomrunner
