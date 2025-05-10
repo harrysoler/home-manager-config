@@ -436,6 +436,7 @@ in
 	}
     '';
   };
+  services.mpd-mpris.enable = true;
 
   programs.ncmpcpp = {
     enable = true;
