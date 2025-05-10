@@ -5,6 +5,20 @@ let
 
   cursorTheme = "Bibata-Modern-Ice";
   cursorSize = 20;
+
+  mimeAssociations = {
+    "application/pdf" = "zathura.desktop";
+    "x-scheme-handler/http"="zen-beta.desktop";
+    "x-scheme-handler/https"="zen-beta.desktop";
+    "x-scheme-handler/chrome"="zen-beta.desktop";
+    "text/html"="zen-beta.desktop";
+    "application/x-extension-htm"="zen-beta.desktop";
+    "application/x-extension-html"="zen-beta.desktop";
+    "application/x-extension-shtml"="zen-beta.desktop";
+    "application/xhtml+xml"="zen-beta.desktop";
+    "application/x-extension-xhtml"="zen-beta.desktop";
+    "application/x-extension-xht"="zen-beta.desktop";
+  };
 in
 {
   nixpkgs.config.allowUnfree = true;
@@ -382,9 +396,8 @@ in
 
   xdg.mimeApps = {
     enable = true;
-    defaultApplications = {
-      "application/pdf" = "zathura.desktop";
-    };
+    associations.added = mimeAssociations;
+    defaultApplications = mimeAssociations;
   };
 
   services.avizo = {
