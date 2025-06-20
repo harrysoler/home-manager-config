@@ -63,6 +63,7 @@ in
     pkgs-unstable.yaak
     pkgs-unstable.ibmcloud-cli
     pkgs-unstable.dbgate
+    pkgs.arduino-ide
 
     pkgs.openspades
     pkgs.doomrunner
@@ -194,6 +195,8 @@ in
         "noborder, fullscreen:1"
         "fullscreen, class:openspades"
         "maximize, class:openspades"
+
+        "bordercolor rgba(7AF77FAA), pinned:1"
       ];
       workspace = [
         "1, monitor:eDP-1"
@@ -215,8 +218,9 @@ in
 	    "$mainMod, F, fullscreen, 1"
 	    "$mainMod SHIFT, F, fullscreen"
 	    "$mainMod, A, layoutmsg, orientationnext"
-	    "$mainMod, P, pseudo,"
+	    # "$mainMod, P, pseudo,"
 	    "$mainMod SHIFT, J, togglesplit,"
+	    "$mainMod, P, pin,"
 
 	    "$mainMod, 1, workspace, 1"
 	    "$mainMod, 2, workspace, 2"
