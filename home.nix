@@ -30,7 +30,7 @@ in
   # The home.packages option allows you to install Nix packages into your
   # environment.
   home.packages = [
-    (pkgs.nerdfonts.override { fonts = [ "SpaceMono" ]; })
+    pkgs.nerd-fonts.space-mono
     inputs.apple-fonts.packages.${pkgs.system}.sf-mono-nerd
     pkgs.font-manager
 
@@ -388,7 +388,7 @@ in
       deno
       dotnet-sdk
       unzip
-      nodejs_23
+      nodejs_24
       nodePackages_latest.live-server
     ];
   };
