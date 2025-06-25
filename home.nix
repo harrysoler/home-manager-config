@@ -192,6 +192,7 @@ in
       };
       windowrulev2 = [
         "float, class:clipse"
+        "float, class:testgui"
         "noborder, fullscreen:1"
         "fullscreen, class:openspades"
         "maximize, class:openspades"
@@ -390,6 +391,7 @@ in
       unzip
       nodejs_24
       nodePackages_latest.live-server
+      python313
     ];
   };
 

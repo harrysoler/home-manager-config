@@ -18,9 +18,8 @@ pkgs.stdenvNoCC.mkDerivation {
   installPhase = ''
     runHook preInstall
 
-    mkdir -p $out/share/themes/${name}/{gtk-3.0,gtk-4.0}
+    mkdir -p $out/share/themes/${name}/gtk-3.0
     cp -rv $src/* $out/share/themes/${name}/gtk-3.0/
-    cp $src/gtk.css $out/share/themes/${name}/gtk-4.0
 
     runHook postInstall
   '';
