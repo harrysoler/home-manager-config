@@ -73,10 +73,16 @@ in
   # Home Manager is pretty good at managing dotfiles. The primary way to manage
   # plain files is through 'home.file'.
   home.file = {
-    ".config/nvim" = {
-      source = inputs.nvim-config;
-      recursive = true;
-    };
+    # ".config/nvim" = {
+    #   source = inputs.nvim-config;
+    #   recursive = true;
+    # };
+
+    # ".config/nvim/ftplugin".source = ./dotfiles/nvim/ftplugin;
+    # ".config/nvim/init.lua".source = ./dotfiles/nvim/init.lua;
+    # ".config/nvim/lua".source = ./dotfiles/nvim/lua;
+
+    ".config/nvim".source = config.lib.file.mkOutOfStoreSymlink "${config.home.homeDirectory}/.config/home-manager/dotfiles/nvim";
 
     ".config/hyprshade".source = ./dotfiles/hyprshade;
 
