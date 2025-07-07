@@ -390,14 +390,9 @@ in
     enable = true;
     defaultEditor = true;
     extraPackages = with pkgs; [
-      go
-      gotools
-      deno
-      dotnet-sdk
-      unzip
-      nodejs_24
-      nodePackages_latest.live-server
-      python313
+        rust-analyzer
+        lua-language-server
+        gopls
     ];
   };
 
