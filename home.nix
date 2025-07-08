@@ -68,6 +68,14 @@ in
     pkgs.openspades
     pkgs.doomrunner
     pkgs.gzdoom
+    # pkgs.clonehero
+    (pkgs.clonehero.overrideAttrs (previousAttrs: {
+      version = "1.1.0.4261-PTB";
+      src = pkgs.fetchurl {
+        url = "https://github.com/clonehero-game/releases/releases/download/v1.1.0.4261-PTB/clonehero-linux.tar.xz";
+        hash = "sha256-Yfbd8TqTZ0IYxMIY5TmsxTfD/Bz/anV0dgP1v13ders=";
+      };
+    }))
   ];
 
   # Home Manager is pretty good at managing dotfiles. The primary way to manage
