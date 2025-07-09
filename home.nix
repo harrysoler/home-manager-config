@@ -47,6 +47,7 @@ in
     pkgs.hyprpicker
     pkgs.hyprshade
     pkgs.fzf
+    pkgs.pavucontrol
 
     inputs.zen-browser.packages.${pkgs.system}.beta
     pkgs.pcmanfm
