@@ -397,6 +397,9 @@ in
 
   programs.helix = {
       enable = true;
+      settings = {
+          theme = "tokyonight";
+      };
   };
 
   programs.neovim = {
