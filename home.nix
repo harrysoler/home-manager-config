@@ -395,6 +395,10 @@ in
 
   programs.tmux.enable = true;
 
+  programs.helix = {
+      enable = true;
+  };
+
   programs.neovim = {
     enable = true;
     defaultEditor = true;
