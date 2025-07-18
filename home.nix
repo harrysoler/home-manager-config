@@ -96,6 +96,8 @@ in
     ".config/hypr/wallpaper.png".source = ./assets/space-pixel.png;
     ".local/share/openspades".source = ./dotfiles/openspades;
 
+    ".config/quickshell".source = config.lib.file.mkOutOfStoreSymlink "${config.home.homeDirectory}/.config/home-manager/dotfiles/quickshell";
+
     ".config/gzdoom/gzdoom.ini".source = ./dotfiles/gzdoom/gzdoom.ini;
   };
 
