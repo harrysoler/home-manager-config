@@ -33,6 +33,7 @@ in
   home.packages = [
     pkgs.nerd-fonts.space-mono
     inputs.apple-fonts.packages.${pkgs.system}.sf-mono-nerd
+    pkgs.cozette
     pkgs.font-manager
 
     pkgs.wl-clip-persist
@@ -362,6 +363,18 @@ in
       };
       general = {
         live_config_reload = true;
+      };
+    };
+  };
+
+  programs.foot = {
+    enable = true;
+    settings = {
+      main = {
+        font = "Cozette:size=8";
+      };
+      colors = {
+        alpha = 0.8;
       };
     };
   };
