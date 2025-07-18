@@ -65,6 +65,7 @@ in
     pkgs-unstable.ibmcloud-cli
     pkgs-unstable.dbgate
     pkgs.arduino-ide
+    pkgs.xh
 
     pkgs.openspades
     pkgs.doomrunner
@@ -201,9 +202,12 @@ in
         workspace_swipe_distance = 100;
       };
       input = {
-        kb_layout = "latam";
-        repeat_delay = 300;
-        repeat_rate = 50;
+        kb_model="pc104awide";
+        kb_layout = "us, latam";
+        kb_variant = "colemak_dh_wide,";
+        kb_options = "grp:win_space_toggle,misc:extend,lv5:caps_switch_lock,compose:menu";
+        repeat_delay = 200;
+        repeat_rate = 40;
       };
       windowrulev2 = [
         "float, class:clipse"
