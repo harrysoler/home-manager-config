@@ -63,7 +63,6 @@ in
     pkgs.rnote
 
     pkgs-unstable.yaak
-    pkgs-unstable.ibmcloud-cli
     pkgs-unstable.dbgate
     pkgs.arduino-ide
     pkgs.xh
