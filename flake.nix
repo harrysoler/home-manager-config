@@ -21,6 +21,11 @@
 
     nvim-config.url = "github:harrysoler/nvim-config";
     nvim-config.flake = false;
+
+    quickshell = {
+      url = "git+https://git.outfoxxed.me/outfoxxed/quickshell";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
   };
 
   outputs = { self, nixpkgs, nixpkgs-unstable, home-manager, ... } @ inputs:
