@@ -87,7 +87,7 @@ in
   # Home Manager is pretty good at managing dotfiles. The primary way to manage
   # plain files is through 'home.file'.
   home.file = {
-    ".config/nvim".source = config.lib.file.mkOutOfStoreSymlink "${config.home.homeDirectory}/.config/home-manager/dotfiles/nvim";
+    ".config/nvim".source = config.lib.file.mkOutOfStoreSymlink "${config.xdg.configHome}/home-manager/dotfiles/nvim";
 
     ".config/hyprshade".source = ./dotfiles/hyprshade;
 
@@ -99,7 +99,7 @@ in
     ".config/hypr/wallpaper.png".source = ./assets/space-pixel.png;
     ".local/share/openspades".source = ./dotfiles/openspades;
 
-    ".config/quickshell".source = config.lib.file.mkOutOfStoreSymlink "${config.home.homeDirectory}/.config/home-manager/dotfiles/quickshell";
+    ".config/quickshell".source = config.lib.file.mkOutOfStoreSymlink "${config.xdg.configHome}/.config/home-manager/dotfiles/quickshell";
 
     ".config/gzdoom/gzdoom.ini".source = ./dotfiles/gzdoom/gzdoom.ini;
   };
