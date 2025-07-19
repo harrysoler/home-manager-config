@@ -50,7 +50,9 @@ in
     pkgs.hyprshade
     pkgs.fzf
     pkgs.pavucontrol
+
     inputs.quickshell.packages.${pkgs.system}.default
+    pkgs.material-symbols
 
     inputs.zen-browser.packages.${pkgs.system}.beta
     pkgs.pcmanfm
