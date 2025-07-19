@@ -160,7 +160,7 @@ in
       };
       decoration = {
         blur = {
-          enabled = false;
+          enabled = true;
           size = 6;
           passes = 1;
           new_optimizations = true;
