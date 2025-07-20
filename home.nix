@@ -198,8 +198,8 @@ in
       };
       input = {
         kb_model="pc104awide";
-        kb_layout = "us, latam";
-        kb_variant = "colemak_dh_wide,";
+        kb_layout = "latam, us";
+        kb_variant = ",colemak_dh_wide";
         kb_options = "grp:win_space_toggle,misc:extend,lv5:caps_switch_lock,compose:menu";
         repeat_delay = 200;
         repeat_rate = 40;
