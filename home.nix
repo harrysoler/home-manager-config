@@ -96,10 +96,10 @@ in
     ".config/rofi/theme.rasi".source = ./dotfiles/rofi/theme.rasi;
     ".config/rofi/background.jpg".source = ./dotfiles/rofi/background.jpg;
 
-    ".config/hypr/wallpaper.png".source = ./assets/space-pixel.png;
+    ".config/hypr/wallpaper.png".source = ./assets/a10.png;
     ".local/share/openspades".source = ./dotfiles/openspades;
 
-    ".config/quickshell".source = config.lib.file.mkOutOfStoreSymlink "${config.xdg.configHome}/.config/home-manager/dotfiles/quickshell";
+    ".config/quickshell".source = config.lib.file.mkOutOfStoreSymlink "${config.xdg.configHome}/home-manager/dotfiles/quickshell";
 
     ".config/gzdoom/gzdoom.ini".source = ./dotfiles/gzdoom/gzdoom.ini;
   };
