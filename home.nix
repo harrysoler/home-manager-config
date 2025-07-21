@@ -149,6 +149,7 @@ in
         # For hyprshade scheduling
         "dbus-update-activation-environment --systemd HYPRLAND_INSTANCE_SIGNATURE"
         "${pkgs.hyprshade}/bin/hyprshade auto"
+        "${inputs.quickshell.packages.${pkgs.system}.default}/bin/quickshell"
       ];
       general = {
         gaps_in = 2;

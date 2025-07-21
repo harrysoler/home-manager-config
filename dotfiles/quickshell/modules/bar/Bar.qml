@@ -44,6 +44,8 @@ PanelWindow {
 
     BottomColumn {
         id: bottom
+
+        Battery {}
     }
 
     component TopColumn: ColumnLayout {
