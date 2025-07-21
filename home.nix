@@ -226,7 +226,7 @@ in
         "9, monitor:HDMI-A-1"
         "10, monitor:HDMI-A-1"
       ];
-      "$mainMod" = "ALT";
+      "$mainMod" = "WIN";
       bind = [
         "$mainMod, W, killactive,"
         "$mainMod SHIFT, M, exit,"
