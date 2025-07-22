@@ -70,6 +70,8 @@ in
     pkgs-unstable.dbgate
     pkgs.arduino-ide
     pkgs.xh
+    pkgs.awscli2
+    pkgs.aws-sam-cli
 
     pkgs.openspades
     pkgs.doomrunner

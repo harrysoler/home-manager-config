@@ -42,7 +42,7 @@ Loader {
 
     component BatteryText: StyledText {
         text: {
-            return percentage == 1 ? "FL" : percentage * 100
+            return percentage == 1 ? "FL" : Math.floor(percentage * 100)
         }
 
         Layout.alignment: Qt.AlignCenter
