@@ -1,4 +1,4 @@
-{ inputs, config, pkgs, pkgs-unstable, ... }:
+{ inputs, config, pkgs, pkgs-unstable, lib, ... }:
 
 let
   adwaita-slim-dark-gtk-theme = import ./pkgs/adwaita-slim-dark-gtk-theme.nix { inherit pkgs; };
@@ -8,17 +8,17 @@ let
   cursorSize = 20;
 
   mimeAssociations = {
-    "application/pdf" = "zathura.desktop";
-    "x-scheme-handler/http"="zen-beta.desktop";
-    "x-scheme-handler/https"="zen-beta.desktop";
-    "x-scheme-handler/chrome"="zen-beta.desktop";
-    "text/html"="zen-beta.desktop";
-    "application/x-extension-htm"="zen-beta.desktop";
-    "application/x-extension-html"="zen-beta.desktop";
-    "application/x-extension-shtml"="zen-beta.desktop";
-    "application/xhtml+xml"="zen-beta.desktop";
-    "application/x-extension-xhtml"="zen-beta.desktop";
-    "application/x-extension-xht"="zen-beta.desktop";
+    "application/pdf" = ["org.pwmt.zathura.desktop"];
+    "x-scheme-handler/http" = ["zen-beta.desktop"];
+    "x-scheme-handler/https" = ["zen-beta.desktop"];
+    "x-scheme-handler/chrome" = ["zen-beta.desktop"];
+    "text/html" = ["zen-beta.desktop"];
+    "application/x-extension-htm" = ["zen-beta.desktop"];
+    "application/x-extension-html" = ["zen-beta.desktop"];
+    "application/x-extension-shtml" = ["zen-beta.desktop"];
+    "application/xhtml+xml" = ["zen-beta.desktop"];
+    "application/x-extension-xhtml" = ["zen-beta.desktop"];
+    "application/x-extension-xht" = ["zen-beta.desktop"];
   };
 in
 {
@@ -230,8 +230,8 @@ in
       ];
       "$mainMod" = "WIN";
       bind = [
-        "$mainMod, W, killactive,"
         "$mainMod SHIFT, M, exit,"
+        "$mainMod, W, killactive,"
 	    "$mainMod, V, togglefloating,"
 	    "$mainMod, F, fullscreen, 1"
 	    "$mainMod SHIFT, F, fullscreen"
@@ -282,7 +282,7 @@ in
 	    "$mainMod SHIFT, down, movewindow, d"
 
         "$mainMod, Q, exec, alacritty"
-	    "$mainMod, R, exec, rofi -show combi"
+	    "$mainMod, S, exec, rofi -show combi"
 	    "$mainMod, C, exec, hyprpicker -af hex"
 	    "$mainMod, Z, exec, alacritty --class clipse -e clipse"
 	    '', Print, exec, grim -g "$(slurp -o -r)" -t ppm - | satty --filename -''
@@ -485,9 +485,9 @@ in
 
   xdg.mimeApps = {
     enable = true;
-    associations.added = mimeAssociations;
     defaultApplications = mimeAssociations;
   };
+  xdg.configFile."mimeapps.list".force = true;
 
   services.avizo = {
     enable = true;
@@ -525,7 +525,14 @@ in
 	}
     '';
   };
-  services.mpd-mpris.enable = true;
+
+  services.mpd-mpris = {
+      enable = true;
+      mpd = {
+          host = "localhost";
+          port = 6600;
+      };
+  };
 
   programs.ncmpcpp = {
     enable = true;
