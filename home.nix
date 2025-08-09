@@ -55,6 +55,7 @@ in
     pkgs.material-symbols
 
     inputs.zen-browser.packages.${pkgs.system}.beta
+    pkgs.thunderbird
     pkgs.pcmanfm
     pkgs.zathura
     pkgs.libreoffice-still
@@ -89,7 +90,7 @@ in
   # Home Manager is pretty good at managing dotfiles. The primary way to manage
   # plain files is through 'home.file'.
   home.file = {
-    ".config/nvim".source = config.lib.file.mkOutOfStoreSymlink "${config.xdg.configHome}/home-manager/dotfiles/nvim";
+    ".config/nvim".source = config.lib.file.mkOutOfStoreSymlink "/home/harry/.config/home-manager/dotfiles/nvim";
 
     ".config/hyprshade".source = ./dotfiles/hyprshade;
 
@@ -150,6 +151,7 @@ in
         "${pkgs.avizo}/bin/avizo-service"
         # For hyprshade scheduling
         "dbus-update-activation-environment --systemd HYPRLAND_INSTANCE_SIGNATURE"
+        "${pkgs.gammastep} -l 5.526096748847994:-73.36712121379337 -t 6500:3500"
         "${pkgs.hyprshade}/bin/hyprshade auto"
         "${inputs.quickshell.packages.${pkgs.system}.default}/bin/quickshell"
       ];
@@ -207,6 +209,9 @@ in
         repeat_delay = 200;
         repeat_rate = 40;
       };
+      monitor = [
+      	"HDMI-A-1, 1920x1080@59.94, 4652x0, 2"
+      ];
       windowrulev2 = [
         "float, class:clipse"
         "float, class:testgui"
@@ -463,14 +468,33 @@ in
 
   programs.helix = {
       enable = true;
+      defaultEditor = true;
+      languages = {
+        language = [{
+          name = "typst";
+          auto-format = true;
+          formatter.command = "typstyle";
+        }];
+      };
       settings = {
-          theme = "tokyonight";
+	  theme = "nord";
+	  editor = {
+	    soft-wrap = {
+	      enable = true;
+	      max-wrap = 25;
+	      wrap-indicator = "";
+	    };
+	    cursor-shape = {
+	      insert = "bar";
+	      normal = "block";
+	      select = "underline";
+	    };
+	  };
       };
   };
 
   programs.neovim = {
     enable = true;
-    defaultEditor = true;
     extraPackages = with pkgs; [
         rust-analyzer
         lua-language-server
