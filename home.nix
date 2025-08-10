@@ -112,6 +112,7 @@ in
     shellAliases = {
       hms = "home-manager switch";
       cdd = "cd /media/data/";
+      cddocente = "cd /media/data/docente/";
     };
     bashrcExtra = ''
       shopt -s histappend # When you exit a shell, the history from that session is appended
@@ -512,6 +513,13 @@ in
     defaultApplications = mimeAssociations;
   };
   xdg.configFile."mimeapps.list".force = true;
+
+  dconf.settings = {
+    "org/virt-manager/virt-manager/connections" = {
+      autoconnect = ["qemu:///system"];
+      uris = ["qemu:///system"];
+    };
+  };
 
   services.avizo = {
     enable = true;
