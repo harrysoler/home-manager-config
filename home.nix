@@ -141,9 +141,6 @@ in
 
   wayland.windowManager.hyprland = {
     enable = true;
-    systemd.extraCommands = [
-      "systemctl --user enable --now hyprshade.timer"
-    ];
     settings = {
       exec-once = [
         "${pkgs.hyprpaper}/bin/hyprpaper"
