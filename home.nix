@@ -152,8 +152,7 @@ in
         "${pkgs.avizo}/bin/avizo-service"
         # For hyprshade scheduling
         "dbus-update-activation-environment --systemd HYPRLAND_INSTANCE_SIGNATURE"
-        "${pkgs.gammastep} -l 5.526096748847994:-73.36712121379337 -t 6500:3500"
-        "${pkgs.hyprshade}/bin/hyprshade auto"
+        "${pkgs.gammastep}/bin/gammastep -l 5.526096748847994:-73.36712121379337 -t 6500:3500"
         "${inputs.quickshell.packages.${pkgs.system}.default}/bin/quickshell"
       ];
       general = {
@@ -210,9 +209,6 @@ in
         repeat_delay = 200;
         repeat_rate = 40;
       };
-      monitor = [
-      	"HDMI-A-1, 1920x1080@59.94, 4652x0, 2"
-      ];
       windowrulev2 = [
         "float, class:clipse"
         "float, class:testgui"
