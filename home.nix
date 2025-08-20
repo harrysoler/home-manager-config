@@ -47,7 +47,6 @@ in
     pkgs.playerctl
     pkgs.brillo
     pkgs.hyprpicker
-    pkgs.hyprshade
     pkgs.fzf
     pkgs.pavucontrol
 
@@ -91,8 +90,6 @@ in
   # plain files is through 'home.file'.
   home.file = {
     ".config/nvim".source = config.lib.file.mkOutOfStoreSymlink "/home/harry/.config/home-manager/dotfiles/nvim";
-
-    ".config/hyprshade".source = ./dotfiles/hyprshade;
 
     ".config/satty".source = ./dotfiles/satty;
 
@@ -147,8 +144,6 @@ in
         "${pkgs.clipse}/bin/clipse -listen"
         "${pkgs.wl-clip-persist}/bin/wl-clip-persist --clipboard regular"
         "${pkgs.avizo}/bin/avizo-service"
-        # For hyprshade scheduling
-        "dbus-update-activation-environment --systemd HYPRLAND_INSTANCE_SIGNATURE"
         "${pkgs.gammastep}/bin/gammastep -l 5.526096748847994:-73.36712121379337 -t 6500:3500"
         "${inputs.quickshell.packages.${pkgs.system}.default}/bin/quickshell"
       ];
