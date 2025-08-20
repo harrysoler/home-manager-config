@@ -49,6 +49,7 @@ in
     pkgs.hyprpicker
     pkgs.fzf
     pkgs.pavucontrol
+    pkgs.unzip
 
     inputs.quickshell.packages.${pkgs.system}.default
     pkgs.material-symbols
