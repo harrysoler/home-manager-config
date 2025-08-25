@@ -48,8 +48,9 @@
 	highlight:     underline bold #c0caf5;
 
 	transparent: rgba(0,0,0,0);
-	font: "SpaceMono Nerd Font Mono 10";
+	font: "Adwaita Sans 12";
 }
+
 window {
 	width: 500px;
 	location: center;
@@ -58,7 +59,7 @@ window {
 	padding: 10px;
 	border:  0px;
 	border-radius: 10px;
-	background-color: @transparent;
+	background-color: transparent;
 	spacing: 0;
 	children:  [mainbox];
 	orientation: horizontal;
@@ -68,11 +69,11 @@ mainbox {
 	children: [ inputbar, message, listview ];
 	spacing: 0;
 	background-color: @background;
-	border-radius: 25px;
+	border-radius: 10px;
 }
 
 message {
-	font: "SpaceMono Nerd Font 10";
+	font: @font;
 	padding: 5;
 
 	background-color: @background;
@@ -91,7 +92,7 @@ entry {
 	color: @bluelight3;
 
 	border: 1px;
-	border-radius: 15px;
+	border-radius: 5px;
 	border-color: @bluelight4;
 
 	placeholder: "Search Application";
@@ -116,7 +117,7 @@ listview {
 element {
 	padding: 8px 12px;
 	vertical-align: 0.5;
-	border-radius: 10px;
+	border-radius: 5px;
 	background-color: transparent;
 	color: @bluelight3;
 	font: inherit;
@@ -128,7 +129,7 @@ element-text {
 }
 
 element-icon {
-	size: 20px;
+	size: 18px;
 	margin: 0 10px 0 0;
 	cursor: pointer;
 }
@@ -176,7 +177,7 @@ mode-switcher {
 }
 
 button {
-	font: "SpaceMono Nerd Font 10";
+	font: @font;
 	padding: 6px;
 	background-color: @transparent;
 	color: @bluelight3;
