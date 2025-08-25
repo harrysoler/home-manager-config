@@ -497,11 +497,21 @@ in
     nix-direnv.enable = true;
   };
 
-  xdg.mimeApps = {
-    enable = true;
-    defaultApplications = mimeAssociations;
+  xdg = {
+    portal = {
+      enable = true;
+      extraPortals = with pkgs; [
+        xdg-desktop-portal-wlr
+        xdg-desktop-portal-gtk
+      ];
+      xdgOpenUsePortal = true;
+    };
+    mimeApps = {
+      enable = true;
+      defaultApplications = mimeAssociations;
+    };
+    configFile."mimeapps.list".force = true;
   };
-  xdg.configFile."mimeapps.list".force = true;
 
   dconf.settings = {
     "org/virt-manager/virt-manager/connections" = {
