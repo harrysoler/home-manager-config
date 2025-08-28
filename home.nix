@@ -33,6 +33,7 @@ in
   home.packages = [
     pkgs.nerd-fonts.space-mono
     inputs.apple-fonts.packages.${pkgs.system}.sf-mono-nerd
+    pkgs.hanken-grotesk
     pkgs.cozette
     pkgs.font-manager
 
