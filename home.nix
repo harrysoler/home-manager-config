@@ -468,20 +468,20 @@ in
         }];
       };
       settings = {
-	  theme = "nord";
-	  editor = {
-	    soft-wrap = {
-	      enable = true;
-	      max-wrap = 25;
-	      wrap-indicator = "";
-	    };
-	    cursor-shape = {
-	      insert = "bar";
-	      normal = "block";
-	      select = "underline";
-	    };
-	  };
-      };
+    	  theme = "nord";
+    	  editor = {
+  	    soft-wrap = {
+  	      enable = true;
+  	      max-wrap = 25;
+  	      wrap-indicator = "";
+  	    };
+  	    cursor-shape = {
+  	      insert = "bar";
+  	      normal = "block";
+  	      select = "underline";
+  	    };
+  	  };
+    };
   };
 
   programs.neovim = {
