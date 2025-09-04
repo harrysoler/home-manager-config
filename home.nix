@@ -53,6 +53,7 @@ in
     pkgs.fzf
     pkgs.pavucontrol
     pkgs.unzip
+    pkgs.nix-search-tv
 
     inputs.quickshell.packages.${pkgs.system}.default
     pkgs.material-symbols
@@ -115,6 +116,7 @@ in
       hms = "home-manager switch";
       cdd = "cd /media/data/";
       cddocente = "cd /media/data/docente/";
+      ns = "nix-search-tv print | fzf --preview 'nix-search-tv preview {}' --scheme history";
     };
     bashrcExtra = ''
       shopt -s histappend # When you exit a shell, the history from that session is appended
