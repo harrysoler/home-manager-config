@@ -19,6 +19,8 @@ let
     "application/xhtml+xml" = ["zen-beta.desktop"];
     "application/x-extension-xhtml" = ["zen-beta.desktop"];
     "application/x-extension-xht" = ["zen-beta.desktop"];
+    "image/jpeg" = ["imv"];
+    "image/png" = ["imv"];
   };
 in
 {
@@ -67,6 +69,7 @@ in
     pkgs.keepassxc
     pkgs.nwg-look
     pkgs.rnote
+    pkgs.imv
 
     pkgs-unstable.yaak
     pkgs-unstable.dbgate
