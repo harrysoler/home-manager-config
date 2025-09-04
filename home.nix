@@ -114,7 +114,7 @@ in
     enable = true;
     shellAliases = {
       hms = "home-manager switch";
-      cdd = "cd /media/data/";
+      cddata = "cd /media/data/";
       cddocente = "cd /media/data/docente/";
       ns = "nix-search-tv print | fzf --preview 'nix-search-tv preview {}' --scheme history";
     };
