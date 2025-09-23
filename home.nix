@@ -116,6 +116,7 @@ in
       hms = "home-manager switch";
       cddata = "cd /media/data/";
       cddocente = "cd /media/data/docente/";
+      cddev = "cd /home/harry/dev/";
       ns = "nix-search-tv print | fzf --preview 'nix-search-tv preview {}' --scheme history";
     };
     bashrcExtra = ''
@@ -466,11 +467,43 @@ in
       enable = true;
       defaultEditor = true;
       languages = {
-        language = [{
-          name = "typst";
-          auto-format = true;
-          formatter.command = "typstyle";
-        }];
+        language = [
+          {
+            name = "typst";
+            auto-format = true;
+            formatter.command = "typstyle";
+          }
+        ];
+        language-server.texlab = {
+          config.texlab = {
+            chktex = {
+              onOpenAndSave = true;
+              onEdit = true;
+            };
+            forwardSearch = {
+              executable = "zathura";
+              args = [ "--synctex-forward" "%l:%c:%f" "%p" ];
+            };
+            build = {
+              auxDirectory = "build";
+              logDirectory = "build";
+              pdfDirectory = "build";
+
+              forwardSearchAfter = true;
+              onSave = true;
+
+              executable = "latexmk";
+              args = [
+                "-pdf"
+                "-interaction=nonstopmode"
+                "-synctex=0"
+                "-shell-escape"
+                "-output-directory=build"
+                "%f"
+              ];
+            };
+          };
+        };
       };
       settings = {
     	  theme = "nord";
