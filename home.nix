@@ -54,6 +54,8 @@ in
     pkgs.pavucontrol
     pkgs.unzip
     pkgs.nix-search-tv
+    pkgs.tree
+    pkgs.libqalculate
 
     inputs.quickshell.packages.${pkgs.system}.default
     pkgs.material-symbols
