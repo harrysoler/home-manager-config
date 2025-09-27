@@ -466,50 +466,54 @@ in
   programs.fzf.enable = true;
 
   programs.helix = {
-      enable = true;
-      defaultEditor = true;
-      languages = {
-        language = [
-          {
-            name = "typst";
-            auto-format = true;
-            formatter.command = "typstyle";
-          }
-        ];
-        language-server.texlab = {
-          config.texlab = {
-            chktex = {
-              onOpenAndSave = true;
-              onEdit = true;
-            };
-            forwardSearch = {
-              executable = "zathura";
-              args = [ "--synctex-forward" "%l:%c:%f" "%p" ];
-            };
-            build = {
-              auxDirectory = "build";
-              logDirectory = "build";
-              pdfDirectory = "build";
+    enable = true;
+    defaultEditor = true;
+    languages = {
+      language = [
+        {
+          name = "typst";
+          auto-format = true;
+          formatter.command = "typstyle";
+        }
+      ];
+      language-server.texlab = {
+        config.texlab = {
+          chktex = {
+            onOpenAndSave = true;
+            onEdit = true;
+          };
+          forwardSearch = {
+            executable = "zathura";
+            args = [ "--synctex-forward" "%l:%c:%f" "%p" ];
+          };
+          build = {
+            auxDirectory = "build";
+            logDirectory = "build";
+            pdfDirectory = "build";
 
-              forwardSearchAfter = true;
-              onSave = true;
+            forwardSearchAfter = true;
+            onSave = true;
 
-              executable = "latexmk";
-              args = [
-                "-pdf"
-                "-interaction=nonstopmode"
-                "-synctex=0"
-                "-shell-escape"
-                "-output-directory=build"
-                "%f"
-              ];
-            };
+            executable = "latexmk";
+            args = [
+              "-pdf"
+              "-interaction=nonstopmode"
+              "-synctex=0"
+              "-shell-escape"
+              "-output-directory=build"
+              "%f"
+            ];
           };
         };
       };
-      settings = {
-    	  theme = "nord";
-    	  editor = {
+    };
+    settings = {
+  	  theme = "nord";
+  	  editor = {
+        inline-diagnostics = {
+          cursor-line = "hint";
+          other-lines = "error";
+        };
   	    soft-wrap = {
   	      enable = true;
   	      max-wrap = 25;
