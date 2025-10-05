@@ -8,7 +8,7 @@ let
   cursorSize = 20;
 
   mimeAssociations = {
-    "application/pdf" = ["org.pwmt.zathura.desktop"];
+    "application/pdf" = ["sioyek.desktop"];
     "x-scheme-handler/http" = ["zen-beta.desktop"];
     "x-scheme-handler/https" = ["zen-beta.desktop"];
     "x-scheme-handler/chrome" = ["zen-beta.desktop"];
@@ -63,7 +63,7 @@ in
     inputs.zen-browser.packages.${pkgs.system}.beta
     pkgs.thunderbird
     pkgs.pcmanfm
-    pkgs.zathura
+    pkgs.sioyek
     pkgs.libreoffice-still
     pkgs.xournalpp
     pkgs.localsend
@@ -483,8 +483,8 @@ in
             onEdit = true;
           };
           forwardSearch = {
-            executable = "zathura";
-            args = [ "--synctex-forward" "%l:%c:%f" "%p" ];
+            executable = "sioyek";
+            args = [ "--inverse-search" "%l:%c:%f" "%p" ];
           };
           build = {
             auxDirectory = "build";
