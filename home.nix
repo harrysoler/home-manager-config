@@ -137,6 +137,9 @@ in
     HISTCONTROL = "erasedups";
     HYPRCURSOR_THEME = cursorTheme;
     HYPRCURSOR_SIZE = cursorSize;
+    EDITOR = "hx";
+    BROWSER = "zen";
+    TERMINAL = "alacritty";
   };
 
   # Let Home Manager install and manage itself.
