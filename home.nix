@@ -84,6 +84,15 @@ in
     pkgs.openspades
     pkgs.doomrunner
     pkgs.gzdoom
+
+    pkgs.duckstation
+    (pkgs.retroarch.withCores (cores: with cores; [
+      mame
+      fbneo
+      snes9x
+      swanstation
+      mesen
+    ]))
     # pkgs.clonehero
     (pkgs.clonehero.overrideAttrs (previousAttrs: {
       version = "1.1.0.4261-PTB";
