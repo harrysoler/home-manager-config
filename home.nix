@@ -73,6 +73,7 @@ in
     pkgs.nwg-look
     pkgs.rnote
     pkgs.imv
+    pkgs.mpv
 
     pkgs-unstable.yaak
     pkgs-unstable.dbgate
