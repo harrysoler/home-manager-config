@@ -523,6 +523,7 @@ in
     settings = {
   	  theme = "nord";
   	  editor = {
+        lsp.auto-signature-help = false;
         inline-diagnostics = {
           cursor-line = "hint";
           other-lines = "error";
