@@ -65,7 +65,6 @@ in
     pkgs.ungoogled-chromium
     pkgs.thunderbird
     pkgs.pcmanfm
-    pkgs.sioyek
     pkgs.libreoffice-still
     pkgs.xournalpp
     pkgs.localsend
@@ -371,6 +370,7 @@ in
     platformTheme.name = "qtct";
   };
 
+  # TODO: Fix indentation
   programs.alacritty = {
     enable = true;
     settings = {
@@ -388,6 +388,14 @@ in
       general = {
         live_config_reload = true;
       };
+    };
+  };
+
+  programs.sioyek = {
+    enable = true;
+    config = {
+      # Can open multiple instances
+      new-instance = "1";
     };
   };
 
