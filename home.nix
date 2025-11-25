@@ -394,7 +394,7 @@ in
     enable = true;
     config = {
       # Can open multiple instances
-      new-instance = "1";
+      should_launch_new_window = "1";
     };
   };
 
