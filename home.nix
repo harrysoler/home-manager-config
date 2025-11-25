@@ -56,11 +56,13 @@ in
     pkgs.nix-search-tv
     pkgs.tree
     pkgs.libqalculate
+    pkgs.connman-gtk
 
     inputs.quickshell.packages.${pkgs.system}.default
     pkgs.material-symbols
 
     inputs.zen-browser.packages.${pkgs.system}.beta
+    pkgs.ungoogled-chromium
     pkgs.thunderbird
     pkgs.pcmanfm
     pkgs.sioyek
