@@ -370,13 +370,12 @@ in
     platformTheme.name = "qtct";
   };
 
-  # TODO: Fix indentation
   programs.alacritty = {
     enable = true;
     settings = {
       window = {
         dynamic_padding = true;
-	opacity = 0.8;
+      	opacity = 0.8;
       };
       font = {
         normal.family = "SFMono Nerd Font";
