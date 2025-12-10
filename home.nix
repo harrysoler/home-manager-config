@@ -56,6 +56,7 @@ in
     pkgs.nix-search-tv
     pkgs.tree
     pkgs.libqalculate
+    pkgs.nmgui
 
     inputs.quickshell.packages.${pkgs.system}.default
     pkgs.material-symbols
