@@ -86,6 +86,7 @@ in
     pkgs.openspades
     pkgs.doomrunner
     pkgs.gzdoom
+    pkgs.protonup
 
     pkgs.duckstation
     (pkgs.retroarch.withCores (cores: with cores; [
@@ -159,6 +160,11 @@ in
   services.udiskie.enable = true;
 
   fonts.fontconfig.enable = true;
+
+  home.sessionVariables = {
+    STEAM_EXTRA_COMPAT_TOOLS_PATHS = "\${HOME}/.steam/root/compatibilitytools.d";
+  };
+
 
   wayland.windowManager.hyprland = {
     enable = true;
