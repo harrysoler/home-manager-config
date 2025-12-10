@@ -79,13 +79,11 @@ in
     pkgs-unstable.dbgate
     pkgs.arduino-ide
     pkgs.xh
-    pkgs.awscli2
-    pkgs.aws-sam-cli
 
     pkgs.openspades
     pkgs.doomrunner
     pkgs.gzdoom
-    pkgs.protonup
+    pkgs.protonup-ng
 
     pkgs.duckstation
     (pkgs.retroarch.withCores (cores: with cores; [
@@ -431,9 +429,11 @@ in
 
   programs.git = {
     enable = true;
-    userName = "Harrizon";
-    userEmail = "harryalex0281@hotmail.com";
-    extraConfig = {
+    settings = {
+      user = {
+        name = "Harrizon";
+        email = "harryalex0281@hotmail.com";
+      };
       init.defaultBranch = "main";
     };
   };
