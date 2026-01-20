@@ -204,10 +204,10 @@ in
         animation = [
           "windows, 1, 4, myBezier"
           "windowsOut, 1, 7, default, popin 80%"
-	      "border, 1, 10, default"
-	      "borderangle, 1, 8, default"
-	      "fade, 1, 7, default"
-	      "workspaces, 1, 4, default"
+  	      "border, 1, 10, default"
+  	      "borderangle, 1, 8, default"
+  	      "fade, 1, 7, default"
+  	      "workspaces, 1, 4, default"
         ];
       };
       dwindle = {
@@ -217,10 +217,12 @@ in
       master = {
       	new_on_top = true;
       };
-      gestures = {
-        workspace_swipe = true;
-        workspace_swipe_distance = 100;
-      };
+      gesture = [
+        "3, horizontal, workspace"
+        "3, up, fullscreen"
+        "3, down, float"
+        "3, swipe, mod: SUPER, resize"
+      ];
       input = {
         kb_model="pc104awide";
         kb_layout = "latam, us";
