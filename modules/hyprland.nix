@@ -11,6 +11,11 @@
   };
 
   config = {
+    home.packages = [
+      pkgs.hyprpicker
+      pkgs.playerctl
+    ];
+
     home.sessionVariables = {
       HYPRCURSOR_THEME = config.hyprland.cursorTheme;
       HYPRCURSOR_SIZE = config.hyprland.cursorSize;
