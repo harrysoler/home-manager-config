@@ -1,5 +1,9 @@
 { pkgs, ... }:
 {
+  home.sessionVariables = {
+    HISTCONTROL = "erasedups";
+  };
+
   home.packages = [
     pkgs.fzf
   ];

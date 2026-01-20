@@ -32,6 +32,8 @@ in
     ./modules/games.nix
   ];
 
+  wayland.mimeAssociations = mimeAssociations;
+
   hyprland = {
     cursorTheme = config.theme.cursorTheme;
     cursorSize = config.theme.cursorSize;
@@ -77,14 +79,11 @@ in
     pkgs.xh
   ];
 
-  # Home Manager is pretty good at managing dotfiles. The primary way to manage
-  # plain files is through 'home.file'.
   home.file = {
     ".config/nvim".source = config.lib.file.mkOutOfStoreSymlink "/home/harry/.config/home-manager/dotfiles/nvim";
   };
 
   home.sessionVariables = {
-    HISTCONTROL = "erasedups";
     BROWSER = "zen";
   };
 
