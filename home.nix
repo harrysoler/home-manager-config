@@ -80,7 +80,7 @@ in
   ];
 
   home.file = {
-    ".config/nvim".source = config.lib.file.mkOutOfStoreSymlink "/home/harry/.config/home-manager/dotfiles/nvim";
+    ".config/nvim".source = config.lib.file.mkOutOfStoreSymlink "/home/harry/.config/home-manager/modules/dotfiles/nvim";
   };
 
   home.sessionVariables = {
