@@ -16,6 +16,10 @@
       HYPRCURSOR_SIZE = config.hyprland.cursorSize;
     };
 
+    home.file = {
+      ".config/hypr/wallpaper.png".source = ../assets/a10.png;
+    };
+
     wayland.windowManager.hyprland = {
       enable = true;
       settings = {

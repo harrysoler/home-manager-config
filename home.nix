@@ -22,8 +22,9 @@ in
 {
   imports = [
     ./modules/hyprland.nix
-    ./modules/rofi.nix
     ./modules/theme.nix
+    ./modules/rofi.nix
+    ./modules/alacritty.nix
   ];
 
   hyprland = {
@@ -39,7 +40,6 @@ in
 
   home.packages = [
     # pkgs.nerd-fonts.space-mono
-    # inputs.apple-fonts.packages.${pkgs.system}.sf-mono-nerd
     # pkgs.hanken-grotesk
     pkgs.cozette
     pkgs.font-manager
@@ -116,10 +116,6 @@ in
 
     ".config/satty".source = ./dotfiles/satty;
 
-    # ".config/rofi/theme.rasi".source = ./dotfiles/rofi/theme.rasi;
-    # ".config/rofi/background.jpg".source = ./dotfiles/rofi/background.jpg;
-
-    ".config/hypr/wallpaper.png".source = ./assets/a10.png;
     ".local/share/openspades".source = ./dotfiles/openspades;
 
     ".config/quickshell".source = config.lib.file.mkOutOfStoreSymlink "${config.xdg.configHome}/home-manager/dotfiles/quickshell";
@@ -152,7 +148,6 @@ in
     HISTCONTROL = "erasedups";
     EDITOR = "hx";
     BROWSER = "zen";
-    TERMINAL = "alacritty";
   };
 
   # Let Home Manager install and manage itself.
@@ -165,26 +160,6 @@ in
 
   home.sessionVariables = {
     STEAM_EXTRA_COMPAT_TOOLS_PATHS = "\${HOME}/.steam/root/compatibilitytools.d";
-  };
-
-  programs.alacritty = {
-    enable = true;
-    settings = {
-      window = {
-        dynamic_padding = true;
-      	opacity = 0.8;
-      };
-      font = {
-        normal.family = "SFMono Nerd Font";
-        bold.family = "SFMono Nerd Font";
-        italic.family = "SFMono Nerd Font";
-        bold_italic.family = "SFMono Nerd Font";
-        size = 12;
-      };
-      general = {
-        live_config_reload = true;
-      };
-    };
   };
 
   programs.sioyek = {
