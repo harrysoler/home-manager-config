@@ -26,6 +26,7 @@ in
 {
   imports = [
     ./modules/hyprland.nix
+    ./modules/rofi.nix
   ];
 
   nixpkgs.config.allowUnfree = true;
@@ -113,8 +114,8 @@ in
 
     ".config/satty".source = ./dotfiles/satty;
 
-    ".config/rofi/theme.rasi".source = ./dotfiles/rofi/theme.rasi;
-    ".config/rofi/background.jpg".source = ./dotfiles/rofi/background.jpg;
+    # ".config/rofi/theme.rasi".source = ./dotfiles/rofi/theme.rasi;
+    # ".config/rofi/background.jpg".source = ./dotfiles/rofi/background.jpg;
 
     ".config/hypr/wallpaper.png".source = ./assets/a10.png;
     ".local/share/openspades".source = ./dotfiles/openspades;
@@ -185,7 +186,7 @@ in
     };
     font = {
       name = "Adwaita Sans";
-      package = pkgs-unstable.adwaita-fonts;
+      package = pkgs.adwaita-fonts;
     };
     iconTheme = {
       name = "kora";
@@ -235,20 +236,6 @@ in
       colors = {
         alpha = 0.8;
       };
-    };
-  };
-
-  programs.rofi = {
-    enable = true;
-    font = "SpaceMono Nerd Font 12";
-    theme = "./theme.rasi";
-    extraConfig = {
-      display-combi = "";
-      combi-display-format = "{text}";
-      modes = "drun,run,ssh,combi";
-      show-icons = true;
-      combi-modes = "drun,run";
-      terminal = "alacritty";
     };
   };
 
