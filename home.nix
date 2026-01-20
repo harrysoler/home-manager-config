@@ -1,11 +1,7 @@
 { inputs, config, pkgs, pkgs-unstable, lib, ... }:
 
 let
-  adwaita-slim-dark-gtk-theme = import ./pkgs/adwaita-slim-dark-gtk-theme.nix { inherit pkgs; };
   customTmuxPlugins = import ./pkgs/custom-tmux-plugins.nix { inherit pkgs; };
-
-  cursorTheme = "Bibata-Modern-Ice";
-  cursorSize = 20;
 
   mimeAssociations = {
     "application/pdf" = "sioyek.desktop";
@@ -27,7 +23,13 @@ in
   imports = [
     ./modules/hyprland.nix
     ./modules/rofi.nix
+    ./modules/theme.nix
   ];
+
+  hyprland = {
+    cursorTheme = config.theme.cursorTheme;
+    cursorSize = config.theme.cursorSize;
+  };
 
   nixpkgs.config.allowUnfree = true;
   home.username = "harry";
@@ -36,9 +38,9 @@ in
   home.stateVersion = "24.11";
 
   home.packages = [
-    pkgs.nerd-fonts.space-mono
-    inputs.apple-fonts.packages.${pkgs.system}.sf-mono-nerd
-    pkgs.hanken-grotesk
+    # pkgs.nerd-fonts.space-mono
+    # inputs.apple-fonts.packages.${pkgs.system}.sf-mono-nerd
+    # pkgs.hanken-grotesk
     pkgs.cozette
     pkgs.font-manager
 
@@ -148,8 +150,6 @@ in
 
   home.sessionVariables = {
     HISTCONTROL = "erasedups";
-    HYPRCURSOR_THEME = cursorTheme;
-    HYPRCURSOR_SIZE = cursorSize;
     EDITOR = "hx";
     BROWSER = "zen";
     TERMINAL = "alacritty";
@@ -160,43 +160,11 @@ in
 
   services.udiskie.enable = true;
 
+  # discoverable fonts
   fonts.fontconfig.enable = true;
 
   home.sessionVariables = {
     STEAM_EXTRA_COMPAT_TOOLS_PATHS = "\${HOME}/.steam/root/compatibilitytools.d";
-  };
-
-  home.pointerCursor = {
-    gtk.enable = true;
-    name = cursorTheme;
-    package = pkgs.bibata-cursors;
-    size = cursorSize;
-  };
-
-  gtk = {
-    enable = true;
-    theme = {
-      name = "Adwaita-Slim-Dark";
-      package = adwaita-slim-dark-gtk-theme;
-    };
-    cursorTheme = {
-      name = cursorTheme;
-      package = pkgs.bibata-cursors;
-      size = cursorSize;
-    };
-    font = {
-      name = "Adwaita Sans";
-      package = pkgs.adwaita-fonts;
-    };
-    iconTheme = {
-      name = "kora";
-      package = pkgs.kora-icon-theme;
-    };
-  };
-
-  qt = {
-    enable = true;
-    platformTheme.name = "qtct";
   };
 
   programs.alacritty = {
