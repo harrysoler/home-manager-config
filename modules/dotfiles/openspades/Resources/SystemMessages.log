@@ -1,0 +1,771 @@
+2025/04/21 13:54:11 [Main.cpp:324] Package: OpenSpades 0.1.3
+2025/04/21 13:54:11 [DirectoryFileSystem.cpp:45] Directory File System Initialized: ./Resources (Read-only)
+2025/04/21 13:54:11 [DirectoryFileSystem.cpp:45] Directory File System Initialized: /usr/share/openspades/Resources (Read-only)
+2025/04/21 13:54:11 [Main.cpp:400] XDG_DATA_HOME is /home/harry/.local/share
+2025/04/21 13:54:11 [DirectoryFileSystem.cpp:45] Directory File System Initialized: /home/harry/.local/share/openspades/Resources (Read/Write)
+2025/04/21 13:54:11 [Main.cpp:454] Log Started.
+2025/04/21 13:54:11 [FltkPreferenceImporter.cpp:82] Checking for legacy preference file: /home/harry/.fltk/yvt.jp/OpenSpades.prefs
+2025/04/21 13:54:11 [FltkPreferenceImporter.cpp:86] Legacy preference file wasn't found.
+2025/04/21 13:54:11 [Settings.cpp:65] Loading preferences from SPConfig.cfg
+2025/04/21 13:54:11 [Settings.cpp:69] SPConfig.cfg found.
+2025/04/21 13:54:11 [Main.cpp:463] ---- CPU Information ----
+2025/04/21 13:54:11 [Main.cpp:464] Vendor ID: GenuntelineI
+2025/04/21 13:54:11 [Main.cpp:465] Brand ID: Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz
+2025/04/21 13:54:11 [Main.cpp:466] Supports MMX: YES
+2025/04/21 13:54:11 [Main.cpp:467] Supports SSE: YES
+2025/04/21 13:54:11 [Main.cpp:468] Supports SSE2: YES
+2025/04/21 13:54:11 [Main.cpp:469] Supports SSE3: YES
+2025/04/21 13:54:11 [Main.cpp:470] Supports SSSE3: YES
+2025/04/21 13:54:11 [Main.cpp:471] Supports FMA: YES
+2025/04/21 13:54:11 [Main.cpp:472] Supports AVX: YES
+2025/04/21 13:54:11 [Main.cpp:473] Supports AVX2: YES
+2025/04/21 13:54:11 [Main.cpp:474] Supports AVX512F: YES
+2025/04/21 13:54:11 [Main.cpp:476] Supports AVX512CD: YES
+2025/04/21 13:54:11 [Main.cpp:478] Supports AVX512ER: NO
+2025/04/21 13:54:11 [Main.cpp:480] Supports AVX512PF: NO
+2025/04/21 13:54:11 [Main.cpp:482] Simultaneous Multithreading: YES
+2025/04/21 13:54:11 [Main.cpp:484] Misc:
+2025/04/21 13:54:11 [Main.cpp:485] (none)
+2025/04/21 13:54:11 [Main.cpp:486] -------------------------
+2025/04/21 13:54:11 [DirectoryFileSystem.cpp:45] Directory File System Initialized: /usr/share/openspades/Resources (Read-only)
+2025/04/21 13:54:11 [PackageUpdateManager.cpp:324] Loading PackageInfo.json
+2025/04/21 13:54:11 [PackageUpdateManager.cpp:332] The package version is 0.1.3.4 (0.1.3)
+2025/04/21 13:54:11 [PackageUpdateManager.cpp:200] Update feed URL: http://openspades.yvt.jp/api/version.json
+2025/04/21 13:54:11 [PackageUpdateManager.cpp:207] Package target platform: SourceCode
+2025/04/21 13:54:11 [PackageUpdateManager.cpp:350] Update feed type: Standard
+2025/04/21 13:54:11 [PackageUpdateManager.cpp:358] Starting an automatic update check.
+2025/04/21 13:54:11 [PackageUpdateManager.cpp:408] Checking for update
+2025/04/21 13:54:11 [Main.cpp:559] Pak registered: pak000-Nonfree.pak: bca336c5
+2025/04/21 13:54:11 [Main.cpp:559] Pak registered: pak002-Base.pak: e5d7957a
+2025/04/21 13:54:11 [Main.cpp:559] Pak registered: pak005-Models.pak: 33cdf08c
+2025/04/21 13:54:11 [Main.cpp:559] Pak registered: pak010-BaseSkin.pak: 1196a9ef
+2025/04/21 13:54:11 [Main.cpp:559] Pak registered: pak050-Locales.pak: fab5361f
+2025/04/21 13:54:11 [Main.cpp:559] Pak registered: pak999-References.pak: 3845bf5c
+2025/04/21 13:54:11 [Main.cpp:543] Ignored loose file: NetLogs
+2025/04/21 13:54:11 [Main.cpp:543] Ignored loose file: PackageInfo.json
+2025/04/21 13:54:11 [Main.cpp:543] Ignored loose file: RifleAK.pak.bak
+2025/04/21 13:54:11 [Main.cpp:543] Ignored loose file: RifleAWP.pak.bak
+2025/04/21 13:54:11 [Main.cpp:543] Ignored loose file: RifleHALO.pak.bak
+2025/04/21 13:54:11 [Main.cpp:543] Ignored loose file: RifleSS.pak.bak
+2025/04/21 13:54:11 [Main.cpp:543] Ignored loose file: RifleUni
+2025/04/21 13:54:11 [Main.cpp:559] Pak registered: RifleUni.pak: 552ff3a1
+2025/04/21 13:54:11 [Main.cpp:543] Ignored loose file: SPConfig.cfg
+2025/04/21 13:54:11 [Main.cpp:543] Ignored loose file: SystemMessages.log
+2025/04/21 13:54:11 [Main.cpp:543] Ignored loose file: favorite_servers.json
+2025/04/21 13:54:11 [Main.cpp:559] Pak registered: font-unifont.pak: 9df0269f
+2025/04/21 13:54:11 [Main.cpp:575] Initializing localization system
+2025/04/21 13:54:11 [Strings.cpp:1218] Using the default locale. (domain='openspades')
+2025/04/21 13:54:11 [Main.cpp:583] Initializing script engine
+2025/04/21 13:54:11 [ScriptManager.cpp:80] Creating script engine
+2025/04/21 13:54:11 [ScriptManager.cpp:84] Configuring
+2025/04/21 13:54:11 [ScriptManager.cpp:88] Registering standard libray functions
+2025/04/21 13:54:11 [ScriptManager.cpp:99] Registering APIs
+2025/04/21 13:54:11 [ScriptManager.cpp:105] Loading scripts
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Main.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Base/Base.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Base/Utils.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Skin/Skin.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Skin/BasicViewWeapon.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Skin/Spade/ThirdPerson.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Skin/Spade/View.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Skin/Block/ThirdPerson.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Skin/Block/View.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Skin/Grenade/ThirdPerson.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Skin/Grenade/View.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Skin/Rifle/ThirdPerson.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Skin/Rifle/View.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Skin/SMG/ThirdPerson.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Skin/SMG/View.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Skin/Shotgun/ThirdPerson.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Skin/Shotgun/View.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/Gui.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/UIFramework/UIFramework.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/MessageBox.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/MainScreen/MainScreenUI.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/MainScreen/MainMenu.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/MainScreen/CreateProfileScreen.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/MainScreen/ServerList.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/MainScreen/CountryFlags.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/StartupScreen/StartupScreenUI.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/StartupScreen/MainMenu.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/StartupScreen/UpdateCheckView.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/UIFramework/UIControls.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/UIFramework/Button.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/UIFramework/Field.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/UIFramework/Label.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/UIFramework/ListView.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/UIFramework/ScrollBar.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/UIFramework/Slider.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/UIFramework/TabStrip.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/UIFramework/TextViewer.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/StartupScreen/ConfigViewTabs.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/StartupScreen/ConfigViewFramework.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/UIFramework/DropDownList.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/Preferences.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/Client/ClientUI.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/Client/Menu.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/Client/FieldWithHistory.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/Client/ChatLogWindow.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:71] Loading script '/Gui/Client/ChatSayWindow.as'
+2025/04/21 13:54:11 [ScriptManager.cpp:115] Building
+2025/04/21 13:54:12 [PackageUpdateManager.cpp:111] The latest available version is 0.1.3.4 (0.1.3).
+2025/04/21 13:54:13 [Main.cpp:605] Starting main screen
+2025/04/21 13:54:13 [SDLRunner.cpp:434] SDL Version: 2.30.9 SDL-2.30.9
+2025/04/21 13:54:13 [SDLGLDevice.cpp:122] starting SDLGLDevice
+2025/04/21 13:54:13 [SDLGLDevice.cpp:140] GLEW initialized
+2025/04/21 13:54:13 [SDLGLDevice.cpp:142] --- OpenGL Renderer Info ---
+2025/04/21 13:54:13 [SDLGLDevice.cpp:145] Vendor: Intel
+2025/04/21 13:54:13 [SDLGLDevice.cpp:148] Name: Mesa Intel(R) Iris(R) Plus Graphics (ICL GT1.5)
+2025/04/21 13:54:13 [SDLGLDevice.cpp:151] Version: 4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2
+2025/04/21 13:54:13 [SDLGLDevice.cpp:154] Shading Language Version: 4.60
+2025/04/21 13:54:13 [SDLGLDevice.cpp:156] --- Extensions ---
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_3DFX_texture_compression_FXT1
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_AMD_conservative_depth
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_AMD_depth_clamp_separate
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_AMD_draw_buffers_blend
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_AMD_multi_draw_indirect
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_AMD_performance_monitor
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_AMD_pinned_memory
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_AMD_query_buffer_object
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_AMD_seamless_cubemap_per_texture
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_AMD_shader_stencil_export
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_AMD_shader_trinary_minmax
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_AMD_texture_texture4
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_AMD_vertex_shader_layer
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_AMD_vertex_shader_viewport_index
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ANGLE_texture_compression_dxt3
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ANGLE_texture_compression_dxt5
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_APPLE_packed_pixels
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_ES2_compatibility
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_ES3_1_compatibility
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_ES3_2_compatibility
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_ES3_compatibility
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_arrays_of_arrays
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_base_instance
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_blend_func_extended
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_buffer_storage
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_clear_buffer_object
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_clear_texture
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_clip_control
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_color_buffer_float
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_compatibility
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_compressed_texture_pixel_storage
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_compute_shader
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_compute_variable_group_size
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_conditional_render_inverted
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_conservative_depth
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_copy_buffer
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_copy_image
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_cull_distance
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_debug_output
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_depth_buffer_float
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_depth_clamp
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_depth_texture
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_derivative_control
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_direct_state_access
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_draw_buffers
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_draw_buffers_blend
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_draw_elements_base_vertex
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_draw_indirect
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_draw_instanced
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_enhanced_layouts
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_explicit_attrib_location
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_explicit_uniform_location
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_fragment_coord_conventions
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_fragment_layer_viewport
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_fragment_program
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_fragment_program_shadow
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_fragment_shader
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_fragment_shader_interlock
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_framebuffer_no_attachments
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_framebuffer_object
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_framebuffer_sRGB
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_get_program_binary
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_get_texture_sub_image
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_gl_spirv
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_gpu_shader5
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_gpu_shader_fp64
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_gpu_shader_int64
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_half_float_pixel
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_half_float_vertex
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_indirect_parameters
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_instanced_arrays
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_internalformat_query
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_internalformat_query2
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_invalidate_subdata
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_map_buffer_alignment
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_map_buffer_range
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_multi_bind
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_multi_draw_indirect
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_multisample
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_multitexture
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_occlusion_query
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_occlusion_query2
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_parallel_shader_compile
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_pipeline_statistics_query
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_pixel_buffer_object
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_point_parameters
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_point_sprite
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_polygon_offset_clamp
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_post_depth_coverage
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_program_interface_query
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_provoking_vertex
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_query_buffer_object
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_robust_buffer_access_behavior
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_robustness
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_sample_shading
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_sampler_objects
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_seamless_cube_map
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_seamless_cubemap_per_texture
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_separate_shader_objects
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shader_atomic_counter_ops
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shader_atomic_counters
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shader_ballot
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shader_bit_encoding
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shader_clock
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shader_draw_parameters
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shader_group_vote
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shader_image_load_store
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shader_image_size
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shader_objects
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shader_precision
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shader_stencil_export
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shader_storage_buffer_object
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shader_subroutine
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shader_texture_image_samples
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shader_texture_lod
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shader_viewport_layer_array
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shading_language_100
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shading_language_420pack
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shading_language_include
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shading_language_packing
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_shadow
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_spirv_extensions
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_stencil_texturing
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_sync
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_tessellation_shader
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_barrier
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_border_clamp
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_buffer_object
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_buffer_object_rgb32
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_buffer_range
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_compression
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_compression_bptc
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_compression_rgtc
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_cube_map
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_cube_map_array
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_env_add
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_env_combine
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_env_crossbar
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_env_dot3
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_filter_anisotropic
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_float
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_gather
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_mirror_clamp_to_edge
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_mirrored_repeat
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_multisample
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_non_power_of_two
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_query_levels
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_query_lod
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_rectangle
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_rg
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_rgb10_a2ui
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_stencil8
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_storage
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_storage_multisample
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_swizzle
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_texture_view
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_timer_query
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_transform_feedback2
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_transform_feedback3
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_transform_feedback_instanced
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_transform_feedback_overflow_query
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_transpose_matrix
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_uniform_buffer_object
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_vertex_array_bgra
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_vertex_array_object
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_vertex_attrib_64bit
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_vertex_attrib_binding
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_vertex_buffer_object
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_vertex_program
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_vertex_shader
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_vertex_type_10f_11f_11f_rev
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_vertex_type_2_10_10_10_rev
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_viewport_array
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ARB_window_pos
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ATI_blend_equation_separate
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ATI_draw_buffers
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ATI_fragment_shader
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ATI_separate_stencil
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ATI_texture_compression_3dc
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ATI_texture_env_combine3
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_ATI_texture_float
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_EGL_image_storage
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_EGL_image_storage_compression
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_EGL_sync
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_abgr
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_bgra
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_blend_color
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_blend_equation_separate
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_blend_func_separate
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_blend_minmax
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_blend_subtract
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_compiled_vertex_array
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_copy_texture
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_debug_label
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_demote_to_helper_invocation
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_direct_state_access
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_draw_buffers2
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_draw_instanced
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_draw_range_elements
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_fog_coord
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_framebuffer_blit
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_framebuffer_multisample
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_framebuffer_multisample_blit_scaled
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_framebuffer_object
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_framebuffer_sRGB
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_gpu_program_parameters
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_gpu_shader4
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_memory_object
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_memory_object_fd
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_multi_draw_arrays
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_packed_depth_stencil
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_packed_float
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_packed_pixels
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_pixel_buffer_object
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_point_parameters
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_polygon_offset_clamp
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_provoking_vertex
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_rescale_normal
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_secondary_color
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_semaphore
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_semaphore_fd
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_separate_specular_color
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_shader_framebuffer_fetch
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_shader_framebuffer_fetch_non_coherent
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_shader_integer_mix
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_shader_samples_identical
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_shadow_funcs
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_stencil_two_side
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_stencil_wrap
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_subtexture
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture3D
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_array
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_buffer_object
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_compression_dxt1
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_compression_latc
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_compression_rgtc
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_compression_s3tc
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_cube_map
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_edge_clamp
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_env_add
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_env_combine
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_env_dot3
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_filter_anisotropic
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_integer
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_lod_bias
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_object
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_rectangle
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_sRGB
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_sRGB_R8
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_sRGB_decode
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_shadow_lod
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_shared_exponent
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_snorm
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_storage
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_texture_swizzle
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_timer_query
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_transform_feedback
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_vertex_array
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_vertex_array_bgra
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_EXT_vertex_attrib_64bit
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_IBM_multimode_draw_arrays
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_IBM_rasterpos_clip
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_IBM_texture_mirrored_repeat
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_INGR_blend_func_separate
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_INTEL_blackhole_render
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_INTEL_performance_query
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_INTEL_shader_atomic_float_minmax
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_INTEL_shader_integer_functions2
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_KHR_blend_equation_advanced
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_KHR_blend_equation_advanced_coherent
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_KHR_context_flush_control
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_KHR_debug
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_KHR_no_error
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_KHR_parallel_shader_compile
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_KHR_robust_buffer_access_behavior
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_KHR_robustness
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_KHR_texture_compression_astc_ldr
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_KHR_texture_compression_astc_sliced_3d
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_MESA_framebuffer_flip_y
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_MESA_pack_invert
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_MESA_shader_integer_functions
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_MESA_texture_const_bandwidth
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_MESA_texture_signed_rgba
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_MESA_window_pos
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_NV_ES1_1_compatibility
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_NV_alpha_to_coverage_dither_control
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_NV_blend_square
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_NV_compute_shader_derivatives
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_NV_conditional_render
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_NV_copy_image
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_NV_depth_clamp
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_NV_fog_distance
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_NV_fragment_shader_interlock
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_NV_half_float
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_NV_light_max_exponent
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_NV_packed_depth_stencil
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_NV_primitive_restart
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_NV_texgen_reflection
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_NV_texture_barrier
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_NV_texture_env_combine4
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_NV_texture_rectangle
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_OES_EGL_image
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_OES_read_format
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_S3_s3tc
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_SGIS_generate_mipmap
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_SGIS_texture_border_clamp
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_SGIS_texture_edge_clamp
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_SGIS_texture_lod
+2025/04/21 13:54:13 [SDLGLDevice.cpp:171] GL_SUN_multi_draw_arrays
+2025/04/21 13:54:13 [SDLGLDevice.cpp:183] ------------------
+2025/04/21 13:54:13 [SDLGLDevice.cpp:189] NOTICE: r_ignoreGLErrors is enabled. OpenGL error detection might not work correctly.
+2025/04/21 13:54:13 [GLRenderer.cpp:104] GLRenderer bootstrap
+2025/04/21 13:54:13 [GLFramebufferManager.cpp:68] Initializing framebuffer manager
+2025/04/21 13:54:13 [GLFramebufferManager.cpp:168] Creating Non-MSAA Buffer
+2025/04/21 13:54:13 [GLFramebufferManager.cpp:185] Depth Buffer Allocated
+2025/04/21 13:54:13 [GLFramebufferManager.cpp:235] Color Buffer Allocated
+2025/04/21 13:54:13 [GLFramebufferManager.cpp:253] Framebuffer Created
+2025/04/21 13:54:13 [GLFramebufferManager.cpp:285] Creating Mirror framebuffer
+2025/04/21 13:54:13 [GLFramebufferManager.cpp:291] Creating Mirror texture
+2025/04/21 13:54:13 [GLFramebufferManager.cpp:296] Color Buffer Allocated
+2025/04/21 13:54:13 [GLFramebufferManager.cpp:309] Creating Mirror depth texture
+2025/04/21 13:54:13 [GLFramebufferManager.cpp:316] Depth Buffer Allocated
+2025/04/21 13:54:13 [GLFramebufferManager.cpp:333] Mirror Framebuffer Created
+2025/04/21 13:54:13 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/BasicImage.program'
+2025/04/21 13:54:13 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/BasicImage.fs'
+2025/04/21 13:54:13 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/BasicImage.fs' in 3.588ms
+2025/04/21 13:54:13 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/BasicImage.vs'
+2025/04/21 13:54:13 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/BasicImage.vs' in 0.011ms
+2025/04/21 13:54:13 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/BasicImage.program' in 0.378ms
+2025/04/21 13:54:13 [GLRenderer.cpp:120] GLRenderer started
+2025/04/21 13:54:13 [ALFuncs.cpp:249] Linking with OpenAL library.
+2025/04/21 13:54:13 [ALFuncs.cpp:177] 'libopenal.so.1' loaded
+2025/04/21 13:54:13 [ALDevice.cpp:433] --- All devices ---
+2025/04/21 13:54:13 [ALDevice.cpp:436] Audio Interno Estéreo analógico
+2025/04/21 13:54:13 [ALDevice.cpp:439] -------------------
+2025/04/21 13:54:13 [ALDevice.cpp:441] --- Devices ---
+2025/04/21 13:54:13 [ALDevice.cpp:444] OpenAL Soft
+2025/04/21 13:54:13 [ALDevice.cpp:447] ---------------
+2025/04/21 13:54:13 [ALDevice.cpp:450] Default device: OpenAL Soft
+2025/04/21 13:54:13 [ALDevice.cpp:465] OpenAL Info:
+2025/04/21 13:54:13 [ALDevice.cpp:466]   Vendor: (null)
+2025/04/21 13:54:13 [ALDevice.cpp:467]   Version: (null)
+2025/04/21 13:54:13 [ALDevice.cpp:468]   Renderer: (null)
+2025/04/21 13:54:13 [ALDevice.cpp:472] OpenAL ALC Extensions:
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_ENUMERATE_ALL_EXT
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_ENUMERATION_EXT
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_EXT_CAPTURE
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_EXT_debug
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_EXT_DEDICATED
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_EXT_direct_context
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_EXT_disconnect
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_EXT_EFX
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_EXT_thread_local_context
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_SOFT_device_clock
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_SOFT_HRTF
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_SOFT_loopback
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_SOFT_loopback_bformat
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_SOFT_output_limiter
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_SOFT_output_mode
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_SOFT_pause_device
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_SOFT_reopen_device
+2025/04/21 13:54:13 [ALDevice.cpp:474]   ALC_SOFT_system_events
+2025/04/21 13:54:13 [ALDevice.cpp:493] EAX enabled
+2025/04/21 13:54:13 [ALDevice.cpp:515] 96 source(s) initialized
+2025/04/21 13:54:13 [Fonts.cpp:76] Font 'SquareFont (Large)' Loaded
+2025/04/21 13:54:13 [Fonts.cpp:38] Loading built-in fonts
+2025/04/21 13:54:13 [Fonts.cpp:44] Font 'Alte DIN 1451' loaded
+2025/04/21 13:54:13 [SDLRunner.cpp:193] Starting Client Loop
+2025/04/21 13:54:14 [GLRenderer.cpp:135] GLRenderer initializing for 3D rendering
+2025/04/21 13:54:14 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/SoftSprite.program'
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/SoftSprite.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/SoftSprite.fs' in 0.029ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/SoftSprite.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/SoftSprite.vs' in 0.027ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Fog.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Fog.vs' in 0.020ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/SoftSprite.program' in 2.508ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/LongSprite.program'
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/LongSprite.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/LongSprite.fs' in 0.039ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/LongSprite.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/LongSprite.vs' in 0.017ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Fog.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Fog.vs' in 0.012ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/LongSprite.program' in 1.019ms
+2025/04/21 13:54:14 [GLRenderer.cpp:148] Preloading Assets
+2025/04/21 13:54:14 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/BasicBlock.program'
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/BasicBlock.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/BasicBlock.fs' in 0.020ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/BasicBlock.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/BasicBlock.vs' in 0.019ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Shadow/Common.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Shadow/Common.fs' in 0.017ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Shadow/Common.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Shadow/Common.vs' in 0.012ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Shadow/Map.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Shadow/Map.fs' in 0.009ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Shadow/Map.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Shadow/Map.vs' in 0.009ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Shadow/ModelSparse.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Shadow/ModelSparse.fs' in 0.013ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Shadow/ModelSparse.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Shadow/ModelSparse.vs' in 0.013ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Shadow/MapRadiosityLow.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Shadow/MapRadiosityLow.fs' in 0.035ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Shadow/MapRadiosity.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Shadow/MapRadiosity.vs' in 0.030ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Fog.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Fog.vs' in 0.009ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/BasicBlock.program' in 1.963ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/BasicBlockDepthOnly.program'
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/BasicBlockDepthOnly.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/BasicBlockDepthOnly.fs' in 0.009ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/BasicBlockDepthOnly.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/BasicBlockDepthOnly.vs' in 0.008ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/BasicBlockDepthOnly.program' in 0.358ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/BasicBlockDynamicLit.program'
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/BasicBlockDynamicLit.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/BasicBlockDynamicLit.fs' in 0.009ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/BasicBlockDynamicLit.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/BasicBlockDynamicLit.vs' in 0.010ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/DynamicLight/Common.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/DynamicLight/Common.fs' in 0.010ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/DynamicLight/Common.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/DynamicLight/Common.vs' in 0.008ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/DynamicLight/MapNull.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/DynamicLight/MapNull.fs' in 0.015ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/DynamicLight/MapNull.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/DynamicLight/MapNull.vs' in 0.006ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Fog.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Fog.vs' in 0.007ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/BasicBlockDynamicLit.program' in 1.070ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/BackFaceBlock.program'
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/BackFaceBlock.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/BackFaceBlock.fs' in 0.008ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/BackFaceBlock.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/BackFaceBlock.vs' in 0.005ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/BackFaceBlock.program' in 0.325ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/VoxelModel.program'
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/VoxelModel.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/VoxelModel.fs' in 0.012ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/VoxelModel.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/VoxelModel.vs' in 0.009ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Fog.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Fog.vs' in 0.005ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/VoxelModel.program' in 1.376ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/VoxelModelDynamicLit.program'
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/VoxelModelDynamicLit.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/VoxelModelDynamicLit.fs' in 0.008ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/VoxelModelDynamicLit.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/VoxelModelDynamicLit.vs' in 0.007ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Fog.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Fog.vs' in 0.005ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/VoxelModelDynamicLit.program' in 0.895ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/VoxelModelShadowMap.program'
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/VoxelModelShadowMap.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/VoxelModelShadowMap.fs' in 0.006ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/VoxelModelShadowMap.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/VoxelModelShadowMap.vs' in 0.006ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/ShadowMap/Common.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/ShadowMap/Common.fs' in 0.009ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/ShadowMap/Common.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/ShadowMap/Common.vs' in 0.181ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/ShadowMap/Basic.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/ShadowMap/Basic.fs' in 0.011ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/ShadowMap/Basic.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/ShadowMap/Basic.vs' in 0.004ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/VoxelModelShadowMap.program' in 0.369ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/OptimizedVoxelModel.program'
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/OptimizedVoxelModel.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/OptimizedVoxelModel.fs' in 0.010ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/OptimizedVoxelModel.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/OptimizedVoxelModel.vs' in 0.008ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Fog.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Fog.vs' in 0.005ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/OptimizedVoxelModel.program' in 1.392ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/OptimizedVoxelModelDynamicLit.program'
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/OptimizedVoxelModelDynamicLit.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/OptimizedVoxelModelDynamicLit.fs' in 0.008ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/OptimizedVoxelModelDynamicLit.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/OptimizedVoxelModelDynamicLit.vs' in 0.007ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Fog.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Fog.vs' in 0.005ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/OptimizedVoxelModelDynamicLit.program' in 0.849ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/OptimizedVoxelModelShadowMap.program'
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/OptimizedVoxelModelShadowMap.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/OptimizedVoxelModelShadowMap.fs' in 0.005ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/OptimizedVoxelModelShadowMap.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/OptimizedVoxelModelShadowMap.vs' in 0.006ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Fog.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Fog.vs' in 0.005ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/OptimizedVoxelModelShadowMap.program' in 0.349ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/Water3.program'
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Water3.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Water3.fs' in 0.034ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Water3.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Water3.vs' in 0.009ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Shadow/CommonNoSSAO.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Shadow/CommonNoSSAO.fs' in 0.006ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Fog.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Fog.vs' in 0.005ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/PhysicalModel/CookTorrance.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/PhysicalModel/CookTorrance.fs' in 0.007ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/Water3.program' in 4.121ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/PostFilters/Lens.program'
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/PostFilters/Lens.fs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/PostFilters/Lens.fs' in 0.011ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/PostFilters/Lens.vs'
+2025/04/21 13:54:14 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/PostFilters/Lens.vs' in 0.008ms
+2025/04/21 13:54:14 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/PostFilters/Lens.program' in 0.579ms
+2025/04/21 13:54:14 [GLRenderer.cpp:192] GLRenderer initialized
+2025/04/21 13:54:14 [GLRenderer.cpp:288] New map loaded; freeing old renderers...
+2025/04/21 13:54:14 [GLRenderer.cpp:303] Creating new renderers...
+2025/04/21 13:54:14 [GLRenderer.cpp:305] Creating Terrain Shadow Map Renderer
+2025/04/21 13:54:14 [GLRenderer.cpp:307] Creating TerrainRenderer
+2025/04/21 13:54:14 [GLRenderer.cpp:309] Creating Minimap Renderer
+2025/04/21 13:54:14 [GLRenderer.cpp:311] Creating Water Renderer
+2025/04/21 13:54:14 [GLRenderer.cpp:315] Creating Ray-traced Ambient Occlusion Renderer
+2025/04/21 13:54:14 [GLAmbientShadowRenderer.cpp:84] Chunk buffer allocated (67289088 bytes)
+2025/04/21 13:54:14 [GLAmbientShadowRenderer.cpp:100] Chunk texture allocated
+2025/04/21 13:54:14 [GLAmbientShadowRenderer.cpp:110] Chunk texture initialized
+2025/04/21 13:54:14 [GLRenderer.cpp:317] Creating Relective Shadow Maps Renderer
+2025/04/21 13:54:14 [GLRadiosityRenderer.cpp:95] Chunk buffer allocated (268615680 bytes)
+2025/04/21 13:54:14 [GLRadiosityRenderer.cpp:124] Chunk texture allocated
+2025/04/21 13:54:14 [GLRadiosityRenderer.cpp:141] Chunk texture initialized
+2025/04/21 13:54:14 [GLRenderer.cpp:325] Created
+2025/04/21 13:54:14 [ConcurrentDispatch.cpp:271] Creating 8 dispatch thread(s)
+2025/04/21 13:54:14 [GLFramebufferManager.cpp:607] New GLColorBuffer requested (w = 1366, h = 768, ifmt = 0x0069)
+2025/04/21 13:54:14 [GLFramebufferManager.cpp:617] Texture allocated.
+2025/04/21 13:54:14 [GLFramebufferManager.cpp:631] Framebuffer created.
+2025/04/21 13:54:14 [GLFramebufferManager.cpp:607] New GLColorBuffer requested (w = 342, h = 192, ifmt = 0x0069)
+2025/04/21 13:54:14 [GLFramebufferManager.cpp:617] Texture allocated.
+2025/04/21 13:54:14 [GLFramebufferManager.cpp:631] Framebuffer created.
+2025/04/21 13:54:14 [GLFramebufferManager.cpp:607] New GLColorBuffer requested (w = 1366, h = 768, ifmt = 0x0062)
+2025/04/21 13:54:14 [GLFramebufferManager.cpp:617] Texture allocated.
+2025/04/21 13:54:14 [GLFramebufferManager.cpp:631] Framebuffer created.
+2025/04/21 13:54:15 [Client.cpp:112] Initializing...
+2025/04/21 13:54:15 [GLRenderer.cpp:288] New map loaded; freeing old renderers...
+2025/04/21 13:54:15 [GLRadiosityRenderer.cpp:150] Releasing textures
+2025/04/21 13:54:15 [GLRenderer.cpp:327] No map loaded
+2025/04/21 13:54:15 [Client.cpp:339] Mumble link failed
+2025/04/21 13:54:15 [Client.cpp:344] Started connecting to 'aos://3782433610:32000'
+2025/04/21 13:54:15 [NetClient.cpp:357] ENet initialized
+2025/04/21 13:54:15 [NetClient.cpp:360] ENet host created
+2025/04/21 13:54:15 [NetClient.cpp:368] ENet Range Coder Enabled
+2025/04/21 13:54:15 [NetClient.cpp:403] Using Ace of Spades 0.75 protocol
+2025/04/21 13:54:15 [NetClient.cpp:414] Connecting to 3782433610:32000
+2025/04/21 13:54:15 [Client.cpp:373] Netlog Started at 'NetLogs/20250421135415_3782433610_32000.log'
+2025/04/21 13:54:16 [NetClient.cpp:265] Packet 0x12 [len=5] 12 00 00 18 00
+2025/04/21 13:54:18 [NetClient.cpp:265] Packet 0x09 [len=24] 09 0a 01 01 01 0f 00 00 00 6f 6f 6f 43 6f 63 6b 20 47 6f 62 6c 69 6e 00
+2025/04/21 13:54:18 [NetClient.cpp:265] Packet 0x09 [len=25] 09 14 01 00 00 10 00 00 00 6f 6f 6f 53 61 75 6c 20 47 6f 6f 64 6d 61 6e 00
+2025/04/21 13:54:18 [NetClient.cpp:265] Packet 0x09 [len=24] 09 0e 00 01 00 08 00 00 00 6f 6f 6f 76 69 72 75 6c 65 6e 74 6f 33 34 00
+2025/04/21 13:54:18 [NetClient.cpp:265] Packet 0x09 [len=22] 09 00 00 01 01 27 00 00 00 de 06 03 4d 61 73 68 20 52 45 5a 41 00
+2025/04/21 13:54:18 [NetClient.cpp:265] Packet 0x09 [len=24] 09 02 01 00 00 0c 00 00 00 6f 6f 6f 61 6c 62 65 72 74 30 33 33 34 33 00
+2025/04/21 13:54:18 [NetClient.cpp:265] Packet 0x09 [len=16] 09 0b 00 00 02 05 00 00 00 7e 7e 7e 67 75 69 00
+2025/04/21 13:54:18 [NetClient.cpp:265] Packet 0x09 [len=19] 09 0c 00 01 01 0f 00 00 00 2a 53 4c 44 4f 52 41 44 4f 00
+2025/04/21 13:54:18 [NetClient.cpp:265] Packet 0x09 [len=21] 09 0f 01 01 02 39 00 00 00 a3 a3 a3 63 61 70 69 62 61 72 61 00
+2025/04/21 13:54:18 [NetClient.cpp:265] Packet 0x09 [len=19] 09 07 00 00 01 07 00 00 00 de 06 03 50 4f 50 5f 4f 53 00
+2025/04/21 13:54:18 [NetClient.cpp:265] Packet 0x09 [len=21] 09 05 00 01 03 06 00 00 00 de 06 03 76 69 76 69 61 6e 3c 33 00
+2025/04/21 13:54:18 [NetClient.cpp:265] Packet 0x09 [len=23] 09 11 01 00 02 0d 00 00 00 6f 6f 6f 6c 69 6c 6f 6e 67 75 65 74 69 00
+2025/04/21 13:54:18 [NetClient.cpp:265] Packet 0x09 [len=25] 09 04 01 01 01 01 00 00 00 ff e8 80 42 2d 37 20 5b 4c 56 20 2e 39 39 5d 00
+2025/04/21 13:54:18 [NetClient.cpp:265] Packet 0x09 [len=22] 09 03 01 01 02 02 00 00 00 6f 6f 6f 45 6c 75 63 69 64 61 74 65 00
+2025/04/21 13:54:18 [NetClient.cpp:265] Packet 0x09 [len=24] 09 01 00 01 01 00 00 00 00 5f 00 00 46 6c 61 74 48 6f 72 69 7a 6f 6e 00
+2025/04/21 13:54:18 [NetClient.cpp:265] Packet 0x09 [len=24] 09 08 00 00 02 03 00 00 00 6f 6f 6f 69 75 73 65 61 72 63 68 62 74 77 00
+2025/04/21 13:54:18 [NetClient.cpp:265] Packet 0x0f [len=84] 0f 06 ff e8 80 96 00 00 00 00 96 42 6c 75 65 00 00 00 00 00 00 52 65 64 00 00 00 00 00 00 00 00 02 01 0a 00 00 00 80 43 00 00 80 43 00 00 80 3f 00 00 80 43 00 00 80 43 00 00 80 3f 00 00 ec 42
+2025/04/21 13:54:18 [NetClient.cpp:1832] Map decoding succeeded.
+2025/04/21 13:54:18 [GameMapWrapper.cpp:101] 12.549 msecs to rebuild
+2025/04/21 13:54:18 [NetClient.cpp:1838] World initialized.
+2025/04/21 13:54:18 [Client.cpp:168] World set
+2025/04/21 13:54:18 [GLRenderer.cpp:288] New map loaded; freeing old renderers...
+2025/04/21 13:54:18 [GLRenderer.cpp:303] Creating new renderers...
+2025/04/21 13:54:18 [GLRenderer.cpp:305] Creating Terrain Shadow Map Renderer
+2025/04/21 13:54:18 [GLRenderer.cpp:307] Creating TerrainRenderer
+2025/04/21 13:54:18 [GLRenderer.cpp:309] Creating Minimap Renderer
+2025/04/21 13:54:18 [GLRenderer.cpp:311] Creating Water Renderer
+2025/04/21 13:54:18 [GLRenderer.cpp:315] Creating Ray-traced Ambient Occlusion Renderer
+2025/04/21 13:54:18 [GLAmbientShadowRenderer.cpp:84] Chunk buffer allocated (67289088 bytes)
+2025/04/21 13:54:18 [GLAmbientShadowRenderer.cpp:100] Chunk texture allocated
+2025/04/21 13:54:18 [GLAmbientShadowRenderer.cpp:110] Chunk texture initialized
+2025/04/21 13:54:18 [GLRenderer.cpp:317] Creating Relective Shadow Maps Renderer
+2025/04/21 13:54:18 [GLRadiosityRenderer.cpp:95] Chunk buffer allocated (268615680 bytes)
+2025/04/21 13:54:18 [GLRadiosityRenderer.cpp:124] Chunk texture allocated
+2025/04/21 13:54:18 [GLRadiosityRenderer.cpp:141] Chunk texture initialized
+2025/04/21 13:54:18 [GLRenderer.cpp:325] Created
+2025/04/21 13:54:18 [NetClient.cpp:1846] World loaded. Processing saved packets (15)...
+2025/04/21 13:54:18 [NetClient.cpp:1859] Done.
+2025/04/21 13:54:18 [NetClient.cpp:265] Packet 0x3c [len=6] 3c 02 e8 01 c0 01
+2025/04/21 13:54:18 [NetClient.cpp:1809] Sending hand shake back.
+2025/04/21 13:54:18 [NetClient.cpp:1821] Sending version back.
+2025/04/21 13:54:31 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/Basic.program'
+2025/04/21 13:54:31 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Basic.fs'
+2025/04/21 13:54:31 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Basic.fs' in 0.011ms
+2025/04/21 13:54:31 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/Basic.vs'
+2025/04/21 13:54:31 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/Basic.vs' in 0.005ms
+2025/04/21 13:54:31 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/Basic.program' in 0.433ms
+2025/04/21 13:55:22 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/PostFilters/Gauss1D.program'
+2025/04/21 13:55:22 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/PostFilters/Gauss1D.fs'
+2025/04/21 13:55:22 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/PostFilters/Gauss1D.fs' in 0.058ms
+2025/04/21 13:55:22 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/PostFilters/Gauss1D.vs'
+2025/04/21 13:55:22 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/PostFilters/Gauss1D.vs' in 0.014ms
+2025/04/21 13:55:22 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/PostFilters/Gauss1D.program' in 1.090ms
+2025/04/21 13:55:22 [GLFramebufferManager.cpp:607] New GLColorBuffer requested (w = 342, h = 192, ifmt = 0x0069)
+2025/04/21 13:55:22 [GLFramebufferManager.cpp:617] Texture allocated.
+2025/04/21 13:55:22 [GLFramebufferManager.cpp:631] Framebuffer created.
+2025/04/21 13:55:22 [GLProgramManager.cpp:87] Loading GLSL program 'Shaders/PostFilters/PassThrough.program'
+2025/04/21 13:55:22 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/PostFilters/PassThrough.fs'
+2025/04/21 13:55:22 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/PostFilters/PassThrough.fs' in 0.013ms
+2025/04/21 13:55:22 [GLProgramManager.cpp:147] Loading GLSL shader 'Shaders/PostFilters/PassThrough.vs'
+2025/04/21 13:55:22 [GLProgramManager.cpp:189] Successfully compiled GLSL program 'Shaders/PostFilters/PassThrough.vs' in 0.009ms
+2025/04/21 13:55:22 [GLProgramManager.cpp:138] Successfully linked GLSL program 'Shaders/PostFilters/PassThrough.program' in 0.568ms
+2025/04/21 14:11:21 [GLRenderer.cpp:288] New map loaded; freeing old renderers...
+2025/04/21 14:11:21 [GLRadiosityRenderer.cpp:150] Releasing textures
+2025/04/21 14:11:21 [GLRenderer.cpp:327] No map loaded
+2025/04/21 14:11:21 [Client.cpp:188] World removed
+2025/04/21 14:11:23 [NetClient.cpp:265] Packet 0x0f [len=84] 0f 06 ff e8 80 96 00 00 00 00 96 42 6c 75 65 00 00 00 00 00 00 52 65 64 00 00 00 00 00 00 00 00 00 00 0a 00 00 00 80 43 00 00 80 43 00 00 80 3f 00 00 80 43 00 00 80 43 00 00 80 3f 00 00 ec 42
+2025/04/21 14:11:23 [NetClient.cpp:1832] Map decoding succeeded.
+2025/04/21 14:11:23 [GameMapWrapper.cpp:101] 15.911 msecs to rebuild
+2025/04/21 14:11:23 [NetClient.cpp:1838] World initialized.
+2025/04/21 14:11:23 [Client.cpp:168] World set
+2025/04/21 14:11:23 [GLRenderer.cpp:288] New map loaded; freeing old renderers...
+2025/04/21 14:11:23 [GLRenderer.cpp:303] Creating new renderers...
+2025/04/21 14:11:23 [GLRenderer.cpp:305] Creating Terrain Shadow Map Renderer
+2025/04/21 14:11:23 [GLRenderer.cpp:307] Creating TerrainRenderer
+2025/04/21 14:11:23 [GLRenderer.cpp:309] Creating Minimap Renderer
+2025/04/21 14:11:23 [GLRenderer.cpp:311] Creating Water Renderer
+2025/04/21 14:11:23 [GLRenderer.cpp:315] Creating Ray-traced Ambient Occlusion Renderer
+2025/04/21 14:11:23 [GLAmbientShadowRenderer.cpp:84] Chunk buffer allocated (67289088 bytes)
+2025/04/21 14:11:23 [GLAmbientShadowRenderer.cpp:100] Chunk texture allocated
+2025/04/21 14:11:23 [GLAmbientShadowRenderer.cpp:110] Chunk texture initialized
+2025/04/21 14:11:23 [GLRenderer.cpp:317] Creating Relective Shadow Maps Renderer
+2025/04/21 14:11:23 [GLRadiosityRenderer.cpp:95] Chunk buffer allocated (268615680 bytes)
+2025/04/21 14:11:23 [GLRadiosityRenderer.cpp:124] Chunk texture allocated
+2025/04/21 14:11:24 [GLRadiosityRenderer.cpp:141] Chunk texture initialized
+2025/04/21 14:11:24 [GLRenderer.cpp:325] Created
+2025/04/21 14:11:24 [NetClient.cpp:1846] World loaded. Processing saved packets (0)...
+2025/04/21 14:11:24 [NetClient.cpp:1859] Done.
+2025/04/21 14:11:24 [NetClient.cpp:265] Packet 0x3c [len=6] 3c 02 e8 01 c0 01
+2025/04/21 14:35:28 [Client.cpp:208] Closing netlog
+2025/04/21 14:35:28 [Client.cpp:213] Disconnecting
+2025/04/21 14:35:28 [NetClient.cpp:443] Waiting for graceful disconnection
+2025/04/21 14:35:28 [NetClient.cpp:392] ENet host destroyed
+2025/04/21 14:35:28 [Client.cpp:218] Disconnected
+2025/04/21 14:35:28 [GLRenderer.cpp:288] New map loaded; freeing old renderers...
+2025/04/21 14:35:28 [GLRadiosityRenderer.cpp:150] Releasing textures
+2025/04/21 14:35:28 [GLRenderer.cpp:327] No map loaded
+2025/04/21 14:35:28 [SDLRunner.cpp:221] Close requested by Client
+2025/04/21 14:35:28 [SDLRunner.cpp:302] Leaving Client Loop
+2025/04/21 14:35:28 [Settings.cpp:277] Saving preference to SPConfig.cfg
+2025/04/21 14:35:28 [Settings.cpp:183] Saving preferences to SPConfig.cfg

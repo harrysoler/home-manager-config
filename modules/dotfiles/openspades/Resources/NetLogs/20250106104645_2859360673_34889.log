@@ -1,0 +1,52 @@
+Mon Jan  6 10:46:51 2025 ------ World Loaded ------
+Mon Jan  6 10:46:51 2025 Use /free to find unclaimed sector to build, and teleport there with /gt
+Mon Jan  6 10:46:53 2025 Welcome to BUILD EMPIRE
+Mon Jan  6 10:46:53 2025 You logged in as player
+Mon Jan  6 10:46:57 2025  Harry teleported to F1
+Mon Jan  6 10:49:16 2025  To fly, type /f, jump and press Ctrl repeatedly
+Mon Jan  6 10:52:16 2025  To fly, type /f, jump and press Ctrl repeatedly
+Mon Jan  6 10:52:45 2025 level9999999999 joined Spiders team
+Mon Jan  6 10:52:48 2025 Player level9999999999 has left
+Mon Jan  6 10:55:16 2025  Use /color <r> <g> <b> or /color <#aabbcc> to get specific color
+Mon Jan  6 10:58:09 2025 Unknown command
+Mon Jan  6 10:58:11 2025 Unknown command
+Mon Jan  6 10:58:14 2025 Do /register to be able to /claim a sector and protect your builds
+Mon Jan  6 10:58:16 2025 Use /free to find unclaimed sector to build, and teleport there with /gt
+Mon Jan  6 10:58:16 2025  Name your sector with /title
+Mon Jan  6 10:58:18 2025 /commands Prints all available commands
+Mon Jan  6 10:58:20 2025 /help <command_name> Gives description and usage info for a command
+Mon Jan  6 10:58:21 2025 /time Tell you the current time limit
+Mon Jan  6 10:58:22 2025 /help Prints this message
+Mon Jan  6 10:58:23 2025 /streak Tell your current kill streak
+Mon Jan  6 10:58:25 2025 /ping Tell your current ping (time for your actions to be received by the server)
+Mon Jan  6 10:58:27 2025 /rules Show you the server rules
+Mon Jan  6 10:58:29 2025 /commands Print all available commands
+Mon Jan  6 10:58:31 2025 /help Gives description and usage info for a command
+Mon Jan  6 10:58:33 2025 /mapname Tell you what's the name of the current map
+Mon Jan  6 10:58:35 2025 /showrotation Tell you the current map rotation
+Mon Jan  6 10:58:37 2025 /client Tell you information about your client or the client of a given player
+Mon Jan  6 10:58:39 2025 /weapon Tell you what weapon a given player is using
+Mon Jan  6 10:58:41 2025 /intel Inform you of who has the enemy intel
+Mon Jan  6 10:58:43 2025 /kill Kill yourself or a given player
+Mon Jan  6 10:58:45 2025 /deaf Make you or a given player no longer receive chat messages
+Mon Jan  6 10:58:47 2025 /server Tell you the name of this server and its aos:// URI
+Mon Jan  6 10:58:49 2025 /version Tell you this server's piqueserver version
+Mon Jan  6 10:58:52 2025 /scripts Tell you which scripts are enabled on this server currently
+Mon Jan  6 10:58:53 2025 /login Log in if you're registered on the server
+Mon Jan  6 10:58:55 2025 /pm Send a private message to a given player
+Mon Jan  6 10:58:57 2025 /admin Send a message to all admins currently online
+Mon Jan  6 10:58:59 2025 /s Select area
+Mon Jan  6 10:59:01 2025 /unsel Remove selection
+Mon Jan  6 10:59:03 2025 /expand Expand selection in given direction or in the direction player is looking at
+Mon Jan  6 10:59:05 2025 /contract Contract selection in given direction or in the direction player is looking at
+Mon Jan  6 10:59:07 2025 /set Fill selection with blocks
+Mon Jan  6 10:59:09 2025 /re Replace player-held color in selection
+Mon Jan  6 10:59:11 2025 /fill Replace empty space in selection
+Mon Jan  6 10:59:13 2025 /repaint Replace all solid (non-empty) blocks in selection
+Mon Jan  6 10:59:15 2025 /hue /hue <value>
+Mon Jan  6 10:59:17 2025 /hueshift /hueshift <value>
+Mon Jan  6 10:59:20 2025 /brightness /brightness <value>
+Mon Jan  6 10:59:20 2025 Unknown command
+Mon Jan  6 10:59:21 2025 /lighten /lighten <value>
+Mon Jan  6 10:59:23 2025 /darken /darken <value>
+Mon Jan  6 10:59:24 2025 Disconnecting

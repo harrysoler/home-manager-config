@@ -25,6 +25,7 @@ in
     ./modules/quickshell.nix
     ./modules/alacritty.nix
     ./modules/tmux.nix
+    ./modules/games.nix
   ];
 
   hyprland = {
@@ -82,28 +83,6 @@ in
     pkgs-unstable.dbgate
     pkgs.arduino-ide
     pkgs.xh
-
-    pkgs.openspades
-    pkgs.doomrunner
-    pkgs.gzdoom
-    pkgs.protonup-ng
-
-    pkgs.duckstation
-    (pkgs.retroarch.withCores (cores: with cores; [
-      mame
-      fbneo
-      snes9x
-      swanstation
-      mesen
-    ]))
-    # pkgs.clonehero
-    (pkgs.clonehero.overrideAttrs (previousAttrs: {
-      version = "1.1.0.4261-PTB";
-      src = pkgs.fetchurl {
-        url = "https://github.com/clonehero-game/releases/releases/download/v1.1.0.4261-PTB/clonehero-linux.tar.xz";
-        hash = "sha256-Yfbd8TqTZ0IYxMIY5TmsxTfD/Bz/anV0dgP1v13ders=";
-      };
-    }))
   ];
 
   # Home Manager is pretty good at managing dotfiles. The primary way to manage
@@ -112,10 +91,6 @@ in
     ".config/nvim".source = config.lib.file.mkOutOfStoreSymlink "/home/harry/.config/home-manager/dotfiles/nvim";
 
     ".config/satty".source = ./dotfiles/satty;
-
-    ".local/share/openspades".source = ./dotfiles/openspades;
-
-    ".config/gzdoom/gzdoom.ini".source = ./dotfiles/gzdoom/gzdoom.ini;
   };
 
   programs.bash = {

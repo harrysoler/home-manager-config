@@ -1,0 +1,29 @@
+Wed Jun 26 22:27:43 2024 ------ World Loaded ------
+Wed Jun 26 22:27:43 2024 Welcome to aloha.pk tower of babel
+Wed Jun 26 22:27:43 2024 dmi joined Red team
+Wed Jun 26 22:27:44 2024 Map: Leaves 2 by Lostmotel
+Wed Jun 26 22:27:45 2024 herobrine joined Blue team
+Wed Jun 26 22:27:46 2024 Game mode: babel
+Wed Jun 26 22:27:48 2024 Build a tower to get the enemy's intel. Take it to your team's tent to win!
+Wed Jun 26 22:27:50 2024 Visit our community forum at https://aloha.pk/
+Wed Jun 26 22:27:52 2024 Come chat with us at https://discord.aloha.pk/
+Wed Jun 26 22:27:54 2024  Type /HELP for info & commands
+Wed Jun 26 22:27:56 2024 frecel (Blue) [Fall]
+Wed Jun 26 22:27:58 2024 Harry (Red) [Headshot] DEMMONIOSS (Blue)
+Wed Jun 26 22:28:00 2024 [Global] frecel (Blue): lol 2.0
+Wed Jun 26 22:28:00 2024 DEMMONIOSS (Blue) [Weapon Change]
+Wed Jun 26 22:28:13 2024 ElHarry (Red) [Headshot] frecel (Blue)
+Wed Jun 26 22:28:22 2024 herobrine (Blue) [Headshot] ElHarry (Red)
+Wed Jun 26 22:29:14 2024 ------ World Unloaded ------
+Wed Jun 26 22:29:14 2024 Disconnected because of error:
+Disconnected: Unknown Reason
+at /tmp/openspades-1902958381911645150/openspades/src/openspades-0.1.3/Sources/Client/NetClient.cpp:498
+void spades::client::NetClient::DoEvents(int) at NetClient.cpp:477
+virtual void spades::client::Client::RunFrame(float) at Client.cpp:380
+virtual void spades::gui::MainScreen::RunFrame(float) at MainScreen.cpp:232
+void spades::gui::SDLRunner::Run(int, int) at SDLRunner.cpp:427
+void spades::gui::Runner::Run() at Runner.cpp:70
+void spades::gui::Runner::RunProtected() at Runner.cpp:42
+int main(int, char**) at Main.cpp:312
+
+Wed Jun 26 22:29:14 2024 Disconnecting

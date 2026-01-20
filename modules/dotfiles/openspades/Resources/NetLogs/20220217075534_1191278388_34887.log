@@ -1,0 +1,72 @@
+Thu Feb 17 07:56:16 2022 ------ World Loaded ------
+Thu Feb 17 07:56:16 2022 rembou (Red) [Headshot] karin (Blue)
+Thu Feb 17 07:56:16 2022 bartek (Red) [SMG] Deuce2 (Blue)
+Thu Feb 17 07:56:16 2022 bartek (Red) [SMG] Sr.Sam525 (Blue)
+Thu Feb 17 07:56:16 2022 Zubumaffu (Blue) [Rifle] bartek (Red)
+Thu Feb 17 07:56:16 2022 ←←←←y← (Blue) [Headshot] rembou (Red)
+Thu Feb 17 07:56:16 2022 MarxGamer*:* (Blue) [Headshot] pxy (Red)
+Thu Feb 17 07:56:16 2022 Lovemarch (Red) [Rifle] Zubumaffu (Blue)
+Thu Feb 17 07:56:16 2022 Foxy (Blue) [Headshot] sago (Red)
+Thu Feb 17 07:56:16 2022 Stalenin (Red) [Headshot] Sr.Sam525 (Blue)
+Thu Feb 17 07:56:16 2022 MarxGamer*:* (Blue) [Rifle] Lovemarch (Red)
+Thu Feb 17 07:56:16 2022 ←←←←y← (Blue) [Headshot] Stalenin (Red)
+Thu Feb 17 07:56:16 2022 777 (Red) [SMG] karin (Blue)
+Thu Feb 17 07:56:16 2022 bot (Red) [Headshot] ked (Blue)
+Thu Feb 17 07:56:16 2022 Deuce2 (Blue) [Fall]
+Thu Feb 17 07:56:16 2022 MarxGamer*:* (Blue) [Fall]
+Thu Feb 17 07:56:16 2022 Deuce2 (Blue) [Headshot] bot (Red)
+Thu Feb 17 07:56:16 2022 777 (Red) [Headshot] Sr.Sam525 (Blue)
+Thu Feb 17 07:56:16 2022 ked (Blue) [Team Change]
+Thu Feb 17 07:56:16 2022 777 (Red) [SMG] vok0 (Blue)
+Thu Feb 17 07:56:16 2022 pxy (Red) [Grenade] Foxy (Blue)
+Thu Feb 17 07:56:16 2022 Deuce2 (Blue) [Fall]
+Thu Feb 17 07:56:16 2022 karin (Blue) [Headshot] 777 (Red)
+Thu Feb 17 07:56:16 2022 ked joined Red team
+Thu Feb 17 07:56:16 2022 Welcome to aloha.pk tower of babel
+Thu Feb 17 07:56:18 2022 Map: yukon by Lostmotel, urr, Nope - -
+Thu Feb 17 07:56:19 2022 Game mode: Tower of Babel by Yourself, modified by izzy
+Thu Feb 17 07:56:22 2022 Player nope has left
+Thu Feb 17 07:56:22 2022 Build a tower to get the enemy's intel. Take it to your team's tent to win!
+Thu Feb 17 07:56:23 2022 Visit our community forums at https://aloha.pk/
+Thu Feb 17 07:56:25 2022 Come chat with us at https://discord.aloha.pk/
+Thu Feb 17 07:56:31 2022 [Global] karin (Blue): ya lo mate
+Thu Feb 17 07:56:33 2022 Stalenin (Red) [SMG] Zubumaffu (Blue)
+Thu Feb 17 07:56:34 2022  Visit our community forums at https://aloha.pk/
+Thu Feb 17 07:56:35 2022 rembou (Red) [Headshot] ←←←←y← (Blue)
+Thu Feb 17 07:56:39 2022 Stalenin (Red) [SMG] MarxGamer*:* (Blue)
+Thu Feb 17 07:56:41 2022 Lovemarch (Red) [Headshot] Zubumaffu (Blue)
+Thu Feb 17 07:56:46 2022 Player MarxGamer*:* has left
+Thu Feb 17 07:56:46 2022 rembou (Red) [SMG] karin (Blue)
+Thu Feb 17 07:56:46 2022 pxy (Red) [Headshot] Harry (Blue)
+Thu Feb 17 07:56:46 2022 vok0 (Blue) [SMG]
+Thu Feb 17 07:56:46 2022 Player Zubumaffu has left
+Thu Feb 17 07:56:46 2022 Lovemarch (Red) [Headshot] Foxy (Blue)
+Thu Feb 17 07:56:46 2022 [Global] karin (Blue): aqua
+Thu Feb 17 07:56:51 2022 sago (Red) [Fall]
+Thu Feb 17 07:56:52 2022 Lovemarch (Red) [Headshot] ←←←←y← (Blue)
+Thu Feb 17 07:56:58 2022 rembou (Red) [SMG] karin (Blue)
+Thu Feb 17 07:56:58 2022 Stalenin (Red) [Headshot] Harry (Blue)
+Thu Feb 17 07:57:03 2022 Lovemarch (Red) [Headshot] karin (Blue)
+Thu Feb 17 07:57:03 2022  Sr.Sam525 has a kill-death ratio of 0.00 (0 kills, 15 deaths, 0.00 kills per minute).
+Thu Feb 17 07:57:03 2022  Deuce2 started a VOTEKICK against Sr.Sam525. Say /Y to agree
+Thu Feb 17 07:57:03 2022  Reason: griefer
+Thu Feb 17 07:57:03 2022 ked (Red) [Weapon Change]
+Thu Feb 17 07:57:04 2022 [Global] karin (Blue): aqua aqua
+Thu Feb 17 07:57:04 2022  Come chat with us at https://discord.aloha.pk/
+Thu Feb 17 07:57:04 2022 rembou (Red) [Headshot] Foxy (Blue)
+Thu Feb 17 07:57:12 2022 ←←←←y← (Blue) [Headshot] rembou (Red)
+Thu Feb 17 07:57:15 2022 Lovemarch (Red) [Headshot] Foxy (Blue)
+Thu Feb 17 07:57:16 2022 [Global] karin (Blue): me matan muchas veses
+Thu Feb 17 07:57:45 2022 ------ World Unloaded ------
+Thu Feb 17 07:57:45 2022 Disconnected because of error:
+Disconnected: Unknown Reason
+at /home/harry/.cache/yay/openspades/src/openspades-0.1.3/Sources/Client/NetClient.cpp:498
+void spades::client::NetClient::DoEvents(int) at NetClient.cpp:477
+virtual void spades::client::Client::RunFrame(float) at Client.cpp:380
+virtual void spades::gui::MainScreen::RunFrame(float) at MainScreen.cpp:232
+void spades::gui::SDLRunner::Run(int, int) at SDLRunner.cpp:427
+void spades::gui::Runner::Run() at Runner.cpp:70
+void spades::gui::Runner::RunProtected() at Runner.cpp:42
+int main(int, char**) at Main.cpp:312
+
+Thu Feb 17 07:57:45 2022 Disconnecting

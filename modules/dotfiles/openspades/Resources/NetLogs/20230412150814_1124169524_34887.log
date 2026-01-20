@@ -1,0 +1,40 @@
+Wed Apr 12 15:08:22 2023 ------ World Loaded ------
+Wed Apr 12 15:08:22 2023 Disconnected because of error:
+File not found: Gfx/SmallCircle.png
+at /home/harry/.cache/yay/openspades/src/openspades-0.1.3/Sources/Core/FileManager.cpp:52
+static spades::IStream* spades::FileManager::OpenForReading(const char*) at FileManager.cpp:33
+spades::draw::GLImage* spades::draw::GLImageManager::CreateImage(const string&) at GLImageManager.cpp:72
+spades::draw::GLImage* spades::draw::GLImageManager::RegisterImage(const string&) at GLImageManager.cpp:50
+virtual spades::client::IImage* spades::draw::GLRenderer::RegisterImage(const char*) at GLRenderer.cpp:245
+void spades::ScriptContextUtils::ExecuteChecked() at ScriptManager.cpp:338
+void spades::ScriptContextHandle::ExecuteChecked() at ScriptManager.cpp:277
+spades::client::ClientPlayer::ClientPlayer(spades::client::Player*, spades::client::Client*) at ClientPlayer.cpp:205
+void spades::client::World::SetPlayer(int, spades::client::Player*) at World.cpp:170
+void spades::client::NetClient::HandleGamePacket(spades::client::NetPacketReader&) at NetClient.cpp:791
+void spades::client::NetClient::MapLoaded() at NetClient.cpp:1826
+void spades::client::NetClient::DoEvents(int) at NetClient.cpp:477
+virtual void spades::client::Client::RunFrame(float) at Client.cpp:380
+virtual void spades::gui::MainScreen::RunFrame(float) at MainScreen.cpp:232
+void spades::gui::SDLRunner::Run(int, int) at SDLRunner.cpp:427
+void spades::gui::Runner::Run() at Runner.cpp:70
+void spades::gui::Runner::RunProtected() at Runner.cpp:42
+int main(int, char**) at Main.cpp:312
+ @ [/Skin/Rifle/View.as:184,4] spades::ViewRifleSkin::ViewRifleSkin(spades::Renderer@, spades::AudioDevice@)
+ > [/Skin/Rifle/View.as:0,0] spades::ViewRifleSkin@ ViewRifleSkin(spades::Renderer@, spades::AudioDevice@)
+ > [/Skin/Rifle/View.as:633,3] spades::IWeaponSkin@ spades::CreateViewRifleSkin(spades::Renderer@, spades::AudioDevice@)
+at /home/harry/.cache/yay/openspades/src/openspades-0.1.3/Sources/ScriptBindings/ScriptManager.cpp:361
+void spades::ScriptContextUtils::ExecuteChecked() at ScriptManager.cpp:338
+void spades::ScriptContextHandle::ExecuteChecked() at ScriptManager.cpp:277
+spades::client::ClientPlayer::ClientPlayer(spades::client::Player*, spades::client::Client*) at ClientPlayer.cpp:205
+void spades::client::World::SetPlayer(int, spades::client::Player*) at World.cpp:170
+void spades::client::NetClient::HandleGamePacket(spades::client::NetPacketReader&) at NetClient.cpp:791
+void spades::client::NetClient::MapLoaded() at NetClient.cpp:1826
+void spades::client::NetClient::DoEvents(int) at NetClient.cpp:477
+virtual void spades::client::Client::RunFrame(float) at Client.cpp:380
+virtual void spades::gui::MainScreen::RunFrame(float) at MainScreen.cpp:232
+void spades::gui::SDLRunner::Run(int, int) at SDLRunner.cpp:427
+void spades::gui::Runner::Run() at Runner.cpp:70
+void spades::gui::Runner::RunProtected() at Runner.cpp:42
+int main(int, char**) at Main.cpp:312
+
+Wed Apr 12 15:08:22 2023 Disconnecting

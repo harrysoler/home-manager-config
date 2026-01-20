@@ -1,0 +1,193 @@
+Fri Nov 17 23:23:49 2023 ------ World Loaded ------
+Fri Nov 17 23:23:49 2023 Welcome to server de harry
+Fri Nov 17 23:23:51 2023 Map: BloodGulch by MissionCo
+Fri Nov 17 23:23:53 2023 Game mode: ctf
+Fri Nov 17 23:23:55 2023 Server powered by piqueserver and buildandshoot.com
+Fri Nov 17 23:24:28 2023 supervisordepaz joined Blue team
+Fri Nov 17 23:24:32 2023 supervisordepaz (Blue) [Team Change]
+Fri Nov 17 23:24:37 2023 supervisordepaz joined Green team
+Fri Nov 17 23:24:52 2023 [Global] Harry (Blue): bienvenidos amigos
+Fri Nov 17 23:24:56 2023 supervisordepaz (Green) [Headshot] Harry (Blue)
+Fri Nov 17 23:25:05 2023 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Fri Nov 17 23:25:05 2023 New release available: v1.1.1-post2 (Jul 03 2023): https://git.io/fjIDk
+Fri Nov 17 23:25:05 2023 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Fri Nov 17 23:25:05 2023 You logged in as admin
+Fri Nov 17 23:25:09 2023 [Global] supervisordepaz (Green): amigos o enemigos?
+Fri Nov 17 23:25:11 2023 Usage: /move [player] <sector> or /move [player] <x> <y> <z>
+Fri Nov 17 23:25:11 2023 Wrong number of parameters!
+Fri Nov 17 23:25:26 2023 Usage: /move [player] <sector> or /move [player] <x> <y> <z>
+Fri Nov 17 23:25:26 2023 invalid data length
+Fri Nov 17 23:25:34 2023 Usage: /move [player] <sector> or /move [player] <x> <y> <z>
+Fri Nov 17 23:25:34 2023 You can't do that: moving other players requires the move_others right
+Fri Nov 17 23:26:25 2023 Usage: /fog red green blue (all values 0-255)
+Fri Nov 17 23:26:25 2023 Neither RGB or hex code provided
+Fri Nov 17 23:26:40 2023 [Global] Harry (Blue): doom
+Fri Nov 17 23:26:46 2023 Usage: /fog red green blue (all values 0-255)
+Fri Nov 17 23:26:46 2023 Neither RGB or hex code provided
+Fri Nov 17 23:26:50 2023 Fog color changed successfully
+Fri Nov 17 23:26:57 2023 Harry (Blue) [Melee] supervisordepaz (Green)
+Fri Nov 17 23:27:03 2023 Fog color changed successfully
+Fri Nov 17 23:27:10 2023 [Global] supervisordepaz (Green): modo infenus
+Fri Nov 17 23:27:12 2023 Fog color changed successfully
+Fri Nov 17 23:27:15 2023 Fog color changed successfully
+Fri Nov 17 23:27:18 2023 Fog color changed successfully
+Fri Nov 17 23:27:23 2023 Fog color changed successfully
+Fri Nov 17 23:27:31 2023 [Global] Harry (Blue): jaja voy a hacer el humo de goldeneye
+Fri Nov 17 23:27:35 2023 Fog color changed successfully
+Fri Nov 17 23:27:37 2023 [Global] supervisordepaz (Green): y por que cambia los cololes
+Fri Nov 17 23:27:40 2023 [Global] supervisordepaz (Green): colores
+Fri Nov 17 23:27:54 2023 [Global] supervisordepaz (Green): pero esto es de facility
+Fri Nov 17 23:27:58 2023 supervisordepaz (Green) [Headshot] Harry (Blue)
+Fri Nov 17 23:27:59 2023 [Global] Harry (Blue): jajaja
+Fri Nov 17 23:28:12 2023 supervisordepaz (Green) [Headshot] Harry (Blue)
+Fri Nov 17 23:28:16 2023 [Global] supervisordepaz (Green): r 
+Fri Nov 17 23:28:33 2023  Type /help for info & commands
+Fri Nov 17 23:28:34 2023 Harry (Blue) [Headshot] supervisordepaz (Green)
+Fri Nov 17 23:28:42 2023 [Global] supervisordepaz (Green): pongalo doom
+Fri Nov 17 23:28:43 2023 Fog color changed successfully
+Fri Nov 17 23:28:47 2023 Fog color changed successfully
+Fri Nov 17 23:28:54 2023 [Global] supervisordepaz (Green): eso cielo sangre
+Fri Nov 17 23:29:00 2023 Fog color changed successfully
+Fri Nov 17 23:29:04 2023 Fog color changed successfully
+Fri Nov 17 23:29:12 2023 supervisordepaz (Green) [Headshot] Harry (Blue)
+Fri Nov 17 23:29:17 2023 Fog color changed successfully
+Fri Nov 17 23:29:20 2023 [Global] supervisordepaz (Green): }
+Fri Nov 17 23:29:33 2023 [Global] supervisordepaz (Green): porque cambia constantemnete
+Fri Nov 17 23:29:36 2023 Harry (Blue) [Headshot] supervisordepaz (Green)
+Fri Nov 17 23:29:39 2023 Fog color changed successfully
+Fri Nov 17 23:29:45 2023 [Global] Harry (Blue): porque tengo el poder
+Fri Nov 17 23:29:54 2023 [Global] supervisordepaz (Green): PONGALO DOOOM
+Fri Nov 17 23:29:59 2023 Fog color changed successfully
+Fri Nov 17 23:30:13 2023 supervisordepaz (Green) [Rifle] Harry (Blue)
+Fri Nov 17 23:30:24 2023 [Global] supervisordepaz (Green): nadie tiene ventaja
+Fri Nov 17 23:30:37 2023 supervisordepaz (Green) [Headshot] Harry (Blue)
+Fri Nov 17 23:30:48 2023 Usage: /teleport [player] <target player>
+Fri Nov 17 23:30:48 2023 Invalid number of arguments
+Fri Nov 17 23:30:58 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:31:00 2023 supervisordepaz (Green) [Headshot] Harry (Blue)
+Fri Nov 17 23:31:02 2023 supervisordepaz picked up Blue's Intel.
+Fri Nov 17 23:31:06 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:31:08 2023 supervisordepaz dropped Blue's Intel
+Fri Nov 17 23:31:08 2023 Harry (Blue) [Headshot] supervisordepaz (Green)
+Fri Nov 17 23:31:08 2023 [Global] supervisordepaz (Green): le gane
+Fri Nov 17 23:31:11 2023 [Global] supervisordepaz (Green): verga
+Fri Nov 17 23:31:25 2023 [Global] Harry (Blue): debio apuntar a la cabeza
+Fri Nov 17 23:31:50 2023 [Global] Harry (Blue): ****activar vision nocturna***
+Fri Nov 17 23:31:56 2023 Fog color changed successfully
+Fri Nov 17 23:31:59 2023 [Global] supervisordepaz (Green): como es eso
+Fri Nov 17 23:32:04 2023 supervisordepaz (Green) [Headshot] Harry (Blue)
+Fri Nov 17 23:32:16 2023 [Global] supervisordepaz (Green): ass
+Fri Nov 17 23:32:17 2023 Harry (Blue) [Headshot] supervisordepaz (Green)
+Fri Nov 17 23:32:27 2023 [Global] supervisordepaz (Green):    /kill harry
+Fri Nov 17 23:32:30 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:32:34 2023 supervisordepaz (Green) [Headshot] Harry (Blue)
+Fri Nov 17 23:32:35 2023 supervisordepaz picked up Blue's Intel.
+Fri Nov 17 23:32:39 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:32:41 2023 supervisordepaz (Green) [Headshot] Harry (Blue)
+Fri Nov 17 23:32:58 2023 Usage: /kill [target]
+Fri Nov 17 23:32:58 2023 Invalid number of arguments
+Fri Nov 17 23:33:00 2023 supervisordepaz dropped Blue's Intel
+Fri Nov 17 23:33:00 2023 Harry (Blue) [Headshot] supervisordepaz (Green)
+Fri Nov 17 23:33:13 2023 [Global] supervisordepaz (Green): cometio un delita de lesa humanidad
+Fri Nov 17 23:33:20 2023 supervisordepaz (Green) [Rifle]
+Fri Nov 17 23:33:20 2023  Harry killed supervisordepaz
+Fri Nov 17 23:33:22 2023 [Global] supervisordepaz (Green): mato a un supervidor
+Fri Nov 17 23:33:33 2023 [Global] Harry (Blue): le dio un infarto
+Fri Nov 17 23:33:33 2023  You are playing ctf on server de harry
+Fri Nov 17 23:33:44 2023 [Global] supervisordepaz (Green): tiene la deadnote
+Fri Nov 17 23:33:48 2023 [Global] Harry (Blue): si
+Fri Nov 17 23:33:54 2023 Fog color changed successfully
+Fri Nov 17 23:33:56 2023 [Global] supervisordepaz (Green):  /kill all
+Fri Nov 17 23:34:01 2023 Usage: /kill [target]
+Fri Nov 17 23:34:01 2023 Invalid Player
+Fri Nov 17 23:34:17 2023 [Global] supervisordepaz (Green):  pongase neutral
+Fri Nov 17 23:34:26 2023 Harry (Blue) [Team Change]
+Fri Nov 17 23:34:38 2023 [Global] supervisordepaz (Green): no lo veo
+Fri Nov 17 23:34:46 2023 [Global] Harry (): soy neutral
+Fri Nov 17 23:34:58 2023 [Global] supervisordepaz (Green): modo intangible
+Fri Nov 17 23:35:04 2023 [Global] supervisordepaz (Green): no lo veo
+Fri Nov 17 23:35:05 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:35:13 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:35:15 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:35:16 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:35:18 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:35:37 2023  Harry teleported Harry to supervisordepaz
+Fri Nov 17 23:35:42 2023  Harry teleported Harry to supervisordepaz
+Fri Nov 17 23:35:45 2023  Harry teleported Harry to supervisordepaz
+Fri Nov 17 23:35:46 2023 supervisordepaz (Green) [Headshot] Harry (Blue)
+Fri Nov 17 23:35:46 2023  Harry teleported Harry to supervisordepaz
+Fri Nov 17 23:35:51 2023  Harry teleported Harry to supervisordepaz
+Fri Nov 17 23:35:53 2023 supervisordepaz (Green) [Headshot] Harry (Blue)
+Fri Nov 17 23:35:59 2023  Harry teleported Harry to supervisordepaz
+Fri Nov 17 23:36:06 2023  Harry teleported Harry to supervisordepaz
+Fri Nov 17 23:36:09 2023 supervisordepaz (Green) [Headshot] Harry (Blue)
+Fri Nov 17 23:36:13 2023 [Global] supervisordepaz (Green): nooooo
+Fri Nov 17 23:36:18 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:36:22 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:36:25 2023 Harry (Blue) [Headshot] supervisordepaz (Green)
+Fri Nov 17 23:36:28 2023 [Global] supervisordepaz (Green): nooooooo
+Fri Nov 17 23:36:41 2023 [Global] supervisordepaz (Green): ilegal cheats
+Fri Nov 17 23:37:20 2023 supervisordepaz (Green) [Headshot] Harry (Blue)
+Fri Nov 17 23:37:20 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:37:26 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:37:27 2023 Harry (Blue) [Headshot] supervisordepaz (Green)
+Fri Nov 17 23:37:30 2023 [Global] supervisordepaz (Green): nooooooooooo
+Fri Nov 17 23:37:32 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:37:33 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:37:37 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:37:41 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:37:47 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:37:51 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:37:52 2023 Harry (Blue) [Headshot] supervisordepaz (Green)
+Fri Nov 17 23:37:58 2023 [Global] supervisordepaz (Green): mucha mlp
+Fri Nov 17 23:38:06 2023 [Global] Harry (Blue): el poder
+Fri Nov 17 23:38:14 2023 [Global] supervisordepaz (Green): lo esta corrompiendo
+Fri Nov 17 23:38:17 2023 [Global] Harry (Blue): bn me aburri de mi poder
+Fri Nov 17 23:38:19 2023 [Global] Harry (Blue): adminpass
+Fri Nov 17 23:38:30 2023 [Global] Harry (Blue): adminpass
+Fri Nov 17 23:38:33 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:38:33 2023  You are playing ctf on server de harry
+Fri Nov 17 23:38:40 2023 supervisordepaz (Green) [Headshot] Harry (Blue)
+Fri Nov 17 23:38:50 2023 Unknown command
+Fri Nov 17 23:38:54 2023  supervisordepaz teleported to Harry
+Fri Nov 17 23:39:03 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:39:04 2023 Harry (Blue) [Headshot] supervisordepaz (Green)
+Fri Nov 17 23:39:19 2023 [Global] supervisordepaz (Green):  /god
+Fri Nov 17 23:39:22 2023  Harry entered GOD MODE!
+Fri Nov 17 23:39:26 2023 [Global] Harry (Blue): no mame!
+Fri Nov 17 23:39:37 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:39:38 2023  Harry, killing in god mode is forbidden!
+Fri Nov 17 23:39:38 2023  Harry returned to being a mere human.
+Fri Nov 17 23:39:38 2023 Harry (Blue) [Headshot] supervisordepaz (Green)
+Fri Nov 17 23:39:46 2023 [Global] supervisordepaz (Green): que le desbloquea?
+Fri Nov 17 23:39:50 2023 [Global] Harry (Blue): modo dios
+Fri Nov 17 23:39:58 2023 [Global] Harry (Blue): pero si mato me lo quita
+Fri Nov 17 23:40:00 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:40:04 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:40:08 2023  Harry entered GOD MODE!
+Fri Nov 17 23:40:13 2023  Harry, killing in god mode is forbidden!
+Fri Nov 17 23:40:13 2023  Harry returned to being a mere human.
+Fri Nov 17 23:40:13 2023 Harry (Blue) [Headshot] supervisordepaz (Green)
+Fri Nov 17 23:40:35 2023 [Global] supervisordepaz (Green): me mata
+Fri Nov 17 23:40:42 2023  Harry entered GOD MODE!
+Fri Nov 17 23:40:43 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:40:53 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:40:55 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:41:00 2023  Harry teleported supervisordepaz to Harry
+Fri Nov 17 23:41:03 2023 [Global] supervisordepaz (Green): oe y como se vuela 
+Fri Nov 17 23:41:07 2023 You're now flying
+Fri Nov 17 23:41:22 2023 [Global] Harry (Blue): nose
+Fri Nov 17 23:41:34 2023 You're no longer flying
+Fri Nov 17 23:41:35 2023 You're now flying
+Fri Nov 17 23:41:41 2023 [Global] supervisordepaz (Green):   /kill all
+Fri Nov 17 23:41:51 2023 [Global] supervisordepaz (Green):   /aura
+Fri Nov 17 23:41:51 2023 You're no longer flying
+Fri Nov 17 23:41:53 2023 Unknown command
+Fri Nov 17 23:41:56 2023 Server name: server de harry
+Fri Nov 17 23:41:58 2023 Map: BloodGulch by MissionCo
+Fri Nov 17 23:42:00 2023 Game mode: ctf
+Fri Nov 17 23:42:02 2023 /commands Prints all available commands
+Fri Nov 17 23:42:04 2023 /help <command_name> Gives description and usage info for a command
+Fri Nov 17 23:42:06 2023 /help Prints this message
+Fri Nov 17 23:42:15 2023 [Global] Harry (Blue): de que mas se podra abrir server?
+Fri Nov 17 23:42:27 2023 [Global] supervisordepaz (Green): doom 
