@@ -22,6 +22,7 @@ in
     ./modules/hyprland.nix
     ./modules/theme.nix
     ./modules/rofi.nix
+    ./modules/quickshell.nix
     ./modules/alacritty.nix
     ./modules/tmux.nix
   ];
@@ -61,9 +62,6 @@ in
     pkgs.tree
     pkgs.libqalculate
     pkgs.nmgui
-
-    inputs.quickshell.packages.${pkgs.system}.default
-    pkgs.material-symbols
 
     inputs.zen-browser.packages.${pkgs.system}.beta
     pkgs.ungoogled-chromium
@@ -116,8 +114,6 @@ in
     ".config/satty".source = ./dotfiles/satty;
 
     ".local/share/openspades".source = ./dotfiles/openspades;
-
-    ".config/quickshell".source = config.lib.file.mkOutOfStoreSymlink "${config.xdg.configHome}/home-manager/dotfiles/quickshell";
 
     ".config/gzdoom/gzdoom.ini".source = ./dotfiles/gzdoom/gzdoom.ini;
   };
