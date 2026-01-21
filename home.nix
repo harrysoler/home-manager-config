@@ -21,7 +21,8 @@ in
   imports = [
     ./modules/bash.nix
     ./modules/wayland.nix
-    ./modules/hyprland.nix
+    # ./modules/hyprland.nix
+    ./modules/sway.nix
     ./modules/theme.nix
     ./modules/rofi.nix
     ./modules/quickshell.nix
@@ -34,10 +35,10 @@ in
 
   wayland.mimeAssociations = mimeAssociations;
 
-  hyprland = {
-    cursorTheme = config.theme.cursorTheme;
-    cursorSize = config.theme.cursorSize;
-  };
+  # hyprland = {
+  #   cursorTheme = config.theme.cursorTheme;
+  #   cursorSize = config.theme.cursorSize;
+  # };
 
   nixpkgs.config.allowUnfree = true;
   home.username = "harry";

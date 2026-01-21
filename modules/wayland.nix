@@ -10,6 +10,7 @@
       pkgs.wl-clipboard
       # clipboard history
       pkgs.clipse
+      pkgs.gammastep
 
       # to take screenshots
       pkgs.slurp
@@ -24,14 +25,6 @@
     };
 
     xdg = {
-      portal = {
-        enable = true;
-        extraPortals = with pkgs; [
-          xdg-desktop-portal-wlr
-          xdg-desktop-portal-gtk
-        ];
-        xdgOpenUsePortal = true;
-      };
       mimeApps = {
         enable = true;
         defaultApplications = config.wayland.mimeAssociations;
