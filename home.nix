@@ -57,7 +57,7 @@ in
     pkgs.nix-search-tv
     pkgs.tree
     pkgs.libqalculate
-    pkgs.nmgui
+    pkgs.fsearch
 
     inputs.zen-browser.packages.${pkgs.system}.beta
     pkgs.ungoogled-chromium
