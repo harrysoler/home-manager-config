@@ -13,7 +13,8 @@
     shellAliases = {
       hms = "home-manager switch";
       cddata = "cd /media/data/";
-      cddocente = "cd /media/data/docente/";
+      cdteach = "cd /media/data/teach";
+      cdlife = "cd /home/harry/life";
       cddev = "cd /home/harry/dev/";
       ns = "nix-search-tv print | fzf --preview 'nix-search-tv preview {}' --scheme history";
     };
