@@ -60,7 +60,7 @@ in
     pkgs.fsearch
 
     inputs.zen-browser.packages.${pkgs.system}.beta
-    pkgs.ungoogled-chromium
+    pkgs.firefox
     pkgs.thunderbird
     pkgs.pcmanfm
     pkgs.libreoffice-still
