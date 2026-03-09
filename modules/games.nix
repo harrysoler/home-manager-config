@@ -1,9 +1,9 @@
-{ pkgs, ... }:
+{ pkgs, pkgs-unstable, ... }:
 {
   home.packages = [
     pkgs.openspades
     pkgs.doomrunner
-    pkgs.gzdoom
+    pkgs-unstable.uzdoom
 
     pkgs.duckstation
     (pkgs.retroarch.withCores (cores: with cores; [
