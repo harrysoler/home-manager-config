@@ -73,6 +73,7 @@ in
     pkgs.rnote
     pkgs.imv
     pkgs.mpv
+    pkgs.beeref
 
     pkgs-unstable.yaak
     pkgs-unstable.dbgate
