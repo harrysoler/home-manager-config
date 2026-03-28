@@ -127,6 +127,11 @@ in
     };
   };
 
+  programs.radicle = {
+    enable = true;
+    settings.node.alias = "harryalex";
+  };
+
   programs.neovim = {
     enable = true;
     extraPackages = with pkgs; [
