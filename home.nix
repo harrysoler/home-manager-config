@@ -53,11 +53,11 @@ in
     pkgs.font-manager
 
     pkgs.pavucontrol
-    pkgs.unzip
     pkgs.nix-search-tv
     pkgs.tree
     pkgs.libqalculate
     pkgs.fsearch
+    pkgs.unar
 
     inputs.zen-browser.packages.${pkgs.system}.beta
     pkgs.firefox
