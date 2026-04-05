@@ -12,6 +12,7 @@
       snes9x
       swanstation
       mesen
+      genesis-plus-gx
     ]))
     # pkgs.clonehero
     (pkgs.clonehero.overrideAttrs (previousAttrs: {
