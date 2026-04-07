@@ -4,6 +4,8 @@
     pkgs.openspades
     pkgs.doomrunner
     pkgs-unstable.uzdoom
+    pkgs-unstable.lutris-free
+    pkgs.protonup-rs
 
     pkgs.duckstation
     (pkgs.retroarch.withCores (cores: with cores; [
