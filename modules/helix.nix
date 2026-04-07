@@ -49,6 +49,7 @@
     settings = {
   	  theme = "nord";
   	  editor = {
+  	    rulers = [ 80 ];
         lsp.auto-signature-help = false;
         inline-diagnostics = {
           cursor-line = "hint";
