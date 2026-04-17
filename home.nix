@@ -59,6 +59,7 @@ in
     pkgs.unar
 
     inputs.zen-browser.packages.${pkgs.system}.beta
+    pkgs.qbittorrent
     pkgs.firefox
     pkgs.thunderbird
     pkgs.pcmanfm
