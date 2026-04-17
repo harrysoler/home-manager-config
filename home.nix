@@ -76,7 +76,7 @@ in
     pkgs.beeref
 
     pkgs-unstable.yaak
-    pkgs-unstable.dbgate
+    pkgs.harlequin
     pkgs.arduino-ide
     pkgs.xh
   ];
