@@ -50,6 +50,7 @@ in
     # pkgs.nerd-fonts.space-mono
     # pkgs.hanken-grotesk
     pkgs.cozette
+    pkgs.hanken-grotesk
     pkgs.font-manager
 
     pkgs.pavucontrol
