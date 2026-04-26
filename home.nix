@@ -77,7 +77,7 @@ in
     pkgs.beeref
 
     pkgs-unstable.yaak
-    pkgs.harlequin
+    pkgs.lazysql
     pkgs.arduino-ide
     pkgs.xh
   ];
