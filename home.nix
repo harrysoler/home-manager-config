@@ -23,6 +23,7 @@ in
     ./modules/wayland.nix
     ./modules/hyprland.nix
     # ./modules/sway.nix
+    ./modules/gnome.nix
     ./modules/theme.nix
     ./modules/rofi.nix
     ./modules/quickshell.nix
