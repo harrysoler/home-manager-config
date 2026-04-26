@@ -59,6 +59,7 @@ in
     pkgs.tree
     pkgs.libqalculate
     pkgs.unar
+    pkgs.btop
 
     inputs.zen-browser.packages.${pkgs.system}.beta
     pkgs.qbittorrent
