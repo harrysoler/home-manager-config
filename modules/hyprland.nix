@@ -113,6 +113,9 @@
           "9, monitor:HDMI-A-1"
           "10, monitor:HDMI-A-1"
         ];
+        monitor = [
+          "eDP-1,1920x1080@60,0x0,1.2"
+        ];
         "$mainMod" = "WIN";
         bind = [
           "$mainMod SHIFT, M, exit,"
