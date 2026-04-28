@@ -1,5 +1,12 @@
 { inputs, pkgs, ... }:
+let
+  theme = ".config/alacritty/themes/campbell.toml";
+in
 {
+  home.file = {
+    "${theme}".source = ../modules/dotfiles/alacritty/themes/campbell.toml;
+  };
+
   home.packages = [
     inputs.apple-fonts.packages.${pkgs.system}.sf-mono-nerd
   ];
@@ -13,7 +20,7 @@
     settings = {
       window = {
         dynamic_padding = true;
-      	opacity = 0.8;
+      	opacity = 0.9;
       };
       font = {
         normal.family = "SFMono Nerd Font";
@@ -24,6 +31,9 @@
       };
       general = {
         live_config_reload = true;
+        import = [
+          "~/${theme}"
+        ];
       };
     };
   };
