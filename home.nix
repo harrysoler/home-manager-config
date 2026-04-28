@@ -59,7 +59,7 @@ in
     pkgs.tree
     pkgs.libqalculate
     pkgs.unar
-    pkgs.btop
+    pkgs.btop-cuda
 
     inputs.zen-browser.packages.${pkgs.system}.beta
     pkgs.qbittorrent
@@ -90,6 +90,11 @@ in
 
   home.sessionVariables = {
     BROWSER = "zen";
+  };
+
+  xdg.portal = {
+    enable = true;
+    extraPortals = [ pkgs.xdg-desktop-portal-gtk ]; 
   };
 
   programs.home-manager.enable = true;
