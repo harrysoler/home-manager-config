@@ -11,6 +11,14 @@
   };
 
   config = {
+    xdg.portal = {
+      enable = true;
+      extraPortals = [
+        pkgs.xdg-desktop-portal-gtk
+        pkgs.xdg-desktop-portal-hyprland
+      ]; 
+    };
+
     home.packages = [
       pkgs.hyprpicker
       pkgs.playerctl
@@ -19,6 +27,7 @@
     home.sessionVariables = {
       HYPRCURSOR_THEME = config.hyprland.cursorTheme;
       HYPRCURSOR_SIZE = config.hyprland.cursorSize;
+      GDK_SCALE = 1.2;
     };
 
     home.file = {
@@ -87,7 +96,7 @@
         input = {
           kb_model="pc104awide";
           kb_layout = "us";
-          kb_variant = ",colemak_dh_wide";
+          kb_variant = "altgr-intl,colemak_dh_wide";
           kb_options = "grp:win_space_toggle,misc:extend,lv5:caps_switch_lock,compose:menu";
           repeat_delay = 200;
           repeat_rate = 40;
@@ -101,6 +110,9 @@
 
           "bordercolor rgba(7AF77FAA), pinned:1"
         ];
+        xwayland = {
+          force_zero_scaling = true;
+        };
         workspace = [
           "1, monitor:eDP-1"
           "2, monitor:eDP-1"
