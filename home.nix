@@ -63,7 +63,7 @@ in
 
     inputs.zen-browser.packages.${pkgs.system}.beta
     pkgs.qbittorrent
-    pkgs.firefox
+    pkgs.ungoogled-chromium
     pkgs.thunderbird
     pkgs.pcmanfm
     pkgs.libreoffice-still
