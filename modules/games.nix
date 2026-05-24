@@ -1,4 +1,4 @@
-{ config, pkgs, pkgs-unstable, ... }:
+{ pkgs, lib, pkgs-unstable, ... }:
 {
   home.packages = [
     pkgs.protonup-rs 
@@ -38,8 +38,8 @@
   ];
 
   home.file = {
-    ".local/share/openspades".source = config.lib.file.mkOutOfStoreSymlink ./dotfiles/openspades;
-    ".config/gzdoom/gzdoom.ini".source = ./dotfiles/gzdoom/gzdoom.ini;
+    ".local/share/openspades/Resources/RifleUni.pak".source = ./dotfiles/openspades/Resources/RifleUni.pak;
+    # ".config/gzdoom/gzdoom.ini".source = ./dotfiles/gzdoom/gzdoom.ini;
   };
 
   programs.mangohud = {
@@ -68,7 +68,7 @@
       fps_limit_method = "late";
       toggle_fps_limit = "Shift_L+F1";
 
-      fps_limit = 60;
+      # fps_limit = 60;
       fps_color_change = true;
       fps_color = "B22222,FDFD09,39F900";
       fps_value = "30,60";
