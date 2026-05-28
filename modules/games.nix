@@ -1,8 +1,9 @@
-{ pkgs, lib, pkgs-unstable, ... }:
+{ pkgs, lib, pkgs-unstable, inputs, ... }:
 {
   home.packages = [
     pkgs.protonup-rs 
 
+    inputs.zerospades.packages.${pkgs.stdenv.hostPlatform.system}.zerospades
     pkgs.openspades
     pkgs.doomrunner
     pkgs-unstable.uzdoom
@@ -37,8 +38,21 @@
     pkgs.gamescope-wsi
   ];
 
+  xdg.desktopEntries."zerospades" = {
+    name = "ZeroSpades";
+    exec = "env __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia gamescope -w 1920 -h 1080 -r 60 -- zerospades %U";
+    terminal = false;
+    categories = [ "ActionGame" "Game" ];
+    mimeType = [ "x-scheme-handler/aos" ];
+    icon = "zerospades";
+    genericName = "Sandbox building and FPS videogame";
+    comment = "Open-source clone of Ace of Spades";
+    type = "Application";
+  };
+
   home.file = {
-    ".local/share/openspades/Resources/RifleUni.pak".source = ./dotfiles/openspades/Resources/RifleUni.pak;
+    ".local/share/openspades/Resources/RifleUni.pak.bak".source = ./dotfiles/openspades/Resources/RifleUni.pak.bak;
+    ".local/share/openspades/Resources/SPConfig.cfg".source = ./dotfiles/openspades/Resources/SPConfig.cfg;
     # ".config/gzdoom/gzdoom.ini".source = ./dotfiles/gzdoom/gzdoom.ini;
   };
 
