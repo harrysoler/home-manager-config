@@ -8,7 +8,7 @@ in
   };
 
   home.packages = [
-    inputs.apple-fonts.packages.${pkgs.system}.sf-mono-nerd
+    inputs.apple-fonts.packages.${pkgs.stdenv.hostPlatform.system}.sf-mono-nerd
   ];
 
   home.sessionVariables = {

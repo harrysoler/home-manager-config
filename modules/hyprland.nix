@@ -43,7 +43,7 @@
           "${pkgs.wl-clip-persist}/bin/wl-clip-persist --clipboard regular"
           "${pkgs.avizo}/bin/avizo-service"
           "${pkgs.gammastep}/bin/gammastep -l 5.526096748847994:-73.36712121379337 -t 6500:3500"
-          "${inputs.quickshell.packages.${pkgs.system}.default}/bin/quickshell"
+          "${inputs.quickshell.packages.${pkgs.stdenv.hostPlatform.system}.default}/bin/quickshell"
         ];
         general = {
           gaps_in = 2;

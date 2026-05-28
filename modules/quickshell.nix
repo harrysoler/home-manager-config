@@ -1,7 +1,7 @@
 { inputs, pkgs, ... }:
 {
   home.packages = [
-    inputs.quickshell.packages.${pkgs.system}.default
+    inputs.quickshell.packages.${pkgs.stdenv.hostPlatform.system}.default
     pkgs.material-symbols
   ];
 

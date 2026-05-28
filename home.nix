@@ -61,7 +61,7 @@ in
     pkgs.unar
     pkgs.btop-cuda
 
-    inputs.zen-browser.packages.${pkgs.system}.beta
+    inputs.zen-browser.packages.${pkgs.stdenv.hostPlatform.system}.beta
     pkgs.qbittorrent
     pkgs.ungoogled-chromium
     pkgs.thunderbird
