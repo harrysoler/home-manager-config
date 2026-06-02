@@ -106,6 +106,21 @@ in
   # discoverable fonts
   fonts.fontconfig.enable = true;
 
+  # TODO
+  # programs.opencode = {
+  #   enable = true;
+  #   settings = {
+  #     provider = {
+  #       npm = "@ai-sdk/openai-compatible";
+  #       name = "llama-server (local)";
+  #       options = {
+  #         baseURL = "http://127.0.0.1:8080/v1";
+  #       };
+  #     };
+  #     model = "qwen3.5-9B";
+  #   };
+  # };
+
   programs.sioyek = {
     enable = true;
     config = {
