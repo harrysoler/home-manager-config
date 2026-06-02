@@ -27,7 +27,7 @@
     home.sessionVariables = {
       HYPRCURSOR_THEME = config.hyprland.cursorTheme;
       HYPRCURSOR_SIZE = config.hyprland.cursorSize;
-      GDK_SCALE = 1.2;
+      GDK_SCALE = 1;
     };
 
     home.file = {
@@ -126,7 +126,7 @@
           "10, monitor:HDMI-A-1"
         ];
         monitor = [
-          "eDP-1,1920x1080@60,0x0,1.2"
+          "eDP-1,1920x1080@60,0x0,1"
         ];
         "$mainMod" = "WIN";
         bind = [
@@ -192,6 +192,12 @@
           ", XF86AudioMicMute, exec, volumectl -m toggle-mute"
 
           ", XF86AudioPlay, exec, playerctl play-pause"
+
+          # Workaround thinkpad p15 gen2 missing player buttons
+          ", XF86NotificationCenter, exec, playerctl play-pause"
+          ", XF86PickupPhone, exec, playerctl previous"
+          ", XF86HangupPhone, exec, playerctl next"
+
           ", XF86AudioStop, exec, playerctl stop"
           ", XF86AudioPrev, exec, playerctl previous"
           ", XF86AudioNext, exec, playerctl next"
