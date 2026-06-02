@@ -157,15 +157,6 @@ in
     settings.node.alias = "harryalex";
   };
 
-  programs.neovim = {
-    enable = true;
-    extraPackages = with pkgs; [
-        rust-analyzer
-        lua-language-server
-        gopls
-    ];
-  };
-
   programs.direnv = {
     enable = true;
     nix-direnv.enable = true;

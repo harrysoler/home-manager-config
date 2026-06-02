@@ -14,7 +14,6 @@
     pkgs.goverlay
     pkgs.vulkan-tools
 
-    pkgs.duckstation
     (pkgs.retroarch.withCores (cores: with cores; [
       mame
       fbneo
@@ -24,14 +23,14 @@
       genesis-plus-gx
     ]))
 
-    # pkgs.clonehero
-    (pkgs.clonehero.overrideAttrs (previousAttrs: {
-      version = "1.1.0.4261-PTB";
-      src = pkgs.fetchurl {
-        url = "https://github.com/clonehero-game/releases/releases/download/v1.1.0.4261-PTB/clonehero-linux.tar.xz";
-        hash = "sha256-Yfbd8TqTZ0IYxMIY5TmsxTfD/Bz/anV0dgP1v13ders=";
-      };
-    }))
+    pkgs.clonehero
+    # (pkgs.clonehero.overrideAttrs (previousAttrs: {
+    #   version = "1.1.0.4261-PTB";
+    #   src = pkgs.fetchurl {
+    #     url = "https://github.com/clonehero-game/releases/releases/download/v1.1.0.4261-PTB/clonehero-linux.tar.xz";
+    #     hash = "sha256-Yfbd8TqTZ0IYxMIY5TmsxTfD/Bz/anV0dgP1v13ders=";
+    #   };
+    # }))
 
     pkgs-unstable.protontricks
     pkgs.gamescope

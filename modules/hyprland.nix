@@ -36,6 +36,8 @@
 
     wayland.windowManager.hyprland = {
       enable = true;
+
+      configType = "lua";
       settings = {
         exec-once = [
           "${pkgs.hyprpaper}/bin/hyprpaper"

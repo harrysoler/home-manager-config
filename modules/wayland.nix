@@ -25,6 +25,7 @@
     };
 
     xdg = {
+      userDirs.setSessionVariables = false;
       mimeApps = {
         enable = true;
         defaultApplications = config.wayland.mimeAssociations;
