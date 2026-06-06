@@ -37,6 +37,7 @@
     wayland.windowManager.hyprland = {
       enable = true;
 
+      # TODO adapt config to work on lua
       configType = "lua";
       settings = {
         exec-once = [
