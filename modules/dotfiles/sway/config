@@ -39,9 +39,10 @@ input type:keyboard {
     repeat_rate 40
 }
 
+gaps inner 4
 default_border pixel 1
-client.focused #7aa2f7ff #285577 #ffffff
-client.unfocused #595959aa #222222 #888888
+client.focused #595959AA #7AA2F7 #FFFFFF #7AA2F7 
+client.unfocused #595959AA #595959AA #FFFFFF #595959AA 
 
 # Start a terminal
 bindsym $mod+q exec $term
@@ -57,21 +58,20 @@ bindsym $mod+z exec alacritty --class clipse -e clipse
 
 bindsym Print exec flameshot gui
 
-    # Drag floating windows by holding down $mod and left mouse button.
-    # Resize them with right mouse button + $mod.
-    # Despite the name, also works for non-floating windows.
-    # Change normal to inverse to use left mouse button for resizing and right
-    # mouse button for dragging.
-    floating_modifier $mod normal
+# Drag floating windows by holding down $mod and left mouse button.
+# Resize them with right mouse button + $mod.
+# Despite the name, also works for non-floating windows.
+# Change normal to inverse to use left mouse button for resizing and right
+# mouse button for dragging.
+floating_modifier $mod normal
 
-    # Reload the configuration file
-    bindsym $mod+Shift+c reload
+# Reload the configuration file
+bindsym $mod+Shift+c reload
 
-    # Exit sway (logs you out of your Wayland session)
-    bindsym $mod+Shift+m exec swaynag -t warning -m 'You pressed the exit shortcut. Do you really want to exit sway? This will end your Wayland session.' -B 'Yes, exit sway' 'swaymsg exit'
-#
+# Exit sway (logs you out of your Wayland session)
+bindsym $mod+Shift+m exec swaynag -t warning -m 'You pressed the exit shortcut. Do you really want to exit sway? This will end your Wayland session.' -B 'Yes, exit sway' 'swaymsg exit'
+
 # Moving around:
-#
     # Move your focus around
     bindsym $mod+$left focus left
     bindsym $mod+$down focus down
@@ -93,9 +93,8 @@ bindsym Print exec flameshot gui
     bindsym $mod+Shift+Down move down
     bindsym $mod+Shift+Up move up
     bindsym $mod+Shift+Right move right
-#
+
 # Workspaces:
-#
     # Switch to workspace
     bindsym $mod+1 workspace number 1
     bindsym $mod+2 workspace number 2
@@ -118,11 +117,8 @@ bindsym Print exec flameshot gui
     bindsym $mod+Shift+8 move container to workspace number 8
     bindsym $mod+Shift+9 move container to workspace number 9
     bindsym $mod+Shift+0 move container to workspace number 10
-    # Note: workspaces can have any name you want, not just numbers.
-    # We just use 1-10 as the default.
-#
+
 # Layout stuff:
-#
     # You can "split" the current object of your focus with
     # $mod+b or $mod+v, for horizontal and vertical splits
     # respectively.
@@ -190,21 +186,18 @@ bindsym --locked XF86AudioLowerVolume exec volumectl -u down
 bindsym --locked XF86AudioRaiseVolume exec volumectl -u up
 bindsym --locked XF86AudioMicMute exec volumectl -m toggle-mute
 
+bindsym --locked XF86AudioPlay exec playerctl play-pause
+
+# Workaround thinkpad p15 gen2 missing player buttons
+bindsym --locked XF86NotificationCenter exec playerctl play-pause
+bindsym --locked XF86PickupPhone exec playerctl previous
+bindsym --locked XF86HangupPhone exec playerctl next
+
+bindsym --locked XF86AudioStop exec playerctl stop
+bindsym --locked XF86AudioPrev exec playerctl previous
+bindsym --locked XF86AudioNext exec playerctl next
+
 bindsym --locked XF86MonBrightnessDown exec lightctl down 5
 bindsym --locked XF86MonBrightnessUp exec lightctl up 5
-
-bar {
-    position top
-
-    # When the status_command prints a new line to stdout, swaybar updates.
-    # The default just shows the current date and time.
-    status_command while date +'%Y-%m-%d %X'; do sleep 1; done
-
-    colors {
-        statusline #ffffff
-        background #323232
-        inactive_workspace #32323200 #32323200 #5c5c5c
-    }
-}
 
 include /etc/sway/config.d/*

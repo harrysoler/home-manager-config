@@ -1,4 +1,4 @@
-{ pkgs, ... }:
+{ pkgs, config, ... }:
 {
   home.sessionVariables = {
     SDL_VIDEODRIVER = "wayland";
@@ -8,8 +8,14 @@
     XDG_SESSION_DESKTOP = "sway";
   };
 
+  home.packages = [
+    pkgs.playerctl
+  ];
+
   home.file = {
     ".config/sway/config".source = ./dotfiles/sway/config;
+    # uncomment if want hot reloading
+    # ".config/sway/config".source = config.lib.file.mkOutOfStoreSymlink "${config.xdg.configHome}/home-manager/modules/dotfiles/sway/config";
     ".config/sway/wallpaper.png".source = ../assets/a10.png;
   };
 
