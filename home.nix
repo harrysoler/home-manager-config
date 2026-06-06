@@ -21,8 +21,8 @@ in
   imports = [
     ./modules/bash.nix
     ./modules/wayland.nix
-    ./modules/hyprland.nix
-    # ./modules/sway.nix
+    # ./modules/hyprland.nix
+    ./modules/sway.nix
     ./modules/gnome.nix
     ./modules/theme.nix
     ./modules/rofi.nix
@@ -36,10 +36,10 @@ in
 
   wayland.mimeAssociations = mimeAssociations;
 
-  hyprland = {
-    cursorTheme = config.theme.cursorTheme;
-    cursorSize = config.theme.cursorSize;
-  };
+  # hyprland = {
+  #   cursorTheme = config.theme.cursorTheme;
+  #   cursorSize = config.theme.cursorSize;
+  # };
 
   nixpkgs.config.allowUnfree = true;
   home.username = "harry";
@@ -76,11 +76,11 @@ in
     pkgs.rnote
     pkgs.imv
     pkgs.mpv
+
     pkgs.beeref
+    pkgs.blender
 
     pkgs-unstable.yaak
-    pkgs.lazysql
-    pkgs.arduino-ide
     pkgs.xh
   ];
 
