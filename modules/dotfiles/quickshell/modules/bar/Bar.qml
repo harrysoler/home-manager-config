@@ -38,7 +38,12 @@ PanelWindow {
 
         Clock {}
         Workspaces {
+            isWorkspaceOccupied: I3.isWorkspaceOccupied
+            shiftWorkspace: I3.shiftWorkspace
+            switchToWorkspace: I3.switchToWorkspace
+
             horizontalPadding: root.horizontalPadding
+            currentWorkspaceIndex: I3.activeWorkspaceId
         }
     }
 

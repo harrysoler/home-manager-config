@@ -8,11 +8,9 @@ Item {
     id: root
 
     required property int index
-    required property var occupiedWorkspaces
+    required property bool isOccupied
 
     readonly property int workspaceId: index + 1
-    readonly property bool isOccupied: occupiedWorkspaces[workspaceId] ?? false
-    readonly property bool isActive: Hyprland.activeWorkspaceId === workspaceId
 
     readonly property WorkspaceAssets workspaceAssets: WorkspaceAssets {}
 
@@ -46,7 +44,6 @@ Item {
         }
 
         function getColor(): color {
-            // return (root.isActive || root.isOccupied) ? activeColor : inactiveColor
             return root.isOccupied ? activeColor : inactiveColor
         }
     }

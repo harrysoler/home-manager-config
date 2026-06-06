@@ -9,13 +9,12 @@ import QtQuick
 Item {
     id: root
 
-    required property int horizontalPadding
+    required property var isWorkspaceOccupied
+    required property var switchToWorkspace
+    required property var shiftWorkspace
 
-    readonly property var occupiedWorkspaces: Hyprland.workspaces.values.reduce((acc, curr) => {
-        acc[curr.id] = curr.lastIpcObject.windows > 0;
-        return acc;
-    }, {})
-    readonly property int currentWorkspaceIndex: Hyprland.activeWorkspaceId
+    required property int currentWorkspaceIndex
+    required property int horizontalPadding
 
     implicitHeight: layout.implicitHeight
     Layout.alignment: Qt.AlignCenter
@@ -34,7 +33,7 @@ Item {
             model: Config.bar.workspaces.shown
 
             Workspace {
-                occupiedWorkspaces: root.occupiedWorkspaces
+                isOccupied: isWorkspaceOccupied(index)
             }
         }
     }
@@ -54,7 +53,7 @@ Item {
             if (typeof(layout.childAt(event.x, event.y)?.index) !== "undefined") {
                 const pressedWorkspace = layout.childAt(event.x, event.y)?.index + 1;
                 if (root.currentWorkspaceIndex !== pressedWorkspace)
-                    Hyprland.switchToWorkspace(pressedWorkspace)
+                    switchToWorkspace(pressedWorkspace)
             }
         }
 
@@ -63,7 +62,7 @@ Item {
                 return;
             }
 
-            Hyprland.shiftWorkspace(event.angleDelta.y < 0)
+            shiftWorkspace(event.angleDelta.y < 0)
         }
     }
 }

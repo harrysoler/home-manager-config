@@ -10,7 +10,7 @@ StyledRect {
     required property real spacing
     required property int indicatorWidth
 
-    readonly property int currentWorkspaceIndex: Hyprland.activeWorkspaceId - 1
+    readonly property int currentWorkspaceIndex: I3.activeWorkspaceId - 1
     property real offset: (currentWorkspaceIndex * workspaceButtonHeight) + (currentWorkspaceIndex * spacing)
 
     x: -indicatorWidth

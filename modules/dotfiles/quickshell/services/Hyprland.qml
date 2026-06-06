@@ -12,6 +12,10 @@ Singleton {
     readonly property HyprlandToplevel activeToplevel: Hyprland.activeToplevel
     readonly property int activeWorkspaceId: focusedWorkspace?.id ?? 1
 
+    function isWorkspaceOccupied(workspace: int): bool {
+        return workspaces.values[workspace].lastIpcObject.windows > 0
+    }
+
     function switchToWorkspace(workspace: int): void {
         Hyprland.dispatch(`workspace ${workspace}`)
     }
