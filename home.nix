@@ -82,6 +82,9 @@ in
 
     pkgs-unstable.yaak
     pkgs.xh
+
+    pkgs.pi-coding-agent
+    pkgs.zed-editor
   ];
 
   home.file = {
@@ -107,19 +110,37 @@ in
   fonts.fontconfig.enable = true;
 
   # TODO
-  # programs.opencode = {
-  #   enable = true;
-  #   settings = {
-  #     provider = {
-  #       npm = "@ai-sdk/openai-compatible";
-  #       name = "llama-server (local)";
-  #       options = {
-  #         baseURL = "http://127.0.0.1:8080/v1";
-  #       };
-  #     };
-  #     model = "qwen3.5-9B";
-  #   };
-  # };
+  programs.opencode = {
+    enable = true;
+    settings = {
+      model = "llama.cpp/qwen3.6-35b:a3b";
+      small_model = "llama.cpp/qwen3.6-35b:a3b";
+      enabled_providers = [
+        "llama.cpp"
+      ];
+      permission = {
+        "*" = "ask";
+      };
+      provider = {
+        "llama-cpp" = {
+          npm = "@ai-sdk/openai-compatible";
+          name = "llama-server (local)";
+          options = {
+            baseURL = "http://127.0.0.1:8001/v1";
+          };
+          models = {
+            "qwen3.6-35b:a3b" = {
+              name = "Qwen 3.6 35B:A3B GGUF";
+              limit = {
+                context = 128000;
+                output = 65535;
+              };
+            };
+          };
+        };
+      };
+    };
+  };
 
   programs.sioyek = {
     enable = true;
