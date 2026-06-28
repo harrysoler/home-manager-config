@@ -82,6 +82,7 @@ in
 
     pkgs-unstable.yaak
     pkgs.xh
+    pkgs.sqlit-tui
 
     pkgs.pi-coding-agent
     pkgs.zed-editor
@@ -109,9 +110,9 @@ in
   # discoverable fonts
   fonts.fontconfig.enable = true;
 
-  # TODO
   programs.opencode = {
     enable = true;
+    package = pkgs-unstable.opencode;
     settings = {
       model = "llama.cpp/qwen3.6-35b:a3b";
       small_model = "llama.cpp/qwen3.6-35b:a3b";
@@ -120,9 +121,11 @@ in
       ];
       permission = {
         "*" = "ask";
+        "glob" = "allow";
+        "read" = "allow";
       };
       provider = {
-        "llama-cpp" = {
+        "llama.cpp" = {
           npm = "@ai-sdk/openai-compatible";
           name = "llama-server (local)";
           options = {
