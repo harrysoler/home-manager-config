@@ -12,9 +12,14 @@ Singleton {
     readonly property int activeWorkspaceId: focusedWorkspace?.number ?? 1
 
     function isWorkspaceOccupied(workspaceId: int): bool {
-        var ipcObject = workspaces.values
+        var workspace = workspaces.values
             .find((workspace) => workspace.number == workspaceId + 1)
-            .lastIpcObject
+
+        if (!workspace) {
+            return false
+        }
+
+        var ipcObject = workspace.lastIpcObject
 
         if (!ipcObject) {
             return false
